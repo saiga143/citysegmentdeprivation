@@ -1,0 +1,13 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+guatemala,0.1,Guatemala City,1395,461,131,133
+guatemala,0.1,La Leyenda,3,1,0,0
+guatemala,0.1,San José Pinula,59,18,3,4
+guatemala,0.1,San Juan Sacatepéquez,32,16,0,0
+guatemala,0.2,Guatemala City,1395,461,92,53
+guatemala,0.2,La Leyenda,3,1,0,0
+guatemala,0.2,San José Pinula,59,18,2,0
+guatemala,0.2,San Juan Sacatepéquez,32,16,0,0
+guatemala,0.3,Guatemala City,1395,461,67,28
+guatemala,0.3,La Leyenda,3,1,0,0
+guatemala,0.3,San José Pinula,59,18,1,0
+guatemala,0.3,San Juan Sacatepéquez,32,16,0,0

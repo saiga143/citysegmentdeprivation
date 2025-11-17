@@ -1,0 +1,40 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+indonesia,0.1,Arjawinangun,156,44,6,9
+indonesia,0.1,Babakan,318,6,5,14
+indonesia,0.1,Cirebon,1369,139,84,136
+indonesia,0.1,Karangsembung,69,0,5,10
+indonesia,0.1,Kuningan,420,4,0,0
+indonesia,0.1,Lepar Samura,71,0,0,0
+indonesia,0.1,Lubuk Pakam,109,0,90,78
+indonesia,0.1,Medan,3537,49,3028,3006
+indonesia,0.1,Palembang,1447,56,480,869
+indonesia,0.1,Pare-Pare,118,2,50,71
+indonesia,0.1,Pematang Siantar,359,5,278,283
+indonesia,0.1,Stabat,75,0,0,0
+indonesia,0.1,Tebing Tinggi,221,1,0,0
+indonesia,0.2,Arjawinangun,156,44,1,0
+indonesia,0.2,Babakan,318,6,0,0
+indonesia,0.2,Cirebon,1369,139,18,1
+indonesia,0.2,Karangsembung,69,0,3,0
+indonesia,0.2,Kuningan,420,4,0,0
+indonesia,0.2,Lepar Samura,71,0,0,0
+indonesia,0.2,Lubuk Pakam,109,0,55,20
+indonesia,0.2,Medan,3537,49,2697,1965
+indonesia,0.2,Palembang,1447,56,267,76
+indonesia,0.2,Pare-Pare,118,2,24,4
+indonesia,0.2,Pematang Siantar,359,5,225,153
+indonesia,0.2,Stabat,75,0,0,0
+indonesia,0.2,Tebing Tinggi,221,1,0,0
+indonesia,0.3,Arjawinangun,156,44,1,0
+indonesia,0.3,Babakan,318,6,0,0
+indonesia,0.3,Cirebon,1369,139,6,0
+indonesia,0.3,Karangsembung,69,0,1,0
+indonesia,0.3,Kuningan,420,4,0,0
+indonesia,0.3,Lepar Samura,71,0,0,0
+indonesia,0.3,Lubuk Pakam,109,0,37,0
+indonesia,0.3,Medan,3537,49,2372,769
+indonesia,0.3,Palembang,1447,56,150,2
+indonesia,0.3,Pare-Pare,118,2,10,0
+indonesia,0.3,Pematang Siantar,359,5,187,57
+indonesia,0.3,Stabat,75,0,0,0
+indonesia,0.3,Tebing Tinggi,221,1,0,0

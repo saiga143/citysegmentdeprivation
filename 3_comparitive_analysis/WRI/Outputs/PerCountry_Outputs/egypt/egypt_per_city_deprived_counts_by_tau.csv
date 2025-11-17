@@ -1,0 +1,31 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+egypt,0.1,6th of October,128,0,93,79
+egypt,0.1,Aghour Al-Kubra,102,11,0,0
+egypt,0.1,Al Ayyat,51,8,0,0
+egypt,0.1,Alexandria,6319,2340,1281,1298
+egypt,0.1,Ashmoun,219,15,0,0
+egypt,0.1,Cairo,20438,8365,12520,14031
+egypt,0.1,El Showeifat District,39,0,29,16
+egypt,0.1,Kafr Awn,66,6,0,0
+egypt,0.1,Kafr Sarawa,81,16,0,0
+egypt,0.1,Kafr al Dayr,32,1,0,0
+egypt,0.2,6th of October,128,0,77,33
+egypt,0.2,Aghour Al-Kubra,102,11,0,0
+egypt,0.2,Al Ayyat,51,8,0,0
+egypt,0.2,Alexandria,6319,2340,1054,684
+egypt,0.2,Ashmoun,219,15,0,0
+egypt,0.2,Cairo,20438,8365,11456,10222
+egypt,0.2,El Showeifat District,39,0,14,0
+egypt,0.2,Kafr Awn,66,6,0,0
+egypt,0.2,Kafr Sarawa,81,16,0,0
+egypt,0.2,Kafr al Dayr,32,1,0,0
+egypt,0.3,6th of October,128,0,61,8
+egypt,0.3,Aghour Al-Kubra,102,11,0,0
+egypt,0.3,Al Ayyat,51,8,0,0
+egypt,0.3,Alexandria,6319,2340,912,285
+egypt,0.3,Ashmoun,219,15,0,0
+egypt,0.3,Cairo,20438,8365,10592,6917
+egypt,0.3,El Showeifat District,39,0,7,0
+egypt,0.3,Kafr Awn,66,6,0,0
+egypt,0.3,Kafr Sarawa,81,16,0,0
+egypt,0.3,Kafr al Dayr,32,1,0,0

@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+ghana,0.1,Accra,4641,525,4094,4125
+ghana,0.1,Nsawam,29,1,0,0
+ghana,0.2,Accra,4641,525,3924,3517
+ghana,0.2,Nsawam,29,1,0,0
+ghana,0.3,Accra,4641,525,3745,2255
+ghana,0.3,Nsawam,29,1,0,0

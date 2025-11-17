@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+ecuador,0.1,Quito,2174,354,232,177
+ecuador,0.1,Tumbaco,52,1,5,3
+ecuador,0.2,Quito,2174,354,148,40
+ecuador,0.2,Tumbaco,52,1,2,0
+ecuador,0.3,Quito,2174,354,110,4
+ecuador,0.3,Tumbaco,52,1,0,0

@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+el_salvador,0.1,San Salvador,935,226,158,124
+el_salvador,0.2,San Salvador,935,226,89,26
+el_salvador,0.3,San Salvador,935,226,60,4

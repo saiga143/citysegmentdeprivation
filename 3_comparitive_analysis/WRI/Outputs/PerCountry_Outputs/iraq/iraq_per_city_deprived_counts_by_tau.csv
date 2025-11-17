@@ -1,0 +1,25 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+iraq,0.1,As Suwayrah,73,0,0,0
+iraq,0.1,At Tarimiyah,228,35,195,192
+iraq,0.1,Baghdad,6293,673,4345,4862
+iraq,0.1,Bani Saad,41,1,0,0
+iraq,0.1,Baqubah,112,0,0,0
+iraq,0.1,Hamdi al Bajaji,52,0,25,19
+iraq,0.1,Husainīya,165,0,111,108
+iraq,0.1,Saab Al Bour,66,0,65,62
+iraq,0.2,As Suwayrah,73,0,0,0
+iraq,0.2,At Tarimiyah,228,35,188,173
+iraq,0.2,Baghdad,6293,673,3907,3297
+iraq,0.2,Bani Saad,41,1,0,0
+iraq,0.2,Baqubah,112,0,0,0
+iraq,0.2,Hamdi al Bajaji,52,0,18,10
+iraq,0.2,Husainīya,165,0,108,101
+iraq,0.2,Saab Al Bour,66,0,62,53
+iraq,0.3,As Suwayrah,73,0,0,0
+iraq,0.3,At Tarimiyah,228,35,181,147
+iraq,0.3,Baghdad,6293,673,3498,1756
+iraq,0.3,Bani Saad,41,1,0,0
+iraq,0.3,Baqubah,112,0,0,0
+iraq,0.3,Hamdi al Bajaji,52,0,13,7
+iraq,0.3,Husainīya,165,0,107,78
+iraq,0.3,Saab Al Bour,66,0,58,38

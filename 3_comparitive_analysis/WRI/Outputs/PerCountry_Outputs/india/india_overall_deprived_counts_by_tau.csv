@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+india,0.1,54821,10372,44449,23851,26185
+india,0.2,54821,10372,44449,20516,14956
+india,0.3,54821,10372,44449,18052,7717

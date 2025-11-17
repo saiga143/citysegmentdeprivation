@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+el_salvador,0.1,935,226,709,158,124
+el_salvador,0.2,935,226,709,89,26
+el_salvador,0.3,935,226,709,60,4

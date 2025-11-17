@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+ghana,0.1,4670,526,4144,4094,4125
+ghana,0.2,4670,526,4144,3924,3517
+ghana,0.3,4670,526,4144,3745,2255

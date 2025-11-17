@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+ethiopia,0.1,Addis Ababa,5334,2526,1390,1641
+ethiopia,0.2,Addis Ababa,5334,2526,1072,619
+ethiopia,0.3,Addis Ababa,5334,2526,888,210

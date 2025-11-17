@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+iraq,0.1,7030,709,6321,4741,5243
+iraq,0.2,7030,709,6321,4283,3634
+iraq,0.3,7030,709,6321,3857,2026

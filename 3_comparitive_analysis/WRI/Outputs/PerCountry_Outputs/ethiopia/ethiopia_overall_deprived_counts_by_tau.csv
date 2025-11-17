@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+ethiopia,0.1,5334,2526,2808,1390,1641
+ethiopia,0.2,5334,2526,2808,1072,619
+ethiopia,0.3,5334,2526,2808,888,210

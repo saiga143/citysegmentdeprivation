@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+ecuador,0.1,2226,355,1871,237,180
+ecuador,0.2,2226,355,1871,150,40
+ecuador,0.3,2226,355,1871,110,4
