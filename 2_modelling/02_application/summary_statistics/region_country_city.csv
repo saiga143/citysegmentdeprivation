@@ -1,0 +1,5143 @@
+Region,Country,City
+Asia,afghanistan,Bagram
+Asia,afghanistan,Chaman
+Asia,afghanistan,Charikar
+Asia,afghanistan,Farah
+Asia,afghanistan,Guzarah
+Asia,afghanistan,Herat
+Asia,afghanistan,Injerak
+Asia,afghanistan,Jalalabad
+Asia,afghanistan,Kabul
+Asia,afghanistan,Kandahar
+Asia,afghanistan,Khanabad
+Asia,afghanistan,Kunduz
+Asia,afghanistan,Lashkar Gah
+Asia,afghanistan,Maymana
+Asia,afghanistan,Mazar i sharif
+Asia,afghanistan,Puli Khumri
+Asia,afghanistan,Pul-i-Alam
+Asia,afghanistan,Sheberghan
+Asia,afghanistan,Taloqan
+Asia,afghanistan,Zaranj
+Asia,philippines,Angeles [San Fernando]
+Asia,philippines,Apalit
+Asia,philippines,Arayat
+Asia,philippines,Bacolod
+Asia,philippines,Baguio
+Asia,philippines,Balanga
+Asia,philippines,Bamban
+Asia,philippines,Batangas City
+Asia,philippines,Bayambang
+Asia,philippines,Bayombong
+Asia,philippines,Binangonan
+Asia,philippines,Butuan
+Asia,philippines,Cabanatuan
+Asia,philippines,Cadiz
+Asia,philippines,Cagayan de Oro
+Asia,philippines,Calbayog
+Asia,philippines,Calumpit
+Asia,philippines,Candelaria
+Asia,philippines,Catbalogan
+Asia,philippines,Cawit
+Asia,philippines,Cebu City
+Asia,philippines,Cotabato
+Asia,philippines,Daet
+Asia,philippines,Dagupan
+Asia,philippines,Davao City
+Asia,philippines,Digos
+Asia,philippines,Dinalaoan
+Asia,philippines,Dinalupihan
+Asia,philippines,Dipolog
+Asia,philippines,Dumaguete
+Asia,philippines,Gapan
+Asia,philippines,General Santos
+Asia,philippines,Hagonoy
+Asia,philippines,Iligan
+Asia,philippines,Iloilo City
+Asia,philippines,Iriga
+Asia,philippines,Jolo
+Asia,philippines,Kalibo
+Asia,philippines,Koronadal
+Asia,philippines,Laoag
+Asia,philippines,Legazpi
+Asia,philippines,Lemery
+Asia,philippines,Lingayen
+Asia,philippines,Lipa
+Asia,philippines,Lubao
+Asia,philippines,Lucena
+Asia,philippines,Macabebe
+Asia,philippines,Marawi
+Asia,philippines,Masbate City
+Asia,philippines,Naga
+Asia,philippines,Nasugbu
+Asia,philippines,Olongapo
+Asia,philippines,Orani
+Asia,philippines,Ormoc
+Asia,philippines,Ozamiz
+Asia,philippines,Pagadian
+Asia,philippines,Polomolok
+Asia,philippines,Puerto Princesa
+Asia,philippines,Quezon City [Manila]
+Asia,philippines,Roxas City
+Asia,philippines,Santa Cruz
+Asia,philippines,Santiago
+Asia,philippines,San Carlos
+Asia,philippines,San Fernando
+Asia,philippines,San Jose
+Asia,philippines,San Pablo
+Asia,philippines,Sorsogon City
+Asia,philippines,Subic
+Asia,philippines,Surigao City
+Asia,philippines,Tabaco
+Asia,philippines,Tacloban
+Asia,philippines,Tagbilaran
+Asia,philippines,Tagum
+Asia,philippines,Tanay
+Asia,philippines,Tarlac City
+Asia,philippines,Trece Martires
+Asia,philippines,Tuguegarao
+Asia,philippines,Urdaneta
+Asia,philippines,Valencia
+Asia,philippines,Vigan
+Asia,philippines,Zamboanga City
+Africa,senegal,Bambey
+Africa,senegal,Bignona
+Africa,senegal,Dagana
+Africa,senegal,Dahra Djoloff
+Africa,senegal,Dakar
+Africa,senegal,Darou Mousti
+Africa,senegal,Diourbel
+Africa,senegal,Fatick
+Africa,senegal,Gossas
+Africa,senegal,Guinguinéo
+Africa,senegal,Kaffrine
+Africa,senegal,Kaolack
+Africa,senegal,Kolda
+Africa,senegal,Louga
+Africa,senegal,Madina Gounass
+Africa,senegal,MBour
+Africa,senegal,Richard-Toll
+Africa,senegal,Saint-Louis
+Africa,senegal,Sédhiou
+Africa,senegal,Tambacounda
+Africa,senegal,Thiès
+Africa,senegal,Tivaouane
+Africa,senegal,Touba
+Africa,senegal,Vélingara
+Africa,senegal,Ziguinchor
+Africa,somalia,Baidoa
+Africa,somalia,Beledweyne
+Africa,somalia,Berbera
+Africa,somalia,Borama
+Africa,somalia,Bosaso
+Africa,somalia,Burao
+Africa,somalia,Erigavo
+Africa,somalia,Galkayo
+Africa,somalia,Garoowe
+Africa,somalia,Hargeisa
+Africa,somalia,Kismayo
+Africa,somalia,Las Anod
+Africa,somalia,Merca
+Africa,somalia,Mogadishu
+Africa,somalia,Qardho City
+Asia,sri_lanka,Akkaraipattu
+Asia,sri_lanka,Ambalangoda
+Asia,sri_lanka,Badulla
+Asia,sri_lanka,Batticaloa
+Asia,sri_lanka,Colombo
+Asia,sri_lanka,Galle
+Asia,sri_lanka,Gampola
+Asia,sri_lanka,Horana
+Asia,sri_lanka,Jaffna
+Asia,sri_lanka,Kalmunai
+Asia,sri_lanka,Kandy
+Asia,sri_lanka,Matale
+Asia,sri_lanka,Matara
+Asia,sri_lanka,Poojapitiya
+Asia,sri_lanka,Rathnapura
+Asia,sri_lanka,Sammanturai
+Asia,sri_lanka,Tamaraivillu
+Asia,sri_lanka,Trincomalee
+Asia,sri_lanka,Valaichchenai EP
+Asia,sri_lanka,Wennappuwa
+Africa,algeria,Adrar
+Africa,algeria,Aflou
+Africa,algeria,Ain Beida
+Africa,algeria,Ain Defla
+Africa,algeria,Ain Fakroun
+Africa,algeria,Ain Mlila
+Africa,algeria,Aïn Oulmane
+Africa,algeria,Ain Oussara
+Africa,algeria,Ain Sefra
+Africa,algeria,Ain Temouchent
+Africa,algeria,Aïn Touta
+Africa,algeria,Ain Turk
+Africa,algeria,Algiers
+Africa,algeria,Ali Mendjeli
+Africa,algeria,Annaba
+Africa,algeria,Arzew
+Africa,algeria,Ash Shalif
+Africa,algeria,Barika
+Africa,algeria,Bashar
+Africa,algeria,Batna
+Africa,algeria,Bejaia
+Africa,algeria,Berrouaghia
+Africa,algeria,Bir El Ater
+Africa,algeria,Biskra
+Africa,algeria,Blida
+Africa,algeria,Bordj Bou Arreridjj
+Africa,algeria,Bordj Menaiel
+Africa,algeria,Boufarik
+Africa,algeria,Bougara
+Africa,algeria,Bouira
+Africa,algeria,Bou Saada
+Africa,algeria,Chelghoum Laid
+Africa,algeria,Cheria
+Africa,algeria,Chettia
+Africa,algeria,Constantine
+Africa,algeria,Djelfa
+Africa,algeria,El Abiodh Sidi Cheikh
+Africa,algeria,El Eulma
+Africa,algeria,El Khroub
+Africa,algeria,El Menia
+Africa,algeria,El Oued
+Africa,algeria,Frenda
+Africa,algeria,Ghardaia
+Africa,algeria,Guelma
+Africa,algeria,Guerrara
+Africa,algeria,Hassi Bahbah
+Africa,algeria,Hassi Bounif
+Africa,algeria,Jijel
+Africa,algeria,Khemis El Khechna
+Africa,algeria,Khemis Miliana
+Africa,algeria,Khenchela
+Africa,algeria,Kolea القليعة
+Africa,algeria,Ksar Chellala
+Africa,algeria,Ksar El Boukhari
+Africa,algeria,Laghouat
+Africa,algeria,Larbaa
+Africa,algeria,Maghnia
+Africa,algeria,Mascara
+Africa,algeria,Mecheria
+Africa,algeria,Medea
+Africa,algeria,Meftah
+Africa,algeria,Messaad
+Africa,algeria,Mila
+Africa,algeria,Mohammadia
+Africa,algeria,Mostaganem
+Africa,algeria,M'Daourouch
+Africa,algeria,M'Sila
+Africa,algeria,Oran
+Africa,algeria,Ouargla
+Africa,algeria,Oued Rhiou
+Africa,algeria,Ouled Djellal
+Africa,algeria,Oum El Bouaghi
+Africa,algeria,Ras El Oued
+Africa,algeria,Relizane
+Africa,algeria,Saida
+Africa,algeria,Sedrata
+Africa,algeria,Setif
+Africa,algeria,Sidi Aissa
+Africa,algeria,Sidi Bel Abbes
+Africa,algeria,Sig
+Africa,algeria,Skikda
+Africa,algeria,Sougueur
+Africa,algeria,Souk Ahras
+Africa,algeria,Tadjenanet
+Africa,algeria,Tebessa
+Africa,algeria,Tiaret
+Africa,algeria,Tinduf
+Africa,algeria,Tissemsilt
+Africa,algeria,Tizi Ouzou
+Africa,algeria,Tlemcen
+Africa,algeria,Touggourt
+Africa,algeria,Tulqa
+Oceania,solomon_islands,Honiara
+Africa,south_sudan,Bor
+Africa,south_sudan,Juba
+Africa,south_sudan,Malakal
+Africa,south_sudan,Renk
+Africa,south_sudan,Wau
+Africa,south_sudan,Yambio
+Africa,south_sudan,Yei
+Latin America and the Caribbean,suriname,Paramaribo
+Africa,swaziland,Manzini
+Africa,swaziland,Matsapha
+Africa,angola,Andulo
+Africa,angola,Bailundo
+Africa,angola,Balombo
+Africa,angola,Benguela
+Africa,angola,Cabinda
+Africa,angola,Caconda
+Africa,angola,Cafunfo
+Africa,angola,Calilongue
+Africa,angola,Calulo
+Africa,angola,Camacupa
+Africa,angola,Caxito
+Africa,angola,Cazombo
+Africa,angola,Chitembo
+Africa,angola,Cubal
+Africa,angola,Dundo
+Africa,angola,Gabela
+Africa,angola,Ganda
+Africa,angola,Huambo
+Africa,angola,Kuito
+Africa,angola,Lobito
+Africa,angola,Luanda
+Africa,angola,Luau
+Africa,angola,Lubango
+Africa,angola,Lucapa
+Africa,angola,Luena
+Africa,angola,Malanje
+Africa,angola,Matala
+Africa,angola,Menongue
+Africa,angola,M'banza Congo
+Africa,angola,Namibe
+Africa,angola,Negage
+Africa,angola,N'dalatando
+Africa,angola,Panguila
+Africa,angola,Porto Amboim
+Africa,angola,Saurimo
+Africa,angola,Soyo
+Africa,angola,Sumbe
+Africa,angola,Uíge
+Africa,angola,N/A
+Africa,angola,Vila Nova do Seles
+Africa,angola,Waku Kungo
+Africa,south_africa,Atlantis
+Africa,south_africa,Azaadville
+Africa,south_africa,Bethlehem
+Africa,south_africa,Bloemfontein
+Africa,south_africa,Botshabelo
+Africa,south_africa,Botshabelo Rural
+Africa,south_africa,Bronville
+Africa,south_africa,Cape Town
+Africa,south_africa,Centurion
+Africa,south_africa,Daveyton
+Africa,south_africa,De Rust Caravan Park
+Africa,south_africa,Diepsloot
+Africa,south_africa,Durban
+Africa,south_africa,East London
+Africa,south_africa,Edendale
+Africa,south_africa,eGobhoza
+Africa,south_africa,eHlau-Hlau
+Africa,south_africa,Emalahleni
+Africa,south_africa,eMbalenhle
+Africa,south_africa,Ermelo
+Africa,south_africa,Evaton
+Africa,south_africa,Ezakheni
+Africa,south_africa,Ga-Rankuwa
+Africa,south_africa,George
+Africa,south_africa,Johannesburg
+Africa,south_africa,Jouberton
+Africa,south_africa,Khutsong
+Africa,south_africa,Kimberley
+Africa,south_africa,Klipgat
+Africa,south_africa,Komani (Queenstown)
+Africa,south_africa,Kroonstad
+Africa,south_africa,Kutlwanong
+Africa,south_africa,KwaMhlanga
+Africa,south_africa,KwaNobuhle 1
+Africa,south_africa,Lenasia
+Africa,south_africa,Lenasia South
+Africa,south_africa,Lilian Ngoyi Village
+Africa,south_africa,Mafikeng
+Africa,south_africa,Makhanda (Grahamstown)
+Africa,south_africa,Mankweng
+Africa,south_africa,Middelburg
+Africa,south_africa,Midrand
+Africa,south_africa,Mnandi A.H.
+Africa,south_africa,Modderspruit
+Africa,south_africa,Mokopane
+Africa,south_africa,Mossel Bay
+Africa,south_africa,Mpumalanga
+Africa,south_africa,Naas
+Africa,south_africa,Osizweni
+Africa,south_africa,Oudtshoorn
+Africa,south_africa,Paardekraal
+Africa,south_africa,Paarl
+Africa,south_africa,Phuthaditjhaba
+Africa,south_africa,Pietermaritzburg
+Africa,south_africa,Polokwane
+Africa,south_africa,Port Elizabeth
+Africa,south_africa,Potchefstroom
+Africa,south_africa,Pretoria
+Africa,south_africa,Rustenburg
+Africa,south_africa,Salubindza
+Africa,south_africa,Sasolburg
+Africa,south_africa,Sikhalasenkosi
+Africa,south_africa,Somerset West
+Africa,south_africa,Standerton
+Africa,south_africa,Stanger
+Africa,south_africa,Stellenbosch
+Africa,south_africa,Stesa AH
+Africa,south_africa,Tongaat
+Africa,south_africa,Tsakane
+Africa,south_africa,Uitenhage
+Africa,south_africa,Vanderbijlpark
+Africa,south_africa,Vosman
+Africa,south_africa,Wells Estate
+Africa,south_africa,Worcester
+Africa,tanzania,Arusha
+Africa,tanzania,Bukala
+Africa,tanzania,Bukoba
+Africa,tanzania,Bunda
+Africa,tanzania,Dar es Salaam
+Africa,tanzania,DAR ES SALAAM
+Africa,tanzania,Dodoma
+Africa,tanzania,Geita
+Africa,tanzania,Iwambi
+Africa,tanzania,Kahama
+Africa,tanzania,Katoro
+Africa,tanzania,Kilima Hewa
+Africa,tanzania,Kyela
+Africa,tanzania,Makambako
+Africa,tanzania,Mbeya
+Africa,tanzania,Mirerani
+Africa,tanzania,Morogoro
+Africa,tanzania,Mpanda
+Africa,tanzania,Mtwara
+Africa,tanzania,Murubona
+Africa,tanzania,Musoma
+Africa,tanzania,Mwanza
+Africa,tanzania,Nansio
+Africa,tanzania,Ndiuka
+Africa,tanzania,Nzega
+Africa,tanzania,Picha Ya Ndege
+Africa,tanzania,Shinyanga
+Africa,tanzania,Singida
+Africa,tanzania,Songea
+Africa,tanzania,Sumbawanga
+Africa,tanzania,Tabora
+Africa,tanzania,Tanga
+Africa,tanzania,N/A
+Africa,tanzania,Vwawa
+Africa,tanzania,Zanzibar City
+Africa,sudan,Abu Zabad
+Africa,sudan,Ad-Damazin
+Africa,sudan,ad-Damer
+Africa,sudan,Ad Da'ein
+Africa,sudan,Al-Fashir
+Africa,sudan,Al Hasahisa
+Africa,sudan,Al Hilaliyah
+Africa,sudan,Al Kamilin
+Africa,sudan,Al Managil
+Africa,sudan,Al-Qadarif
+Africa,sudan,Al Rahad
+Africa,sudan,Al-Ubayyid
+Africa,sudan,Atbara
+Africa,sudan,Baqayr al Quddami
+Africa,sudan,Barah
+Africa,sudan,Dilling
+Africa,sudan,Dongola
+Africa,sudan,El Suki
+Africa,sudan,En Nahud
+Africa,sudan,Er Roseires
+Africa,sudan,For Baranga
+Africa,sudan,Geneina
+Africa,sudan,Ghaliya
+Africa,sudan,Giad Industrial Complex
+Africa,sudan,Jebel Aulia
+Africa,sudan,Kaduqli
+Africa,sudan,Kas
+Africa,sudan,Kassala
+Africa,sudan,Kebkabiya
+Africa,sudan,Khartoum
+Africa,sudan,Khashm El Girba
+Africa,sudan,Kosti
+Africa,sudan,Mellit
+Africa,sudan,Muglad
+Africa,sudan,New Halfa
+Africa,sudan,Nyala
+Africa,sudan,Port Sudan
+Africa,sudan,Rabak
+Africa,sudan,Sennar
+Africa,sudan,Shendi
+Africa,sudan,Singa
+Africa,sudan,Umm Ruwaba
+Africa,sudan,N/A
+Africa,sudan,أش شلال
+Africa,sudan,Wad Madanī
+Africa,sudan,Zalingei
+Latin America and the Caribbean,belize,Belize City
+Asia,tajikistan,Danghara
+Asia,tajikistan,Dushanbe
+Asia,tajikistan,Ghafurov
+Asia,tajikistan,Hisor
+Asia,tajikistan,Isfara
+Asia,tajikistan,Khistevarz
+Asia,tajikistan,Khorugh
+Asia,tajikistan,Khujand
+Asia,tajikistan,Kulob
+Asia,tajikistan,Proletar
+Asia,tajikistan,Qabodiyon
+Asia,tajikistan,Shahrinav
+Asia,tajikistan,N/A
+Asia,tajikistan,Vahdat
+Asia,tajikistan,Vakhsh
+Asia,syria,Abu Kamal
+Asia,syria,Aleppo
+Asia,syria,Al-Hasakah
+Asia,syria,Al Qurayya
+Asia,syria,Al-Tabqah
+Asia,syria,Ar Raqqah
+Asia,syria,As Safirah
+Asia,syria,As Suwayda
+Asia,syria,Baniyas
+Asia,syria,Bza`a
+Asia,syria,Damascus
+Asia,syria,Deir Ez Zor
+Asia,syria,Halfaya
+Asia,syria,Hama
+Asia,syria,Homs
+Asia,syria,Idlib
+Asia,syria,Jablah
+Asia,syria,Kobani
+Asia,syria,Latakia
+Asia,syria,Manbij
+Asia,syria,Qamishli
+Asia,syria,Tartus
+Asia,syria,`Uthman
+Asia,syria,Yaaroubia
+Africa,togo,Aného
+Africa,togo,Anié
+Africa,togo,Atakpamé
+Africa,togo,Bassar
+Africa,togo,Kara
+Africa,togo,Kpalimé
+Africa,togo,Lomé
+Africa,togo,Notsé
+Africa,togo,Sokodé
+Africa,togo,Tchamba
+Africa,togo,Tsévié
+Asia,timor_leste,Dili
+Asia,thailand,Bangkok
+Asia,thailand,Ban Map Ta Phut
+Asia,thailand,Chachoengsao
+Asia,thailand,Chanthaburi
+Asia,thailand,Chiang Mai
+Asia,thailand,Chiang Rai
+Asia,thailand,Chonburi
+Asia,thailand,Chumphon
+Asia,thailand,Hat Yai
+Asia,thailand,Kamphaeng Phet
+Asia,thailand,Kanchanaburi
+Asia,thailand,Khon Kaen
+Asia,thailand,Laem Chabang
+Asia,thailand,Lampang
+Asia,thailand,Lopburi
+Asia,thailand,Nakhon Pathom
+Asia,thailand,Nakhon Ratchasima
+Asia,thailand,Nakhon Sawan
+Asia,thailand,Nakhon Si Thammarat
+Asia,thailand,Nong Khai
+Asia,thailand,Pattani
+Asia,thailand,Pattaya
+Asia,thailand,Phanat Nikhom
+Asia,thailand,Phetchaburi
+Asia,thailand,Phitsanulok
+Asia,thailand,Phra Nakhon Si Ayutthaya
+Asia,thailand,Phuket
+Asia,thailand,Prachin Buri
+Asia,thailand,Ranong
+Asia,thailand,Ratchaburi
+Asia,thailand,Rayong
+Asia,thailand,Saraburi
+Asia,thailand,Savannakhet
+Asia,thailand,Songkhla
+Asia,thailand,Surat Thani
+Asia,thailand,Su-ngai Kolok
+Asia,thailand,Thung Song
+Asia,thailand,Trang
+Asia,thailand,Ubon Ratchathani
+Asia,thailand,Udon Thani
+Asia,thailand,N/A
+Asia,thailand,Yala
+Africa,uganda,Arua
+Africa,uganda,Entebbe
+Africa,uganda,Fort Portal
+Africa,uganda,Gulu
+Africa,uganda,Iganga
+Africa,uganda,Jinja
+Africa,uganda,Kampala
+Africa,uganda,Kasese
+Africa,uganda,Kayanja
+Africa,uganda,Koboko
+Africa,uganda,Lira
+Africa,uganda,Lugazi
+Africa,uganda,Masaka
+Africa,uganda,Matugga
+Africa,uganda,Mbale
+Africa,uganda,Mbarara
+Africa,uganda,Mityana
+Africa,uganda,Mubende
+Africa,uganda,Opuyo
+Asia,uzbekistan,Altiarik
+Asia,uzbekistan,Andijan
+Asia,uzbekistan,Asaka
+Asia,uzbekistan,Beruniy
+Asia,uzbekistan,Bukhara
+Asia,uzbekistan,Buloqboshi
+Asia,uzbekistan,Buramatut
+Asia,uzbekistan,Chimyon
+Asia,uzbekistan,Chirchiq
+Asia,uzbekistan,Chortoq
+Asia,uzbekistan,Chust
+Asia,uzbekistan,Denov
+Asia,uzbekistan,Fergana
+Asia,uzbekistan,Gallaorol
+Asia,uzbekistan,Gijduvan
+Asia,uzbekistan,Gulistan
+Asia,uzbekistan,Guzar
+Asia,uzbekistan,Hazorasp
+Asia,uzbekistan,Jarqurgon
+Asia,uzbekistan,Jizzax
+Asia,uzbekistan,Katta-Kurgan
+Asia,uzbekistan,Khiva
+Asia,uzbekistan,Khujayli
+Asia,uzbekistan,Kokand
+Asia,uzbekistan,Koson
+Asia,uzbekistan,Kosonsoy
+Asia,uzbekistan,Navoiy
+Asia,uzbekistan,Nukus
+Asia,uzbekistan,Pakhtaobod
+Asia,uzbekistan,Payshanba
+Asia,uzbekistan,Poytugh
+Asia,uzbekistan,Qarshi
+Asia,uzbekistan,Qorasuv
+Asia,uzbekistan,Quva
+Asia,uzbekistan,Rishtan
+Asia,uzbekistan,Samarkand
+Asia,uzbekistan,Shahrisabz
+Asia,uzbekistan,Shahrixon
+Asia,uzbekistan,Sherobod
+Asia,uzbekistan,Sirdaryo
+Asia,uzbekistan,Tashkent
+Asia,uzbekistan,Termez
+Asia,uzbekistan,Turakurgan
+Asia,uzbekistan,Turtkul
+Asia,uzbekistan,Uchkurgan
+Asia,uzbekistan,Зангибай
+Asia,uzbekistan,Urgench
+Asia,uzbekistan,Urgut
+Asia,uzbekistan,Uzun
+Asia,uzbekistan,Xonqa
+Asia,uzbekistan,Yangiiul
+Asia,uzbekistan,Yangikurgan
+Asia,uzbekistan,Yaypan
+Asia,uzbekistan,Yozyovon
+Africa,tunisia,Al Munastir
+Africa,tunisia,Béja
+Africa,tunisia,Ben Gardane
+Africa,tunisia,Bizerte
+Africa,tunisia,El Hamma
+Africa,tunisia,El Kef
+Africa,tunisia,Gabes
+Africa,tunisia,Hammamet
+Africa,tunisia,Hammam-Lif
+Africa,tunisia,Jendouba
+Africa,tunisia,Kairouan
+Africa,tunisia,Kasserine
+Africa,tunisia,Ksar Hellal
+Africa,tunisia,Mahdia
+Africa,tunisia,Manzil Bourguiba
+Africa,tunisia,Medenine
+Africa,tunisia,M'Saken
+Africa,tunisia,Qafsa
+Africa,tunisia,Sbeitla
+Africa,tunisia,Sfax
+Africa,tunisia,Sidi Bouzid
+Africa,tunisia,Sousse
+Africa,tunisia,Tataouine
+Africa,tunisia,Tunis
+Africa,western_sahara,Boujdour
+Africa,western_sahara,Dakhla
+Asia,turkmenistan,Ashgabat
+Asia,turkmenistan,Balkanabat
+Asia,turkmenistan,Dashoguz
+Asia,turkmenistan,Garadaşaýak
+Asia,turkmenistan,Gurbansoltan Eje
+Asia,turkmenistan,Konye-Urgench
+Asia,turkmenistan,Mary
+Asia,turkmenistan,Serdar
+Asia,turkmenistan,Turkmenabat
+Asia,turkmenistan,Turkmenbashy
+Latin America and the Caribbean,venezuela,Acarigua
+Latin America and the Caribbean,venezuela,Altagracia de Orituco
+Latin America and the Caribbean,venezuela,Anaco
+Latin America and the Caribbean,venezuela,Barcelona
+Latin America and the Caribbean,venezuela,Barinas
+Latin America and the Caribbean,venezuela,Barquisimeto
+Latin America and the Caribbean,venezuela,Biruaca
+Latin America and the Caribbean,venezuela,Boconó
+Latin America and the Caribbean,venezuela,Cabimas
+Latin America and the Caribbean,venezuela,Cabudare
+Latin America and the Caribbean,venezuela,Calabozo
+Latin America and the Caribbean,venezuela,Caracas
+Latin America and the Caribbean,venezuela,Carora
+Latin America and the Caribbean,venezuela,Carúpano
+Latin America and the Caribbean,venezuela,Catia La Mar
+Latin America and the Caribbean,venezuela,Charallave
+Latin America and the Caribbean,venezuela,Ciudad Bolívar
+Latin America and the Caribbean,venezuela,Ciudad Bolivia
+Latin America and the Caribbean,venezuela,Ciudad Guayana
+Latin America and the Caribbean,venezuela,Ciudad Ojeda
+Latin America and the Caribbean,venezuela,Coro
+Latin America and the Caribbean,venezuela,Cúa
+Latin America and the Caribbean,venezuela,Cumana
+Latin America and the Caribbean,venezuela,El Tocuyo
+Latin America and the Caribbean,venezuela,El Vigía
+Latin America and the Caribbean,venezuela,Guanare
+Latin America and the Caribbean,venezuela,Guarenas
+Latin America and the Caribbean,venezuela,Güigüe
+Latin America and the Caribbean,venezuela,La Concepción
+Latin America and the Caribbean,venezuela,La Victoria
+Latin America and the Caribbean,venezuela,Los Tanques
+Latin America and the Caribbean,venezuela,Los Teques
+Latin America and the Caribbean,venezuela,Machiques
+Latin America and the Caribbean,venezuela,Maracaibo
+Latin America and the Caribbean,venezuela,Maracay
+Latin America and the Caribbean,venezuela,Mariara
+Latin America and the Caribbean,venezuela,Marín
+Latin America and the Caribbean,venezuela,Maturin
+Latin America and the Caribbean,venezuela,Mérida
+Latin America and the Caribbean,venezuela,Ocumare del Tuy
+Latin America and the Caribbean,venezuela,Paya
+Latin America and the Caribbean,venezuela,Porlamar
+Latin America and the Caribbean,venezuela,Puerto Ayacucho
+Latin America and the Caribbean,venezuela,Puerto Cabello
+Latin America and the Caribbean,venezuela,Punta de Mata
+Latin America and the Caribbean,venezuela,Punto Fijo
+Latin America and the Caribbean,venezuela,Quíbor
+Latin America and the Caribbean,venezuela,Rubio
+Latin America and the Caribbean,venezuela,Sabana de Parra
+Latin America and the Caribbean,venezuela,Santa Bárbara del Zulia
+Latin America and the Caribbean,venezuela,Santa Cruz
+Latin America and the Caribbean,venezuela,Santa Rita
+Latin America and the Caribbean,venezuela,Santa Teresa del Tuy
+Latin America and the Caribbean,venezuela,San Carlos
+Latin America and the Caribbean,venezuela,San Cristóbal
+Latin America and the Caribbean,venezuela,San Félix
+Latin America and the Caribbean,venezuela,San Fernando de Apure
+Latin America and the Caribbean,venezuela,San Juan de Colón
+Latin America and the Caribbean,venezuela,San Juan de Los Morros
+Latin America and the Caribbean,venezuela,San Mateo
+Latin America and the Caribbean,venezuela,San Rafael del Mojan
+Latin America and the Caribbean,venezuela,Socopó
+Latin America and the Caribbean,venezuela,Tinaquillo
+Latin America and the Caribbean,venezuela,Tucupita
+Latin America and the Caribbean,venezuela,Upata
+Latin America and the Caribbean,venezuela,Valencia
+Latin America and the Caribbean,venezuela,Valera
+Latin America and the Caribbean,venezuela,Valle de la Pascua
+Latin America and the Caribbean,venezuela,Villa del Rosario
+Latin America and the Caribbean,venezuela,Yaritagua
+Latin America and the Caribbean,venezuela,Zaraza
+Latin America and the Caribbean,venezuela,Zuata
+Africa,zambia,Chililabombwe
+Africa,zambia,Chingola
+Africa,zambia,Chipata
+Africa,zambia,Choma
+Africa,zambia,Kabwe
+Africa,zambia,Kafue
+Africa,zambia,Kapiri Mposhi
+Africa,zambia,Kasama
+Africa,zambia,Kitwe
+Africa,zambia,Livingstone
+Africa,zambia,Luanshya
+Africa,zambia,Lusaka
+Africa,zambia,Mansa
+Africa,zambia,Mazabuka
+Africa,zambia,Mbala
+Africa,zambia,Mongu
+Africa,zambia,Monze
+Africa,zambia,Mpulungu
+Africa,zambia,Mufulira
+Africa,zambia,Mumbwa
+Africa,zambia,Nchelenge
+Africa,zambia,Ndola
+Africa,zambia,Solwezi
+Africa,zambia,Tunduma
+Africa,zambia,N/A
+Asia,yemen,Aden
+Asia,yemen,Al Juwaibiyat
+Asia,yemen,Al Mansurah
+Asia,yemen,Al Misrakh
+Asia,yemen,Al Mutadarririn
+Asia,yemen,Dhamar
+Asia,yemen,Hodeidah
+Asia,yemen,Ibb
+Asia,yemen,Mukalla
+Asia,yemen,Sana'a
+Asia,yemen,Seiyun
+Asia,yemen,Shihr
+Asia,yemen,Tarim
+Asia,yemen,Ta'izz
+Africa,benin,Allada
+Africa,benin,Banikoara
+Africa,benin,Bohicon
+Africa,benin,Cotonou
+Africa,benin,Dassa-Zoumé
+Africa,benin,Djougou
+Africa,benin,Kandi
+Africa,benin,Kétou
+Africa,benin,Lokossa
+Africa,benin,Malanville
+Africa,benin,Natitingou
+Africa,benin,Nikki
+Africa,benin,Ouèssè
+Africa,benin,Parakou
+Africa,benin,Pobè
+Africa,benin,Porto-Novo
+Africa,benin,Savalou
+Africa,benin,Tindji
+Africa,benin,Whydah
+Africa,zimbabwe,Bindura
+Africa,zimbabwe,Bulawayo
+Africa,zimbabwe,Chegutu
+Africa,zimbabwe,Chinhoyi
+Africa,zimbabwe,Chitungwiza
+Africa,zimbabwe,Chizhanje
+Africa,zimbabwe,Gweru
+Africa,zimbabwe,Harare
+Africa,zimbabwe,Kadoma
+Africa,zimbabwe,Kwekwe
+Africa,zimbabwe,Marondera
+Africa,zimbabwe,Masvingo
+Africa,zimbabwe,Mbizo
+Africa,zimbabwe,Mutare
+Africa,zimbabwe,Norton
+Africa,zimbabwe,Ruwa
+Asia,vietnam,Đại Nghĩa
+Asia,vietnam,Đăk Mil
+Asia,vietnam,An Chau
+Asia,vietnam,An Khê
+Asia,vietnam,Đà Nẵng
+Asia,vietnam,Bắc Giang
+Asia,vietnam,Bạc Liêu
+Asia,vietnam,Bắc Ninh
+Asia,vietnam,Bảo Lộc
+Asia,vietnam,Ba Ria
+Asia,vietnam,Ben Cat
+Asia,vietnam,Buôn Ma Thuột
+Asia,vietnam,Bút Sơn
+Asia,vietnam,Cai Be
+Asia,vietnam,Cai Lậy
+Asia,vietnam,Cẩm Phả
+Asia,vietnam,Cam Ranh
+Asia,vietnam,Can Tho
+Asia,vietnam,Cao Lanh
+Asia,vietnam,Cây Xăng
+Asia,vietnam,Ca Mau
+Asia,vietnam,Chaudok City
+Asia,vietnam,Chư Sê
+Asia,vietnam,Củ Chi
+Asia,vietnam,Dalat
+Asia,vietnam,Dien Bien Phu
+Asia,vietnam,Diễn Châu
+Asia,vietnam,Dong Ha
+Asia,vietnam,Do Luong
+Asia,vietnam,Ea Kar
+Asia,vietnam,Gia Kiệm
+Asia,vietnam,Gia Rai
+Asia,vietnam,Go Cong
+Asia,vietnam,Haiphong
+Asia,vietnam,Hải Dương
+Asia,vietnam,Hanoi
+Asia,vietnam,Ha Long
+Asia,vietnam,Hà Tĩnh
+Asia,vietnam,Hiệp Phước
+Asia,vietnam,Hoàn Lão
+Asia,vietnam,Hòa Bình
+Asia,vietnam,Hoi An
+Asia,vietnam,Hong Ngu
+Asia,vietnam,Ho Chi Minh City
+Asia,vietnam,Hue
+Asia,vietnam,Hưng Yên
+Asia,vietnam,Định Quán
+Asia,vietnam,Đinh Văn
+Asia,vietnam,Khoái Châu
+Asia,vietnam,Kon Tum
+Asia,vietnam,Lạng Sơn
+Asia,vietnam,Lào Cai
+Asia,vietnam,La Gi
+Asia,vietnam,Liên Khương
+Asia,vietnam,Long Khanh
+Asia,vietnam,Long Xuyen
+Asia,vietnam,Lưu Giáo
+Asia,vietnam,Minh Tân
+Asia,vietnam,Mong Cai
+Asia,vietnam,My Tho
+Asia,vietnam,Nam Định
+Asia,vietnam,Ngai Giao
+Asia,vietnam,Nga Sơn
+Asia,vietnam,Nha Trang
+Asia,vietnam,Ninh Bình
+Asia,vietnam,Ninh Hòa
+Asia,vietnam,Núi Sập
+Asia,vietnam,Đông Hưng
+Asia,vietnam,Đồng Xoài
+Asia,vietnam,Phan Rang - Tháp Chàm
+Asia,vietnam,Phan Rí Cửa
+Asia,vietnam,Phan Thiet
+Asia,vietnam,Phat Diem
+Asia,vietnam,Phúc Thọ
+Asia,vietnam,Phùng
+Asia,vietnam,Phủ Lý
+Asia,vietnam,Phú Minh
+Asia,vietnam,Phú Mỹ
+Asia,vietnam,Phù Yên
+Asia,vietnam,Pleiku
+Asia,vietnam,Quang Minh
+Asia,vietnam,Quảng Ngãi
+Asia,vietnam,Quảng Phú
+Asia,vietnam,Quốc Oai
+Asia,vietnam,Quy Nhơn
+Asia,vietnam,Sa Dec City
+Asia,vietnam,Sóc Trăng
+Asia,vietnam,Sơn La
+Asia,vietnam,Tam Kỳ
+Asia,vietnam,Tam Quan
+Asia,vietnam,Tan An
+Asia,vietnam,Tân Châu
+Asia,vietnam,Tan Hiep
+Asia,vietnam,Tan Phu
+Asia,vietnam,Tân Uyên
+Asia,vietnam,Tây Đằng
+Asia,vietnam,Tây Ninh
+Asia,vietnam,Thái Bình
+Asia,vietnam,Thái Nguyên
+Asia,vietnam,Thanh Hóa
+Asia,vietnam,Thới Lai
+Asia,vietnam,Thổ Tang
+Asia,vietnam,Thọ Xuân
+Asia,vietnam,Trang Bang
+Asia,vietnam,Trà Vinh City
+Asia,vietnam,Tuyên Quang
+Asia,vietnam,Tuy Hòa
+Asia,vietnam,Đức Hòa
+Asia,vietnam,Uông Bí
+Asia,vietnam,Vạn Giã
+Asia,vietnam,Việt Trì
+Asia,vietnam,Vinh
+Asia,vietnam,Vĩnh Yên
+Asia,vietnam,Vung Tau
+Asia,vietnam,Xuân Hòa
+Asia,vietnam,Xuân Trường
+Asia,vietnam,Yên Bái
+Africa,botswana,Francistown
+Africa,botswana,Gaborone
+Africa,botswana,Kanye
+Africa,botswana,Lobatse
+Africa,botswana,Maun
+Africa,botswana,Mmopane
+Africa,botswana,Palapye
+Latin America and the Caribbean,bolivia,Cobija
+Latin America and the Caribbean,bolivia,Cochabamba
+Latin America and the Caribbean,bolivia,El Alto [La Paz]
+Latin America and the Caribbean,bolivia,Montero
+Latin America and the Caribbean,bolivia,Oruro
+Latin America and the Caribbean,bolivia,Potosí
+Latin America and the Caribbean,bolivia,Riberalta
+Latin America and the Caribbean,bolivia,Santa Cruz de la Sierra
+Latin America and the Caribbean,bolivia,Sucre
+Latin America and the Caribbean,bolivia,Tarija
+Latin America and the Caribbean,bolivia,Trinidad
+Latin America and the Caribbean,bolivia,Villazón
+Africa,burundi,Bujumbura
+Africa,burundi,Gatumba
+Africa,burundi,Gitega
+Africa,burundi,Ngozi
+Africa,burundi,Nyanza Lac
+Africa,burundi,Rumonge
+Africa,burkina_faso,Banfora
+Africa,burkina_faso,Bobo-Dioulasso
+Africa,burkina_faso,Dédougou
+Africa,burkina_faso,Dori
+Africa,burkina_faso,Fada N'Gourma
+Africa,burkina_faso,Houndé
+Africa,burkina_faso,Kaya
+Africa,burkina_faso,Koudougou
+Africa,burkina_faso,Koupéla
+Africa,burkina_faso,Leo
+Africa,burkina_faso,Niangoloko
+Africa,burkina_faso,Nouna
+Africa,burkina_faso,Ouagadougou
+Africa,burkina_faso,Ouahigouya
+Africa,burkina_faso,Pouytenga
+Africa,burkina_faso,Ziniaré
+Latin America and the Caribbean,argentina,Bahía Blanca
+Latin America and the Caribbean,argentina,Belén de Escobar
+Latin America and the Caribbean,argentina,Buenos Aires
+Latin America and the Caribbean,argentina,Campana
+Latin America and the Caribbean,argentina,Cipolletti
+Latin America and the Caribbean,argentina,Comodoro Rivadavia
+Latin America and the Caribbean,argentina,Concepción
+Latin America and the Caribbean,argentina,Concepción del Uruguay
+Latin America and the Caribbean,argentina,Concordia
+Latin America and the Caribbean,argentina,Cordoba
+Latin America and the Caribbean,argentina,Corrientes
+Latin America and the Caribbean,argentina,Eldorado
+Latin America and the Caribbean,argentina,Formosa
+Latin America and the Caribbean,argentina,General Pico
+Latin America and the Caribbean,argentina,General Roca
+Latin America and the Caribbean,argentina,General Rodríguez
+Latin America and the Caribbean,argentina,Goya
+Latin America and the Caribbean,argentina,Gualeguaychu
+Latin America and the Caribbean,argentina,Junín
+Latin America and the Caribbean,argentina,La Plata
+Latin America and the Caribbean,argentina,La Rioja
+Latin America and the Caribbean,argentina,Libertador Gral. San Martín
+Latin America and the Caribbean,argentina,Luján
+Latin America and the Caribbean,argentina,Mar del Plata
+Latin America and the Caribbean,argentina,Mendoza
+Latin America and the Caribbean,argentina,Necochea
+Latin America and the Caribbean,argentina,Neuquén
+Latin America and the Caribbean,argentina,Oberá
+Latin America and the Caribbean,argentina,Olavarría
+Latin America and the Caribbean,argentina,Paraná
+Latin America and the Caribbean,argentina,Pergamino
+Latin America and the Caribbean,argentina,Pilar
+Latin America and the Caribbean,argentina,Posadas
+Latin America and the Caribbean,argentina,Presidencia Roque Sáenz Peña
+Latin America and the Caribbean,argentina,Puerto Madryn
+Latin America and the Caribbean,argentina,Rafaela
+Latin America and the Caribbean,argentina,Reconquista
+Latin America and the Caribbean,argentina,Resistencia
+Latin America and the Caribbean,argentina,Río Cuarto
+Latin America and the Caribbean,argentina,Río Gallegos
+Latin America and the Caribbean,argentina,Rosario
+Latin America and the Caribbean,argentina,Salta
+Latin America and the Caribbean,argentina,Santa Fe
+Latin America and the Caribbean,argentina,Santa Rosa
+Latin America and the Caribbean,argentina,Santiago del Estero
+Latin America and the Caribbean,argentina,Santo Tomé
+Latin America and the Caribbean,argentina,San Carlos de Bariloche
+Latin America and the Caribbean,argentina,San Fernando del Valle de Catamarca
+Latin America and the Caribbean,argentina,San Francisco
+Latin America and the Caribbean,argentina,San Juan
+Latin America and the Caribbean,argentina,San Luis
+Latin America and the Caribbean,argentina,San Martín
+Latin America and the Caribbean,argentina,San Miguel de Tucumán
+Latin America and the Caribbean,argentina,San Nicolás de los Arroyos
+Latin America and the Caribbean,argentina,San Pedro
+Latin America and the Caribbean,argentina,San Rafael
+Latin America and the Caribbean,argentina,San Ramón de la Nueva Orán
+Latin America and the Caribbean,argentina,San Salvador de Jujuy
+Latin America and the Caribbean,argentina,Tandil
+Latin America and the Caribbean,argentina,Tartagal
+Latin America and the Caribbean,argentina,Trelew
+Latin America and the Caribbean,argentina,Tristán Suárez
+Latin America and the Caribbean,argentina,Venado Tuerto
+Latin America and the Caribbean,argentina,Viedma
+Latin America and the Caribbean,argentina,Villa Carlos Paz
+Latin America and the Caribbean,argentina,Villa María
+Latin America and the Caribbean,argentina,Villa Mercedes
+Latin America and the Caribbean,argentina,Yacuiba
+Latin America and the Caribbean,argentina,Zárate
+Asia,cambodia,Battambang
+Asia,cambodia,Kampong Cham
+Asia,cambodia,Kampong Chhnang
+Asia,cambodia,Phnom Penh
+Asia,cambodia,Poipet
+Asia,cambodia,Siem Reap
+Asia,cambodia,Sihanoukville
+Asia,cambodia,Sisophon
+Africa,central_african_republic,Badokwa
+Africa,central_african_republic,Bambari
+Africa,central_african_republic,Bangui
+Africa,central_african_republic,Bouar
+Africa,central_african_republic,Bria
+Africa,central_african_republic,Carnot
+Asia,bangladesh,Alamdanga
+Asia,bangladesh,Alampur
+Asia,bangladesh,Bagerhat
+Asia,bangladesh,Baneshwar
+Asia,bangladesh,Barisal
+Asia,bangladesh,Barkhada
+Asia,bangladesh,Beanibazar
+Asia,bangladesh,Benapole
+Asia,bangladesh,Bhaluka
+Asia,bangladesh,Bhola
+Asia,bangladesh,Bholarhat
+Asia,bangladesh,Bodorganj
+Asia,bangladesh,Bogra
+Asia,bangladesh,Bogura
+Asia,bangladesh,Brahmanbaria
+Asia,bangladesh,Burimari
+Asia,bangladesh,Chakaria
+Asia,bangladesh,Chapainawabganj
+Asia,bangladesh,Chattogram
+Asia,bangladesh,Chuadanga
+Asia,bangladesh,Comilla
+Asia,bangladesh,Dhaka
+Asia,bangladesh,Dinajpur
+Asia,bangladesh,Faridpur
+Asia,bangladesh,Feni
+Asia,bangladesh,Gafargaon
+Asia,bangladesh,Gaibandha
+Asia,bangladesh,Gazaria
+Asia,bangladesh,Godagari
+Asia,bangladesh,Gopalganj
+Asia,bangladesh,Habiganj
+Asia,bangladesh,Homna
+Asia,bangladesh,Ishurdi
+Asia,bangladesh,Jaigir
+Asia,bangladesh,Jamalpur
+Asia,bangladesh,Jessore
+Asia,bangladesh,Jhenaidah
+Asia,bangladesh,Joypurhat
+Asia,bangladesh,Khagrachhari
+Asia,bangladesh,Khulna
+Asia,bangladesh,Kishoreganj
+Asia,bangladesh,Kotchadpur
+Asia,bangladesh,Lakshmipur
+Asia,bangladesh,Madaripur
+Asia,bangladesh,Magura
+Asia,bangladesh,Manikgonj
+Asia,bangladesh,Meherpur
+Asia,bangladesh,Moulvibazar
+Asia,bangladesh,Muktagacha
+Asia,bangladesh,Mymensingh
+Asia,bangladesh,Nabinagar
+Asia,bangladesh,Naogaon
+Asia,bangladesh,Netrokona
+Asia,bangladesh,Nilphamari
+Asia,bangladesh,Pabna
+Asia,bangladesh,Rajshahi
+Asia,bangladesh,Rampur
+Asia,bangladesh,রামু Ramu
+Asia,bangladesh,Raujan
+Asia,bangladesh,Saidpur
+Asia,bangladesh,Shahbazpur Town
+Asia,bangladesh,Shariatpur
+Asia,bangladesh,Shibpur
+Asia,bangladesh,Sirajganj
+Asia,bangladesh,Sreemangal
+Asia,bangladesh,Sunamganj District
+Asia,bangladesh,Sylhet
+Asia,bangladesh,Tangail
+Asia,bangladesh,Tarail
+Asia,bangladesh,Thakurgaon
+Asia,bangladesh,Trishal
+Asia,bangladesh,Ulipur
+Asia,bangladesh,N/A
+Asia,bangladesh,নাটোর
+Asia,bangladesh,কালীগঞ্জ
+Africa,chad,Abéché
+Africa,chad,Bongor
+Africa,chad,Doba
+Africa,chad,Faya-Largeau
+Africa,chad,Gore
+Africa,chad,كيلو Kelo
+Africa,chad,Koumra
+Africa,chad,Laï
+Africa,chad,Mao
+Africa,chad,Moundou
+Africa,chad,N'Djamena
+Africa,chad,Pala
+Africa,chad,Sarh
+Africa,comoros,Fomboni
+Africa,comoros,Moroni
+Africa,cameroon,Bafia
+Africa,cameroon,Bafoussam
+Africa,cameroon,Bamenda
+Africa,cameroon,Banki
+Africa,cameroon,Banyo
+Africa,cameroon,Batouri
+Africa,cameroon,Bertoua
+Africa,cameroon,Douala
+Africa,cameroon,Dschang
+Africa,cameroon,Ebolowa
+Africa,cameroon,Edéa
+Africa,cameroon,Foumban
+Africa,cameroon,Foumbot
+Africa,cameroon,Gamboru
+Africa,cameroon,Garoua
+Africa,cameroon,Garoua-Boulaï
+Africa,cameroon,Guider
+Africa,cameroon,Kaele
+Africa,cameroon,Kribi
+Africa,cameroon,Kumba
+Africa,cameroon,Kumbo
+Africa,cameroon,Limbé
+Africa,cameroon,Mamfe
+Africa,cameroon,Maroua
+Africa,cameroon,Mbalmayo
+Africa,cameroon,Mbouda
+Africa,cameroon,Meiganga
+Africa,cameroon,Mokolo
+Africa,cameroon,Mora
+Africa,cameroon,Muyuka
+Africa,cameroon,Ndop
+Africa,cameroon,Ngaoundal
+Africa,cameroon,Ngaoundéré
+Africa,cameroon,Nkambe
+Africa,cameroon,Nkongsamba
+Africa,cameroon,Tiko
+Africa,cameroon,Wum
+Africa,cameroon,Yagoua
+Africa,cameroon,Yaounde
+Africa,cameroon,Yokadouma
+Latin America and the Caribbean,costa_rica,Barranca
+Latin America and the Caribbean,costa_rica,Cartago
+Latin America and the Caribbean,costa_rica,San José
+Latin America and the Caribbean,cuba,Baracoa
+Latin America and the Caribbean,cuba,Bayamo
+Latin America and the Caribbean,cuba,Camagüey
+Latin America and the Caribbean,cuba,Ciego de Ávila
+Latin America and the Caribbean,cuba,Cienfuegos
+Latin America and the Caribbean,cuba,Contramaestre
+Latin America and the Caribbean,cuba,Guantanamo
+Latin America and the Caribbean,cuba,Havana
+Latin America and the Caribbean,cuba,Holguín
+Latin America and the Caribbean,cuba,Las Tunas
+Latin America and the Caribbean,cuba,Managua
+Latin America and the Caribbean,cuba,Manzanillo
+Latin America and the Caribbean,cuba,Matanzas
+Latin America and the Caribbean,cuba,Nuevitas
+Latin America and the Caribbean,cuba,Palma Soriano
+Latin America and the Caribbean,cuba,Pinar del Rio
+Latin America and the Caribbean,cuba,Sancti Spiritus
+Latin America and the Caribbean,cuba,Santa Clara
+Latin America and the Caribbean,cuba,Santiago de Cuba
+Africa,djibouti,Djibouti
+Africa,cote_d_ivoire,Abengourou
+Africa,cote_d_ivoire,Abidjan
+Africa,cote_d_ivoire,Aboisso
+Africa,cote_d_ivoire,Adzopé
+Africa,cote_d_ivoire,Agboville
+Africa,cote_d_ivoire,Agnibilékrou
+Africa,cote_d_ivoire,Bondoukou
+Africa,cote_d_ivoire,Bonon
+Africa,cote_d_ivoire,Bouaflé
+Africa,cote_d_ivoire,Bouaké
+Africa,cote_d_ivoire,Dabou
+Africa,cote_d_ivoire,Daloa
+Africa,cote_d_ivoire,Danané
+Africa,cote_d_ivoire,Daoukro
+Africa,cote_d_ivoire,Diégonéfla
+Africa,cote_d_ivoire,Divo
+Africa,cote_d_ivoire,Duekoue
+Africa,cote_d_ivoire,Ferkéssédougou
+Africa,cote_d_ivoire,Gagnoa
+Africa,cote_d_ivoire,Grand-Bassam
+Africa,cote_d_ivoire,Guiglo
+Africa,cote_d_ivoire,Issia
+Africa,cote_d_ivoire,Korhogo
+Africa,cote_d_ivoire,Lakota
+Africa,cote_d_ivoire,Man
+Africa,cote_d_ivoire,Méagui
+Africa,cote_d_ivoire,Ouangolodougou
+Africa,cote_d_ivoire,Oumé
+Africa,cote_d_ivoire,San-Pédro
+Africa,cote_d_ivoire,Sinfra
+Africa,cote_d_ivoire,Soubré
+Africa,cote_d_ivoire,Tengréla
+Africa,cote_d_ivoire,Vavoua
+Africa,cote_d_ivoire,Yamoussoukro
+Latin America and the Caribbean,dominican_republic,Azua
+Latin America and the Caribbean,dominican_republic,Baní
+Latin America and the Caribbean,dominican_republic,Barahona
+Latin America and the Caribbean,dominican_republic,Bonao
+Latin America and the Caribbean,dominican_republic,Higüey
+Latin America and the Caribbean,dominican_republic,La Romana
+Latin America and the Caribbean,dominican_republic,La Vega
+Latin America and the Caribbean,dominican_republic,Mao
+Latin America and the Caribbean,dominican_republic,Moca
+Latin America and the Caribbean,dominican_republic,Puerto Plata
+Latin America and the Caribbean,dominican_republic,Santiago de los Caballeros
+Latin America and the Caribbean,dominican_republic,Santo Domingo
+Latin America and the Caribbean,dominican_republic,San Cristóbal
+Latin America and the Caribbean,dominican_republic,San Francisco de Macoris
+Latin America and the Caribbean,dominican_republic,San Juan de la Maguana
+Latin America and the Caribbean,dominican_republic,San Pedro de Macorís
+Latin America and the Caribbean,colombia,Aguachica
+Latin America and the Caribbean,colombia,Apartadó
+Latin America and the Caribbean,colombia,Arauca
+Latin America and the Caribbean,colombia,Arjona
+Latin America and the Caribbean,colombia,Armenia
+Latin America and the Caribbean,colombia,Barrancabermeja
+Latin America and the Caribbean,colombia,Barranquilla
+Latin America and the Caribbean,colombia,Bogota
+Latin America and the Caribbean,colombia,Bucaramanga
+Latin America and the Caribbean,colombia,Buga
+Latin America and the Caribbean,colombia,Calarcá
+Latin America and the Caribbean,colombia,Caldas
+Latin America and the Caribbean,colombia,Cali
+Latin America and the Caribbean,colombia,Cartagena
+Latin America and the Caribbean,colombia,Cartago
+Latin America and the Caribbean,colombia,Caucasia
+Latin America and the Caribbean,colombia,Cereté
+Latin America and the Caribbean,colombia,Chía
+Latin America and the Caribbean,colombia,Chigorodó
+Latin America and the Caribbean,colombia,Chiquinquirá
+Latin America and the Caribbean,colombia,Ciénaga
+Latin America and the Caribbean,colombia,Cúcuta
+Latin America and the Caribbean,colombia,Duitama
+Latin America and the Caribbean,colombia,El Carmen de Bolívar
+Latin America and the Caribbean,colombia,Facatativá
+Latin America and the Caribbean,colombia,Florencia
+Latin America and the Caribbean,colombia,Fundación
+Latin America and the Caribbean,colombia,Fusagasugá
+Latin America and the Caribbean,colombia,Garzón
+Latin America and the Caribbean,colombia,Granada
+Latin America and the Caribbean,colombia,Ibagué
+Latin America and the Caribbean,colombia,Ipiales
+Latin America and the Caribbean,colombia,Jamundí
+Latin America and the Caribbean,colombia,La Dorada
+Latin America and the Caribbean,colombia,Lorica
+Latin America and the Caribbean,colombia,Magangué
+Latin America and the Caribbean,colombia,Maicao
+Latin America and the Caribbean,colombia,Manizales
+Latin America and the Caribbean,colombia,Manuela
+Latin America and the Caribbean,colombia,Medellín
+Latin America and the Caribbean,colombia,Montelíbano
+Latin America and the Caribbean,colombia,Montería
+Latin America and the Caribbean,colombia,Morroa
+Latin America and the Caribbean,colombia,Neiva
+Latin America and the Caribbean,colombia,Ocaña
+Latin America and the Caribbean,colombia,Orito
+Latin America and the Caribbean,colombia,Palmira
+Latin America and the Caribbean,colombia,Pamplona
+Latin America and the Caribbean,colombia,Pasto
+Latin America and the Caribbean,colombia,Pereira
+Latin America and the Caribbean,colombia,Piedecuesta
+Latin America and the Caribbean,colombia,Pitalito
+Latin America and the Caribbean,colombia,Planeta Rica
+Latin America and the Caribbean,colombia,Playa Blanca
+Latin America and the Caribbean,colombia,Popayán
+Latin America and the Caribbean,colombia,Puerto Asís
+Latin America and the Caribbean,colombia,Puerto Boyacá
+Latin America and the Caribbean,colombia,Quibdó
+Latin America and the Caribbean,colombia,Riohacha
+Latin America and the Caribbean,colombia,Rionegro
+Latin America and the Caribbean,colombia,Sabanalarga
+Latin America and the Caribbean,colombia,Sahagún
+Latin America and the Caribbean,colombia,Santander de Quilichao
+Latin America and the Caribbean,colombia,Santa Marta
+Latin America and the Caribbean,colombia,Santa Rosa de Cabal
+Latin America and the Caribbean,colombia,San Andrés
+Latin America and the Caribbean,colombia,San José del Guaviare
+Latin America and the Caribbean,colombia,San Vicente del Caguán
+Latin America and the Caribbean,colombia,Saravena
+Latin America and the Caribbean,colombia,Sincelejo
+Latin America and the Caribbean,colombia,Tierralta
+Latin America and the Caribbean,colombia,Tuluá
+Latin America and the Caribbean,colombia,Tunja
+Latin America and the Caribbean,colombia,Turbaco
+Latin America and the Caribbean,colombia,Valledupar
+Latin America and the Caribbean,colombia,Villavicencio
+Latin America and the Caribbean,colombia,Villa del Rosario
+Latin America and the Caribbean,colombia,Yopal
+Latin America and the Caribbean,colombia,Zipaquirá
+Africa,democratic_republic_of_the_congo,Aketi
+Africa,democratic_republic_of_the_congo,Ariwara
+Africa,democratic_republic_of_the_congo,Aru
+Africa,democratic_republic_of_the_congo,Bandundu
+Africa,democratic_republic_of_the_congo,Baraka
+Africa,democratic_republic_of_the_congo,Basankusu
+Africa,democratic_republic_of_the_congo,Bena Tshishimbi
+Africa,democratic_republic_of_the_congo,Beni
+Africa,democratic_republic_of_the_congo,Boende
+Africa,democratic_republic_of_the_congo,Boma
+Africa,democratic_republic_of_the_congo,Bondo
+Africa,democratic_republic_of_the_congo,Bukavu
+Africa,democratic_republic_of_the_congo,Bumba
+Africa,democratic_republic_of_the_congo,Bunia
+Africa,democratic_republic_of_the_congo,Buta
+Africa,democratic_republic_of_the_congo,Butembo
+Africa,democratic_republic_of_the_congo,Demba
+Africa,democratic_republic_of_the_congo,Dilolo
+Africa,democratic_republic_of_the_congo,Dungu
+Africa,democratic_republic_of_the_congo,Elila
+Africa,democratic_republic_of_the_congo,Fungurume
+Africa,democratic_republic_of_the_congo,Gemena
+Africa,democratic_republic_of_the_congo,Goma
+Africa,democratic_republic_of_the_congo,Idiofa
+Africa,democratic_republic_of_the_congo,Ilebo
+Africa,democratic_republic_of_the_congo,Isiro
+Africa,democratic_republic_of_the_congo,Kabalo
+Africa,democratic_republic_of_the_congo,Kabinda
+Africa,democratic_republic_of_the_congo,Kabondo-Dianda
+Africa,democratic_republic_of_the_congo,Kabongo
+Africa,democratic_republic_of_the_congo,Kahinda
+Africa,democratic_republic_of_the_congo,Kakanda
+Africa,democratic_republic_of_the_congo,Kakenge
+Africa,democratic_republic_of_the_congo,Kalemie
+Africa,democratic_republic_of_the_congo,Kalimva
+Africa,democratic_republic_of_the_congo,Kambove
+Africa,democratic_republic_of_the_congo,Kamina
+Africa,democratic_republic_of_the_congo,Kamituga
+Africa,democratic_republic_of_the_congo,Kananga
+Africa,democratic_republic_of_the_congo,Kanyama
+Africa,democratic_republic_of_the_congo,Kasaji
+Africa,democratic_republic_of_the_congo,Kasenga
+Africa,democratic_republic_of_the_congo,Kasongo
+Africa,democratic_republic_of_the_congo,Kasongo-Lunda
+Africa,democratic_republic_of_the_congo,Kasumbalesa
+Africa,democratic_republic_of_the_congo,Kenge
+Africa,democratic_republic_of_the_congo,Kibomango
+Africa,democratic_republic_of_the_congo,Kikondja
+Africa,democratic_republic_of_the_congo,Kikwit
+Africa,democratic_republic_of_the_congo,Kilwa
+Africa,democratic_republic_of_the_congo,Kimpese
+Africa,democratic_republic_of_the_congo,Kindu
+Africa,democratic_republic_of_the_congo,Kingombe
+Africa,democratic_republic_of_the_congo,Kinshasa
+Africa,democratic_republic_of_the_congo,Kinzao
+Africa,democratic_republic_of_the_congo,Kipushi
+Africa,democratic_republic_of_the_congo,Kisangani
+Africa,democratic_republic_of_the_congo,Kisantu
+Africa,democratic_republic_of_the_congo,Kitenge
+Africa,democratic_republic_of_the_congo,Kolwezi
+Africa,democratic_republic_of_the_congo,Kongolo
+Africa,democratic_republic_of_the_congo,Kwilu-Ngongo
+Africa,democratic_republic_of_the_congo,Kyolo
+Africa,democratic_republic_of_the_congo,Likasi
+Africa,democratic_republic_of_the_congo,Lisala
+Africa,democratic_republic_of_the_congo,Lubao
+Africa,democratic_republic_of_the_congo,Lubumbashi
+Africa,democratic_republic_of_the_congo,Luena
+Africa,democratic_republic_of_the_congo,Luiza
+Africa,democratic_republic_of_the_congo,Lukalaba
+Africa,democratic_republic_of_the_congo,Lwambo
+Africa,democratic_republic_of_the_congo,Lwebo
+Africa,democratic_republic_of_the_congo,Makanza
+Africa,democratic_republic_of_the_congo,Malemba Nkulu
+Africa,democratic_republic_of_the_congo,Mambasa
+Africa,democratic_republic_of_the_congo,Manono
+Africa,democratic_republic_of_the_congo,Matadi
+Africa,democratic_republic_of_the_congo,Mbandaka
+Africa,democratic_republic_of_the_congo,Mbanza-Ngungu
+Africa,democratic_republic_of_the_congo,Mbuji-Mayi
+Africa,democratic_republic_of_the_congo,Moanda
+Africa,democratic_republic_of_the_congo,Mongbwalu
+Africa,democratic_republic_of_the_congo,Mpose
+Africa,democratic_republic_of_the_congo,Mukanga
+Africa,democratic_republic_of_the_congo,Mukubu
+Africa,democratic_republic_of_the_congo,Mulongo
+Africa,democratic_republic_of_the_congo,Mwadingusha
+Africa,democratic_republic_of_the_congo,Mweka
+Africa,democratic_republic_of_the_congo,Mwene-Ditu
+Africa,democratic_republic_of_the_congo,Nyunzu
+Africa,democratic_republic_of_the_congo,Oicha
+Africa,democratic_republic_of_the_congo,Punia
+Africa,democratic_republic_of_the_congo,Samba
+Africa,democratic_republic_of_the_congo,Sandoa
+Africa,democratic_republic_of_the_congo,Shabunda
+Africa,democratic_republic_of_the_congo,Tshela
+Africa,democratic_republic_of_the_congo,Tshikapa
+Africa,democratic_republic_of_the_congo,N/A
+Africa,democratic_republic_of_the_congo,Uvira
+Africa,democratic_republic_of_the_congo,Yakoma
+Latin America and the Caribbean,ecuador,Ambato
+Latin America and the Caribbean,ecuador,Babahoyo
+Latin America and the Caribbean,ecuador,Cantón Santo Domingo de los Tsachilas
+Latin America and the Caribbean,ecuador,Chone
+Latin America and the Caribbean,ecuador,City of Loja
+Latin America and the Caribbean,ecuador,Cuenca
+Latin America and the Caribbean,ecuador,Daule
+Latin America and the Caribbean,ecuador,El Carmen
+Latin America and the Caribbean,ecuador,Esmeraldas
+Latin America and the Caribbean,ecuador,Guayaquil
+Latin America and the Caribbean,ecuador,Ibarra
+Latin America and the Caribbean,ecuador,Latacunga
+Latin America and the Caribbean,ecuador,Machala
+Latin America and the Caribbean,ecuador,Manta
+Latin America and the Caribbean,ecuador,Milagro
+Latin America and the Caribbean,ecuador,Nueva Loja
+Latin America and the Caribbean,ecuador,Otavalo
+Latin America and the Caribbean,ecuador,Pasaje
+Latin America and the Caribbean,ecuador,Portoviejo
+Latin America and the Caribbean,ecuador,Quevedo
+Latin America and the Caribbean,ecuador,Quito
+Latin America and the Caribbean,ecuador,Riobamba
+Latin America and the Caribbean,ecuador,Santa Elena
+Latin America and the Caribbean,ecuador,San Jacinto de Buena Fe
+Latin America and the Caribbean,ecuador,Tulcán
+Latin America and the Caribbean,ecuador,Tumbaco
+Latin America and the Caribbean,ecuador,Vinces
+Latin America and the Caribbean,ecuador,Zarumilla
+Latin America and the Caribbean,el_salvador,Ahuachapan
+Latin America and the Caribbean,el_salvador,Chalchuapa
+Latin America and the Caribbean,el_salvador,Lourdes
+Latin America and the Caribbean,el_salvador,Santa Ana
+Latin America and the Caribbean,el_salvador,San Juan Nonualco [Zacatecoluca]
+Latin America and the Caribbean,el_salvador,San Miguel
+Latin America and the Caribbean,el_salvador,San Salvador
+Latin America and the Caribbean,el_salvador,Sonsonate
+Latin America and the Caribbean,el_salvador,Usulután
+Africa,equatorial_guinea,Bata
+Africa,equatorial_guinea,Malabo
+Africa,eritrea,Asmara
+Oceania,fiji,Suva
+Africa,gabon,Libreville
+Africa,gabon,Port-Gentil
+Africa,ethiopia,Adama
+Africa,ethiopia,Addis Ababa
+Africa,ethiopia,Agaro
+Africa,ethiopia,Alaba Kulito
+Africa,ethiopia,Ambo
+Africa,ethiopia,Arba Minch
+Africa,ethiopia,Arsi Negelle
+Africa,ethiopia,Asella
+Africa,ethiopia,Asosa
+Africa,ethiopia,Bahir Dar
+Africa,ethiopia,Bako
+Africa,ethiopia,Bedele
+Africa,ethiopia,Bishoftu
+Africa,ethiopia,Butajira
+Africa,ethiopia,Debre Birhan
+Africa,ethiopia,Dessie
+Africa,ethiopia,Dilla
+Africa,ethiopia,Dire Dawa
+Africa,ethiopia,Dolo
+Africa,ethiopia,Dukem
+Africa,ethiopia,Ginir
+Africa,ethiopia,Gonder
+Africa,ethiopia,Harar
+Africa,ethiopia,Hawassa
+Africa,ethiopia,Holeta
+Africa,ethiopia,Hossana
+Africa,ethiopia,Jijiga
+Africa,ethiopia,Jimma
+Africa,ethiopia,Kebri Dehar
+Africa,ethiopia,Kombolcha
+Africa,ethiopia,Meki
+Africa,ethiopia,Mek'elē
+Africa,ethiopia,Metu
+Africa,ethiopia,Mojo
+Africa,ethiopia,Moyale
+Africa,ethiopia,Nekemte
+Africa,ethiopia,Robe
+Africa,ethiopia,Shashamane
+Africa,ethiopia,Sodo
+Africa,ethiopia,Sululta
+Africa,ethiopia,Tepi
+Africa,ethiopia,Waliso
+Africa,ethiopia,Weldiya
+Africa,ethiopia,Welkite
+Africa,ethiopia,Ziway
+Africa,gambia,Brikama
+Africa,gambia,Farafenni
+Africa,gambia,Serrekunda
+Africa,gambia,Yundum
+Africa,egypt,6th of October
+Africa,egypt,9th
+Africa,egypt,Abu Huminus
+Africa,egypt,Abu Kabir‎
+Africa,egypt,Abu Manna Gharb
+Africa,egypt,Abu Qurqas
+Africa,egypt,Abu Sir Bana
+Africa,egypt,Abu Tig
+Africa,egypt,Abyūhā
+Africa,egypt,Aga
+Africa,egypt,Aghour Al-Kubra
+Africa,egypt,Alexandria
+Africa,egypt,Al Arish
+Africa,egypt,Al Ayyat
+Africa,egypt,Al Balakus
+Africa,egypt,Al Bustan
+Africa,egypt,Al Daraksa
+Africa,egypt,Al Gharabwa
+Africa,egypt,Al-Gharaq
+Africa,egypt,Al Halawat
+Africa,egypt,Al Ikhsas
+Africa,egypt,Al Inab al Saghirah
+Africa,egypt,Al Ismailiya
+Africa,egypt,Al Kafr al Bahri
+Africa,egypt,Al Manshiyah al Qibliyah
+Africa,egypt,Al-Manzala
+Africa,egypt,Al-Minya
+Africa,egypt,Al Nazla
+Africa,egypt,Al-Qobabat
+Africa,egypt,Al Saaida
+Africa,egypt,Al Saff
+Africa,egypt,Al Sahil Bahari
+Africa,egypt,Al Salamiyah al Hait
+Africa,egypt,Al-Santa
+Africa,egypt,Al-Wasitah
+Africa,egypt,Al-Zaqaziq‎
+Africa,egypt,Al Zayyatin al Qibliyah
+Africa,egypt,An Nazlah
+Africa,egypt,Armant Al-Waburat
+Africa,egypt,Ashmoun
+Africa,egypt,Aswan
+Africa,egypt,Asyut
+Africa,egypt,Atmeeda
+Africa,egypt,Atsa
+Africa,egypt,Aţ Ţawābīyah
+Africa,egypt,Aulad Ileiu
+Africa,egypt,Awlad Sarhan
+Africa,egypt,Balyana
+Africa,egypt,Banha
+Africa,egypt,Beni Adi
+Africa,egypt,Beni Mazar
+Africa,egypt,Beni Suef
+Africa,egypt,Biba
+Africa,egypt,Bilbeis
+Africa,egypt,Bilqas
+Africa,egypt,Birma
+Africa,egypt,Bush
+Africa,egypt,Cairo
+Africa,egypt,Dairut
+Africa,egypt,Damanhur
+Africa,egypt,Damietta
+Africa,egypt,Damshir
+Africa,egypt,Daquf
+Africa,egypt,Dayr Abu Maqrufah
+Africa,egypt,Delingat
+Africa,egypt,Desouk
+Africa,egypt,Dirin
+Africa,egypt,Dishna
+Africa,egypt,Diyarb al Suq
+Africa,egypt,Dundet
+Africa,egypt,El Mahalla El Kubra
+Africa,egypt,El Senbellawein City
+Africa,egypt,El Showeifat District
+Africa,egypt,Ezbet Abu Habashi
+Africa,egypt,Ezbet Ahmad al Ballasi
+Africa,egypt,Ezbet al Sibil Qiblli
+Africa,egypt,Faiyum
+Africa,egypt,Faris
+Africa,egypt,Fashn
+Africa,egypt,Fazarah bil Qaryah
+Africa,egypt,Fuwah
+Africa,egypt,Garawan
+Africa,egypt,Geziret Nikla
+Africa,egypt,Ghayyadah al Gharbiyah
+Africa,egypt,Gimmeizet Bilgai
+Africa,egypt,Girga
+Africa,egypt,Hawsh Isa
+Africa,egypt,Hour
+Africa,egypt,Hurghada
+Africa,egypt,Idku
+Africa,egypt,Ihnasya al Madinah
+Africa,egypt,Isna
+Africa,egypt,Itay el-Barud
+Africa,egypt,Izbat Abu Sir
+Africa,egypt,Izbat al Hawwashah
+Africa,egypt,Izbat Bahnasi
+Africa,egypt,Kafr al Arab
+Africa,egypt,Kafr al Bashbishah
+Africa,egypt,Kafr al Dabbusi
+Africa,egypt,Kafr al Dayr
+Africa,egypt,Kafr al Hajj Daud
+Africa,egypt,Kafr al Hajj Shirbini
+Africa,egypt,Kafr al Hawi
+Africa,egypt,Kafr al Rabaya
+Africa,egypt,Kafr al Sharaqwah
+Africa,egypt,Kafr Al-Sheikh
+Africa,egypt,Kafr al Shurafa al Qibli
+Africa,egypt,Kafr Al-Zaiyat
+Africa,egypt,Kafr Awn
+Africa,egypt,Kafr Dinshawai
+Africa,egypt,Kafr Haggag
+Africa,egypt,Kafr Ismail
+Africa,egypt,Kafr Sarawa
+Africa,egypt,Kahk al Qibliya
+Africa,egypt,Kardida
+Africa,egypt,Kawm Abu Shil
+Africa,egypt,Luxor
+Africa,egypt,Maghagheh
+Africa,egypt,Mahdiyah
+Africa,egypt,Mallawi
+Africa,egypt,Manqaţīn
+Africa,egypt,Mansoura
+Africa,egypt,Manuf
+Africa,egypt,Maragha
+Africa,egypt,Markaz Deir Mawas
+Africa,egypt,Marsa Matruh‎
+Africa,egypt,Mehallet Roh
+Africa,egypt,Minshat al Maghaliqah
+Africa,egypt,Minyat Sultan
+Africa,egypt,Minya Al-Qamh
+Africa,egypt,Mit Ghamr
+Africa,egypt,Mit Musa
+Africa,egypt,Muhammad al Askari
+Africa,egypt,Mutubis
+Africa,egypt,Nag Hammadi
+Africa,egypt,Naj al Madamud
+Africa,egypt,Naj al Shaykh Hasan Abu Sabir
+Africa,egypt,Naj Kawm Majanin
+Africa,egypt,Nazlat Dahrut
+Africa,egypt,Nazlet Abu Haseiba
+Africa,egypt,Nazlet al Barsha
+Africa,egypt,Nazlet al Khalayfa
+Africa,egypt,Nazlet al Mughrebi
+Africa,egypt,Nazlet al Sibaat
+Africa,egypt,Nazlet Husein Ali
+Africa,egypt,Nazlet Rimeih
+Africa,egypt,Nida
+Africa,egypt,Port Said
+Africa,egypt,Qalandūl
+Africa,egypt,Qaryat Salah al Din
+Africa,egypt,Qena
+Africa,egypt,Qism Auwal Faqus
+Africa,egypt,Qotur
+Africa,egypt,Qus
+Africa,egypt,Quwaysina
+Africa,egypt,Rosetta
+Africa,egypt,Sadat City
+Africa,egypt,Safur
+Africa,egypt,Samalut
+Africa,egypt,Sandafa al Far
+Africa,egypt,Shamma
+Africa,egypt,Shibin Al-Kom
+Africa,egypt,Shimm al Basal al Bahari
+Africa,egypt,Shubra Khit
+Africa,egypt,Shubra Millis
+Africa,egypt,Shunufa
+Africa,egypt,Shushah
+Africa,egypt,Sinnuris
+Africa,egypt,Sohag
+Africa,egypt,Suez
+Africa,egypt,Sunbat
+Africa,egypt,Tahma
+Africa,egypt,Tala
+Africa,egypt,Tall al Zahirah
+Africa,egypt,Tanta
+Africa,egypt,Tima
+Africa,egypt,Tod
+Africa,egypt,Tukh
+Africa,egypt,Tutun
+Africa,egypt,الغنايم
+Africa,egypt,Zayyan
+Latin America and the Caribbean,guatemala,Aguacatán
+Latin America and the Caribbean,guatemala,Chimaltenango
+Latin America and the Caribbean,guatemala,Chiquimula
+Latin America and the Caribbean,guatemala,Ciudad Vieja [Antigua Guatemala]
+Latin America and the Caribbean,guatemala,Coatepeque
+Latin America and the Caribbean,guatemala,Cobán
+Latin America and the Caribbean,guatemala,El Estor
+Latin America and the Caribbean,guatemala,Escuintla
+Latin America and the Caribbean,guatemala,Flores
+Latin America and the Caribbean,guatemala,Fray Bartolomé de las Casas
+Latin America and the Caribbean,guatemala,Guatemala City
+Latin America and the Caribbean,guatemala,Huehuetenango
+Latin America and the Caribbean,guatemala,Jalapa
+Latin America and the Caribbean,guatemala,Jutiapa
+Latin America and the Caribbean,guatemala,La Leyenda
+Latin America and the Caribbean,guatemala,Malacatán
+Latin America and the Caribbean,guatemala,Mazatenango
+Latin America and the Caribbean,guatemala,Morales
+Latin America and the Caribbean,guatemala,Ostuncalco
+Latin America and the Caribbean,guatemala,Panajachel [Sololá]
+Latin America and the Caribbean,guatemala,Poptún
+Latin America and the Caribbean,guatemala,Puerto Barrios
+Latin America and the Caribbean,guatemala,Quetzaltenango
+Latin America and the Caribbean,guatemala,Retalhuleu
+Latin America and the Caribbean,guatemala,Salamá
+Latin America and the Caribbean,guatemala,Santa Cruz Barillas
+Latin America and the Caribbean,guatemala,Santa Cruz del Quiché
+Latin America and the Caribbean,guatemala,Santa Lucía Cotzumalguapa
+Latin America and the Caribbean,guatemala,Santa María Nebaj
+Latin America and the Caribbean,guatemala,San José Pinula
+Latin America and the Caribbean,guatemala,San Juan Sacatepéquez
+Latin America and the Caribbean,guatemala,San Pedro Sacatepéquez [San Marcos]
+Latin America and the Caribbean,guatemala,Totonicapán
+Africa,ghana,Accra
+Africa,ghana,Agona Swedru
+Africa,ghana,Akatsi
+Africa,ghana,Akim Oda
+Africa,ghana,Asamankese
+Africa,ghana,Assin Fosu
+Africa,ghana,Atebubu
+Africa,ghana,Bawku
+Africa,ghana,Berekum
+Africa,ghana,Bole
+Africa,ghana,Bolgatanga
+Africa,ghana,Cape Coast
+Africa,ghana,Dambai
+Africa,ghana,Dormaa Ahenkro
+Africa,ghana,Dunkwa-on-Ofin
+Africa,ghana,Ejura
+Africa,ghana,Ho
+Africa,ghana,Hohoe
+Africa,ghana,Kete Krachi
+Africa,ghana,Kintampo
+Africa,ghana,Koforidua
+Africa,ghana,Konongo
+Africa,ghana,Kumasi
+Africa,ghana,Mampong
+Africa,ghana,Navrongo
+Africa,ghana,New Tafo Akim
+Africa,ghana,Nkawkaw
+Africa,ghana,Nkoranza
+Africa,ghana,Nsawam
+Africa,ghana,Obuasi
+Africa,ghana,Savelugu
+Africa,ghana,Somanya
+Africa,ghana,Suhum
+Africa,ghana,Sunyani
+Africa,ghana,Takoradi [Sekondi-Takoradi]
+Africa,ghana,Tamale
+Africa,ghana,Techiman
+Africa,ghana,Wa
+Africa,ghana,Walewale
+Africa,ghana,Wenchi
+Africa,ghana,Winneba
+Africa,ghana,Yeji
+Africa,ghana,Yendi
+Africa,guinea,Banankoro
+Africa,guinea,Boké
+Africa,guinea,Conakry
+Africa,guinea,Faranah
+Africa,guinea,Fria
+Africa,guinea,Guéckédou
+Africa,guinea,Kamsar
+Africa,guinea,Kankan
+Africa,guinea,Kindia
+Africa,guinea,Kissidougou
+Africa,guinea,Labé
+Africa,guinea,Macenta
+Africa,guinea,Mamou
+Africa,guinea,Nzérékoré
+Africa,guinea,Sangarédi
+Africa,guinea,Siguiri
+Africa,guinea,Sinko
+Africa,guinea_bissau,Bafatá
+Africa,guinea_bissau,Bissau
+Africa,guinea_bissau,Gabú
+Latin America and the Caribbean,haiti,Anse-à-Galets
+Latin America and the Caribbean,haiti,Cap-Haitien
+Latin America and the Caribbean,haiti,Gonaïves
+Latin America and the Caribbean,haiti,Gros Morne
+Latin America and the Caribbean,haiti,Hinche
+Latin America and the Caribbean,haiti,Jacmel
+Latin America and the Caribbean,haiti,Jérémie
+Latin America and the Caribbean,haiti,Léogâne
+Latin America and the Caribbean,haiti,Les Cayes
+Latin America and the Caribbean,haiti,Mirebalais
+Latin America and the Caribbean,haiti,Ouanaminthe
+Latin America and the Caribbean,haiti,Petit-Goâve
+Latin America and the Caribbean,haiti,Port-au-Prince
+Latin America and the Caribbean,haiti,Port-de-Paix
+Latin America and the Caribbean,haiti,Saint-Louis-du-Nord
+Latin America and the Caribbean,haiti,Saint-Marc
+Latin America and the Caribbean,brazil,Abaetetuba
+Latin America and the Caribbean,brazil,Açailândia
+Latin America and the Caribbean,brazil,Águas Lindas de Goiás
+Latin America and the Caribbean,brazil,Alagoinhas
+Latin America and the Caribbean,brazil,Alfenas
+Latin America and the Caribbean,brazil,Altamira
+Latin America and the Caribbean,brazil,Americana
+Latin America and the Caribbean,brazil,Anápolis
+Latin America and the Caribbean,brazil,Angra dos Reis
+Latin America and the Caribbean,brazil,Apucarana
+Latin America and the Caribbean,brazil,Aracaju
+Latin America and the Caribbean,brazil,Araçatuba
+Latin America and the Caribbean,brazil,Araguaína
+Latin America and the Caribbean,brazil,Araguari
+Latin America and the Caribbean,brazil,Arapiraca
+Latin America and the Caribbean,brazil,Arapongas
+Latin America and the Caribbean,brazil,Araraquara
+Latin America and the Caribbean,brazil,Araras
+Latin America and the Caribbean,brazil,Araruama
+Latin America and the Caribbean,brazil,Araucária
+Latin America and the Caribbean,brazil,Araxá
+Latin America and the Caribbean,brazil,Arcoverde
+Latin America and the Caribbean,brazil,Ariquemes
+Latin America and the Caribbean,brazil,Arujá
+Latin America and the Caribbean,brazil,Assis
+Latin America and the Caribbean,brazil,Atibaia
+Latin America and the Caribbean,brazil,Avaré
+Latin America and the Caribbean,brazil,Bacabal
+Latin America and the Caribbean,brazil,Bagé
+Latin America and the Caribbean,brazil,Balneário Camboriú
+Latin America and the Caribbean,brazil,Balsas
+Latin America and the Caribbean,brazil,Barbacena
+Latin America and the Caribbean,brazil,Barra do Garças
+Latin America and the Caribbean,brazil,Barreiras
+Latin America and the Caribbean,brazil,Barretos
+Latin America and the Caribbean,brazil,Batatais
+Latin America and the Caribbean,brazil,Bauru
+Latin America and the Caribbean,brazil,Bebedouro
+Latin America and the Caribbean,brazil,Belém
+Latin America and the Caribbean,brazil,Belo Horizonte
+Latin America and the Caribbean,brazil,Belo Jardim
+Latin America and the Caribbean,brazil,Belvedere
+Latin America and the Caribbean,brazil,Bento Gonçalves
+Latin America and the Caribbean,brazil,Birigui
+Latin America and the Caribbean,brazil,Blumenau
+Latin America and the Caribbean,brazil,Boa Vista
+Latin America and the Caribbean,brazil,Botucatu
+Latin America and the Caribbean,brazil,Bragança
+Latin America and the Caribbean,brazil,Bragança Paulista
+Latin America and the Caribbean,brazil,Brasília
+Latin America and the Caribbean,brazil,Breves
+Latin America and the Caribbean,brazil,Cabo de Santo Agostinho
+Latin America and the Caribbean,brazil,Cabo Frio
+Latin America and the Caribbean,brazil,Cabrita
+Latin America and the Caribbean,brazil,Caçador
+Latin America and the Caribbean,brazil,Caçapava
+Latin America and the Caribbean,brazil,Cáceres
+Latin America and the Caribbean,brazil,Cachoeira do Sul
+Latin America and the Caribbean,brazil,Cachoeiro de Itapemirim
+Latin America and the Caribbean,brazil,Cacoal
+Latin America and the Caribbean,brazil,Cafubá
+Latin America and the Caribbean,brazil,Caicó
+Latin America and the Caribbean,brazil,Caldas Novas
+Latin America and the Caribbean,brazil,Camaçari
+Latin America and the Caribbean,brazil,Campinas
+Latin America and the Caribbean,brazil,Campina Grande
+Latin America and the Caribbean,brazil,Campos dos Goytacazes
+Latin America and the Caribbean,brazil,Campo Grande
+Latin America and the Caribbean,brazil,Campo Largo
+Latin America and the Caribbean,brazil,Campo Mourão
+Latin America and the Caribbean,brazil,Candeias
+Latin America and the Caribbean,brazil,Canoas
+Latin America and the Caribbean,brazil,Caratinga
+Latin America and the Caribbean,brazil,Carazinho
+Latin America and the Caribbean,brazil,Carpina
+Latin America and the Caribbean,brazil,Caruaru
+Latin America and the Caribbean,brazil,Cascavel
+Latin America and the Caribbean,brazil,Castanhal
+Latin America and the Caribbean,brazil,Cataguases
+Latin America and the Caribbean,brazil,Catalão
+Latin America and the Caribbean,brazil,Catanduva
+Latin America and the Caribbean,brazil,Caxias
+Latin America and the Caribbean,brazil,Caxias do Sul
+Latin America and the Caribbean,brazil,Ceilândia
+Latin America and the Caribbean,brazil,Chapecó
+Latin America and the Caribbean,brazil,Cianorte
+Latin America and the Caribbean,brazil,Coari
+Latin America and the Caribbean,brazil,Codó
+Latin America and the Caribbean,brazil,Colatina
+Latin America and the Caribbean,brazil,Colina de Laranjeiras
+Latin America and the Caribbean,brazil,Conselheiro Lafaiete
+Latin America and the Caribbean,brazil,Coronel Fabriciano
+Latin America and the Caribbean,brazil,Corumbá
+Latin America and the Caribbean,brazil,Cosmópolis
+Latin America and the Caribbean,brazil,Crato
+Latin America and the Caribbean,brazil,Criciúma
+Latin America and the Caribbean,brazil,Cruzeiro
+Latin America and the Caribbean,brazil,Cruzeiro do Sul
+Latin America and the Caribbean,brazil,Cubatão
+Latin America and the Caribbean,brazil,Cuiabá
+Latin America and the Caribbean,brazil,Curitiba
+Latin America and the Caribbean,brazil,Curvelo
+Latin America and the Caribbean,brazil,Dias d'Ávila
+Latin America and the Caribbean,brazil,Divinópolis
+Latin America and the Caribbean,brazil,Dourados
+Latin America and the Caribbean,brazil,Erechim
+Latin America and the Caribbean,brazil,Eunápolis
+Latin America and the Caribbean,brazil,Fazenda Rio Grande
+Latin America and the Caribbean,brazil,Feira de Santana
+Latin America and the Caribbean,brazil,Fernandópolis
+Latin America and the Caribbean,brazil,Floriano
+Latin America and the Caribbean,brazil,Florianópolis
+Latin America and the Caribbean,brazil,Formiga
+Latin America and the Caribbean,brazil,Formosa
+Latin America and the Caribbean,brazil,Fortaleza
+Latin America and the Caribbean,brazil,Franca
+Latin America and the Caribbean,brazil,Francisco Beltrão
+Latin America and the Caribbean,brazil,Francisco Morato
+Latin America and the Caribbean,brazil,Gama
+Latin America and the Caribbean,brazil,Garanhuns
+Latin America and the Caribbean,brazil,Goiana
+Latin America and the Caribbean,brazil,Goianésia
+Latin America and the Caribbean,brazil,Goiânia
+Latin America and the Caribbean,brazil,Governador Valadares
+Latin America and the Caribbean,brazil,Gravatá
+Latin America and the Caribbean,brazil,Gravataí
+Latin America and the Caribbean,brazil,Guaíba
+Latin America and the Caribbean,brazil,Guanambi
+Latin America and the Caribbean,brazil,Guará
+Latin America and the Caribbean,brazil,Guarapari
+Latin America and the Caribbean,brazil,Guarapuava
+Latin America and the Caribbean,brazil,Guaratinguetá
+Latin America and the Caribbean,brazil,Gurupi
+Latin America and the Caribbean,brazil,Ibitinga
+Latin America and the Caribbean,brazil,Icaivera
+Latin America and the Caribbean,brazil,Iguatu
+Latin America and the Caribbean,brazil,Ijuí
+Latin America and the Caribbean,brazil,Ilhéus
+Latin America and the Caribbean,brazil,Imperatriz
+Latin America and the Caribbean,brazil,Indaiatuba
+Latin America and the Caribbean,brazil,Ipatinga
+Latin America and the Caribbean,brazil,Irecê
+Latin America and the Caribbean,brazil,Itabaiana
+Latin America and the Caribbean,brazil,Itabira
+Latin America and the Caribbean,brazil,Itabuna
+Latin America and the Caribbean,brazil,Itacoatiara
+Latin America and the Caribbean,brazil,Itaguaí
+Latin America and the Caribbean,brazil,Itaituba
+Latin America and the Caribbean,brazil,Itajaí
+Latin America and the Caribbean,brazil,Itajubá
+Latin America and the Caribbean,brazil,Itapecerica da Serra
+Latin America and the Caribbean,brazil,Itapema
+Latin America and the Caribbean,brazil,Itaperuna
+Latin America and the Caribbean,brazil,Itapetinga
+Latin America and the Caribbean,brazil,Itapetininga
+Latin America and the Caribbean,brazil,Itapeva
+Latin America and the Caribbean,brazil,Itapipoca
+Latin America and the Caribbean,brazil,Itapira
+Latin America and the Caribbean,brazil,Itapoã
+Latin America and the Caribbean,brazil,Itatiba
+Latin America and the Caribbean,brazil,Itaúna
+Latin America and the Caribbean,brazil,Itu
+Latin America and the Caribbean,brazil,Ituiutaba
+Latin America and the Caribbean,brazil,Itumbiara
+Latin America and the Caribbean,brazil,Jaboticabal
+Latin America and the Caribbean,brazil,Janaúba
+Latin America and the Caribbean,brazil,Jaraguá do Sul
+Latin America and the Caribbean,brazil,Jardim Alice
+Latin America and the Caribbean,brazil,Jardim Britânia
+Latin America and the Caribbean,brazil,Jataí
+Latin America and the Caribbean,brazil,Jaú
+Latin America and the Caribbean,brazil,Jequié
+Latin America and the Caribbean,brazil,Ji-Paraná
+Latin America and the Caribbean,brazil,João Pessoa
+Latin America and the Caribbean,brazil,Joinville
+Latin America and the Caribbean,brazil,Juazeiro do Norte
+Latin America and the Caribbean,brazil,Juiz de Fora
+Latin America and the Caribbean,brazil,Jundiaí
+Latin America and the Caribbean,brazil,Km 32
+Latin America and the Caribbean,brazil,Lages
+Latin America and the Caribbean,brazil,Lajeado
+Latin America and the Caribbean,brazil,Lavras
+Latin America and the Caribbean,brazil,Leme
+Latin America and the Caribbean,brazil,Lençóis Paulista
+Latin America and the Caribbean,brazil,Leticia
+Latin America and the Caribbean,brazil,Limeira
+Latin America and the Caribbean,brazil,Linhares
+Latin America and the Caribbean,brazil,Lins
+Latin America and the Caribbean,brazil,Londrina
+Latin America and the Caribbean,brazil,Lorena
+Latin America and the Caribbean,brazil,Luziânia
+Latin America and the Caribbean,brazil,Macaé
+Latin America and the Caribbean,brazil,Macapá
+Latin America and the Caribbean,brazil,Maceió
+Latin America and the Caribbean,brazil,Manacapuru
+Latin America and the Caribbean,brazil,Manaus
+Latin America and the Caribbean,brazil,Manhuaçu
+Latin America and the Caribbean,brazil,Maraba
+Latin America and the Caribbean,brazil,Marabá
+Latin America and the Caribbean,brazil,Maranguape
+Latin America and the Caribbean,brazil,Marília
+Latin America and the Caribbean,brazil,Maringá
+Latin America and the Caribbean,brazil,Matão
+Latin America and the Caribbean,brazil,Mineiros
+Latin America and the Caribbean,brazil,Mogi Guaçu
+Latin America and the Caribbean,brazil,Mogi Mirim
+Latin America and the Caribbean,brazil,Montes Claros
+Latin America and the Caribbean,brazil,Mossoró
+Latin America and the Caribbean,brazil,Muriaé
+Latin America and the Caribbean,brazil,Natal
+Latin America and the Caribbean,brazil,Nova Friburgo
+Latin America and the Caribbean,brazil,Nova Serrana
+Latin America and the Caribbean,brazil,Novo Hamburgo
+Latin America and the Caribbean,brazil,Ourinhos
+Latin America and the Caribbean,brazil,Pacajus
+Latin America and the Caribbean,brazil,Palmas
+Latin America and the Caribbean,brazil,Paracatu
+Latin America and the Caribbean,brazil,Paragominas
+Latin America and the Caribbean,brazil,Paranaguá
+Latin America and the Caribbean,brazil,Paranavaí
+Latin America and the Caribbean,brazil,Parauapebas
+Latin America and the Caribbean,brazil,Pará de Minas
+Latin America and the Caribbean,brazil,Parintins
+Latin America and the Caribbean,brazil,Parnaíba
+Latin America and the Caribbean,brazil,Parnamirim
+Latin America and the Caribbean,brazil,Parque dos Buritis
+Latin America and the Caribbean,brazil,Parque Santa Rita
+Latin America and the Caribbean,brazil,Passos
+Latin America and the Caribbean,brazil,Passo Fundo
+Latin America and the Caribbean,brazil,Patos
+Latin America and the Caribbean,brazil,Patos de Minas
+Latin America and the Caribbean,brazil,Pato Branco
+Latin America and the Caribbean,brazil,Patrocínio
+Latin America and the Caribbean,brazil,Paulo Afonso
+Latin America and the Caribbean,brazil,Pedro Juan Caballero
+Latin America and the Caribbean,brazil,Pelotas
+Latin America and the Caribbean,brazil,Penápolis
+Latin America and the Caribbean,brazil,Perus
+Latin America and the Caribbean,brazil,Petrolina
+Latin America and the Caribbean,brazil,Petrópolis
+Latin America and the Caribbean,brazil,Pindamonhangaba
+Latin America and the Caribbean,brazil,Piracicaba
+Latin America and the Caribbean,brazil,Pirapora
+Latin America and the Caribbean,brazil,Pirassununga
+Latin America and the Caribbean,brazil,Planaltina
+Latin America and the Caribbean,brazil,Poços de Caldas
+Latin America and the Caribbean,brazil,Polvilho
+Latin America and the Caribbean,brazil,Ponta Grossa
+Latin America and the Caribbean,brazil,Porto Alegre
+Latin America and the Caribbean,brazil,Porto Seguro
+Latin America and the Caribbean,brazil,Porto Velho
+Latin America and the Caribbean,brazil,Potengi
+Latin America and the Caribbean,brazil,Pouso Alegre
+Latin America and the Caribbean,brazil,Praia Grande
+Latin America and the Caribbean,brazil,Presidente Prudente
+Latin America and the Caribbean,brazil,Recanto das Emas
+Latin America and the Caribbean,brazil,Recife
+Latin America and the Caribbean,brazil,Redenção
+Latin America and the Caribbean,brazil,Resende
+Latin America and the Caribbean,brazil,Ribeirão das Neves
+Latin America and the Caribbean,brazil,Ribeirão Pires
+Latin America and the Caribbean,brazil,Ribeirao Preto
+Latin America and the Caribbean,brazil,Rio Branco
+Latin America and the Caribbean,brazil,Rio Claro
+Latin America and the Caribbean,brazil,Rio das Ostras
+Latin America and the Caribbean,brazil,Rio de Janeiro
+Latin America and the Caribbean,brazil,Rio Grande
+Latin America and the Caribbean,brazil,Rio Verde
+Latin America and the Caribbean,brazil,Rivera
+Latin America and the Caribbean,brazil,Rondonópolis
+Latin America and the Caribbean,brazil,Salto
+Latin America and the Caribbean,brazil,Salvador
+Latin America and the Caribbean,brazil,Santana
+Latin America and the Caribbean,brazil,Santarém
+Latin America and the Caribbean,brazil,Santa Cruz do Capibaribe
+Latin America and the Caribbean,brazil,Santa Cruz do Sul
+Latin America and the Caribbean,brazil,Santa Inês
+Latin America and the Caribbean,brazil,Santa Maria
+Latin America and the Caribbean,brazil,Santa Rita
+Latin America and the Caribbean,brazil,Santos
+Latin America and the Caribbean,brazil,Santo Ângelo
+Latin America and the Caribbean,brazil,Santo Antônio de Jesus
+Latin America and the Caribbean,brazil,Santo Antônio do Descoberto
+Latin America and the Caribbean,brazil,São Borja
+Latin America and the Caribbean,brazil,São Carlos
+Latin America and the Caribbean,brazil,São Félix do Xingu
+Latin America and the Caribbean,brazil,Sao Goncalo
+Latin America and the Caribbean,brazil,São João da Boa Vista
+Latin America and the Caribbean,brazil,São João del-Rei
+Latin America and the Caribbean,brazil,Sao Jose dos Campos
+Latin America and the Caribbean,brazil,São José dos Pinhais
+Latin America and the Caribbean,brazil,São José do Rio Preto
+Latin America and the Caribbean,brazil,São Luís
+Latin America and the Caribbean,brazil,São Mateus
+Latin America and the Caribbean,brazil,São Paulo
+Latin America and the Caribbean,brazil,São Roque
+Latin America and the Caribbean,brazil,São Sebastião
+Latin America and the Caribbean,brazil,São Sebastião do Paraíso
+Latin America and the Caribbean,brazil,Sapiranga
+Latin America and the Caribbean,brazil,Sapucaia do Sul
+Latin America and the Caribbean,brazil,Senador Canedo
+Latin America and the Caribbean,brazil,Serra
+Latin America and the Caribbean,brazil,Serra Talhada
+Latin America and the Caribbean,brazil,Sertãozinho
+Latin America and the Caribbean,brazil,Sete Lagoas
+Latin America and the Caribbean,brazil,Simões Filho
+Latin America and the Caribbean,brazil,Sinop
+Latin America and the Caribbean,brazil,Sobradinho
+Latin America and the Caribbean,brazil,Sobral
+Latin America and the Caribbean,brazil,Sorocaba
+Latin America and the Caribbean,brazil,Sorriso
+Latin America and the Caribbean,brazil,Sumaré
+Latin America and the Caribbean,brazil,Tailândia
+Latin America and the Caribbean,brazil,Tangará da Serra
+Latin America and the Caribbean,brazil,Taquaralto
+Latin America and the Caribbean,brazil,Tatuí
+Latin America and the Caribbean,brazil,Taubaté
+Latin America and the Caribbean,brazil,Teixeira de Freitas
+Latin America and the Caribbean,brazil,Telêmaco Borba
+Latin America and the Caribbean,brazil,Teófilo Otoni
+Latin America and the Caribbean,brazil,Teresina
+Latin America and the Caribbean,brazil,Teresópolis
+Latin America and the Caribbean,brazil,Toledo
+Latin America and the Caribbean,brazil,Tramandaí
+Latin America and the Caribbean,brazil,Três Corações
+Latin America and the Caribbean,brazil,Três Lagoas
+Latin America and the Caribbean,brazil,Três Rios
+Latin America and the Caribbean,brazil,Trindade
+Latin America and the Caribbean,brazil,Tubarão
+Latin America and the Caribbean,brazil,Tucuruí
+Latin America and the Caribbean,brazil,Tupã
+Latin America and the Caribbean,brazil,Ubá
+Latin America and the Caribbean,brazil,Uberaba
+Latin America and the Caribbean,brazil,Uberlândia
+Latin America and the Caribbean,brazil,Umuarama
+Latin America and the Caribbean,brazil,Unaí
+Latin America and the Caribbean,brazil,União da Vitória
+Latin America and the Caribbean,brazil,Uruguaiana
+Latin America and the Caribbean,brazil,Varginha
+Latin America and the Caribbean,brazil,Viçosa
+Latin America and the Caribbean,brazil,Vila Velha
+Latin America and the Caribbean,brazil,Vilhena
+Latin America and the Caribbean,brazil,Vitória da Conquista
+Latin America and the Caribbean,brazil,Vitória de Santo Antão
+Latin America and the Caribbean,brazil,Volta Redonda
+Latin America and the Caribbean,brazil,Votuporanga
+Latin America and the Caribbean,honduras,Barrio El Centro
+Latin America and the Caribbean,honduras,Choluteca
+Latin America and the Caribbean,honduras,Comayagua
+Latin America and the Caribbean,honduras,Danli
+Latin America and the Caribbean,honduras,El Progreso
+Latin America and the Caribbean,honduras,Juticalpa
+Latin America and the Caribbean,honduras,La Ceiba
+Latin America and the Caribbean,honduras,Puerto Cortés
+Latin America and the Caribbean,honduras,Santa Rosa
+Latin America and the Caribbean,honduras,San Pedro Sula
+Latin America and the Caribbean,honduras,Siguatepeque
+Latin America and the Caribbean,honduras,Tegucigalpa
+Latin America and the Caribbean,honduras,Villanueva
+Latin America and the Caribbean,jamaica,Kingston
+Latin America and the Caribbean,jamaica,Mandeville
+Latin America and the Caribbean,jamaica,May Pen
+Latin America and the Caribbean,jamaica,Montego Bay
+Asia,iran,Abadan
+Asia,iran,Abadeh
+Asia,iran,Abhar
+Asia,iran,Aghghala
+Asia,iran,Ahar
+Asia,iran,Ahwaz
+Asia,iran,Ajab Shir
+Asia,iran,Aliabad-e Katul
+Asia,iran,Aligudarz
+Asia,iran,Alvand
+Asia,iran,Amol
+Asia,iran,Andimeshk
+Asia,iran,Arak
+Asia,iran,Ardabil
+Asia,iran,Ardakan
+Asia,iran,Asadabad
+Asia,iran,Ashkhaneh
+Asia,iran,Astara
+Asia,iran,Azadshahr
+Asia,iran,Babol
+Asia,iran,Bagh-e Zahra
+Asia,iran,Baharestan
+Asia,iran,Bam
+Asia,iran,Bandar Abbas
+Asia,iran,Bandar-e Anzali
+Asia,iran,Bandar-e Mahshahr
+Asia,iran,Bandar-e Torkaman
+Asia,iran,Bandar Ganaveh
+Asia,iran,Baneh
+Asia,iran,Bardaskan
+Asia,iran,Behbahan
+Asia,iran,Behshahr
+Asia,iran,Bijar
+Asia,iran,Birjand
+Asia,iran,Bojnurd
+Asia,iran,Bonab
+Asia,iran,Borujerd
+Asia,iran,Bushehr
+Asia,iran,Chabahar
+Asia,iran,Chalus
+Asia,iran,Chenaran
+Asia,iran,Darab
+Asia,iran,Dargaz
+Asia,iran,Dehdasht
+Asia,iran,Dezful
+Asia,iran,Divandarreh
+Asia,iran,Dogonbadan
+Asia,iran,Dolatabad
+Asia,iran,Dorud
+Asia,iran,Esfarayen
+Asia,iran,Eslamabad-e Gharb
+Asia,iran,Fasa
+Asia,iran,Firuzabad
+Asia,iran,Fuladshahr
+Asia,iran,Fuman
+Asia,iran,Gheydar
+Asia,iran,Gilan Tappeh
+Asia,iran,Gonbad-e Qabus
+Asia,iran,Gorgan
+Asia,iran,Hamedan
+Asia,iran,Hashtgerd
+Asia,iran,Ilam
+Asia,iran,Iranshahr
+Asia,iran,Isfahan
+Asia,iran,Izeh
+Asia,iran,Jahrom
+Asia,iran,Javanrud
+Asia,iran,Jiroft
+Asia,iran,Kahnuj
+Asia,iran,Kamyaran
+Asia,iran,Kangan Seaport
+Asia,iran,kangavar
+Asia,iran,Kashan
+Asia,iran,Kashmar
+Asia,iran,Kazerun
+Asia,iran,Kerman
+Asia,iran,Kermanshah
+Asia,iran,Khaf
+Asia,iran,Khomein
+Asia,iran,Khorramabad
+Asia,iran,Khorramdarreh
+Asia,iran,Khorramshahr
+Asia,iran,Khoy
+Asia,iran,Kuhdasht
+Asia,iran,Lahijan
+Asia,iran,Lordegan
+Asia,iran,Mahabad
+Asia,iran,Mahdasht
+Asia,iran,Malayer
+Asia,iran,Malekan
+Asia,iran,Maragheh
+Asia,iran,Marand
+Asia,iran,Marivan
+Asia,iran,Marvdasht
+Asia,iran,Mashhad
+Asia,iran,Masjed Soleyman
+Asia,iran,Meshginshahr
+Asia,iran,Miandoab
+Asia,iran,Mianeh
+Asia,iran,Nahavand
+Asia,iran,Najafabad
+Asia,iran,Naqadeh
+Asia,iran,Nazarabad
+Asia,iran,Neka
+Asia,iran,Neyshabur
+Asia,iran,Nurabad
+Asia,iran,Nurabad Mamasani
+Asia,iran,Omidieh
+Asia,iran,Pakdasht
+Asia,iran,Pardis
+Asia,iran,Pardisan
+Asia,iran,Pars Abad
+Asia,iran,Piranshahr
+Asia,iran,Qaem Shahr
+Asia,iran,Qaen
+Asia,iran,Qarchak
+Asia,iran,Qazvin
+Asia,iran,Qeshm
+Asia,iran,Qom
+Asia,iran,Quchan
+Asia,iran,Rafsanjan
+Asia,iran,Ramhormoz
+Asia,iran,Rasht
+Asia,iran,Rooh Abad
+Asia,iran,Roudan
+Asia,iran,Sabzevar
+Asia,iran,Safadasht
+Asia,iran,Salmas
+Asia,iran,Sanandaj
+Asia,iran,Saqqez
+Asia,iran,Sarakhs
+Asia,iran,Saravan
+Asia,iran,Sardasht
+Asia,iran,Sari
+Asia,iran,Sarpol-e Zahab
+Asia,iran,Saveh
+Asia,iran,Semnan
+Asia,iran,Shadegan
+Asia,iran,Shahindezh
+Asia,iran,Shahin Shahr
+Asia,iran,Shahreza
+Asia,iran,Shahrud
+Asia,iran,Shahr-e Babak
+Asia,iran,Shahr-e Kord
+Asia,iran,Shiraz
+Asia,iran,Shirvan
+Asia,iran,Shoushtar
+Asia,iran,Shush
+Asia,iran,Sirjan
+Asia,iran,Songhor
+Asia,iran,Susangerd
+Asia,iran,Tabas
+Asia,iran,Tabriz
+Asia,iran,Takestan
+Asia,iran,Talesh
+Asia,iran,Taybad
+Asia,iran,Tehran
+Asia,iran,Tikab
+Asia,iran,Torbate Heydariye
+Asia,iran,Torbat-e Jam
+Asia,iran,Toyserkan
+Asia,iran,بوکان
+Asia,iran,مهریان
+Asia,iran,Urmia
+Asia,iran,Varamin
+Asia,iran,Yasuj
+Asia,iran,Yazd
+Asia,iran,Zabol
+Asia,iran,Zahedan
+Asia,iran,Zanjan
+Asia,iran,Zarand
+Asia,iran,Zarrinshahr
+Asia,iran,Ab Pakhsh
+Asia,jordan,Al Mafraq
+Asia,jordan,Al Salt
+Asia,jordan,Amman
+Asia,jordan,Aqaba
+Asia,jordan,Ar Ramtha
+Asia,jordan,Irbid
+Asia,jordan,Jerash
+Asia,jordan,Madaba
+Asia,jordan,Wadi Khaw
+Asia,iraq,Ad Diwaniyah
+Asia,iraq,Al ‘Azīzīyah
+Asia,iraq,Al Hillah
+Asia,iraq,Al Khalis
+Asia,iraq,Al Khan
+Asia,iraq,Al Khidhr
+Asia,iraq,Al Madhatiyah
+Asia,iraq,Al-Manathera
+Asia,iraq,Al Musaiyib
+Asia,iraq,Al Qurna
+Asia,iraq,Al-Rumaitha
+Asia,iraq,Al-Shatrah
+Asia,iraq,Amarah
+Asia,iraq,An Numaniyah
+Asia,iraq,Ash Shamiya
+Asia,iraq,As Samawah
+Asia,iraq,As Suwayrah
+Asia,iraq,At Tarimiyah
+Asia,iraq,Az Zubayr
+Asia,iraq,Baba Murda
+Asia,iraq,Baghdad
+Asia,iraq,Baiji
+Asia,iraq,Bani Saad
+Asia,iraq,Baqubah
+Asia,iraq,Basra
+Asia,iraq,Chamchamal
+Asia,iraq,Duhok
+Asia,iraq,Erbil
+Asia,iraq,Fallujah
+Asia,iraq,Gaiyara
+Asia,iraq,Hajiruk
+Asia,iraq,Halabja
+Asia,iraq,Hamam al Alil
+Asia,iraq,Hamdi al Bajaji
+Asia,iraq,Hindiya
+Asia,iraq,Hīt
+Asia,iraq,Husainīya
+Asia,iraq,Kalar
+Asia,iraq,Karbala
+Asia,iraq,Kirkuk
+Asia,iraq,Kut
+Asia,iraq,Mosul
+Asia,iraq,Najaf
+Asia,iraq,Nasiriyah
+Asia,iraq,Qadiyah
+Asia,iraq,Qaryat Arfaylah
+Asia,iraq,Qaryat Qabr al Abd
+Asia,iraq,Ramadi
+Asia,iraq,Saab Al Bour
+Asia,iraq,Samarra
+Asia,iraq,Sinjar
+Asia,iraq,Soran
+Asia,iraq,Sulaymaniyah
+Asia,iraq,Suq al Shyukh
+Asia,iraq,Tal Afar
+Asia,iraq,Tikrit
+Asia,iraq,Tuz Khormato
+Asia,iraq,Zakho
+Asia,iraq,Zawa
+Asia,kazakhstan,Aktau
+Asia,kazakhstan,Aktobe
+Asia,kazakhstan,Almaty
+Asia,kazakhstan,Atyrau
+Asia,kazakhstan,Ayagoz
+Asia,kazakhstan,Ayteke Bi
+Asia,kazakhstan,Jetisay
+Asia,kazakhstan,Karaganda
+Asia,kazakhstan,Kokshetau
+Asia,kazakhstan,Kostanay
+Asia,kazakhstan,Kyzylorda
+Asia,kazakhstan,Nur-Sultan
+Asia,kazakhstan,Oral
+Asia,kazakhstan,Oskemen
+Asia,kazakhstan,Pavlodar
+Asia,kazakhstan,Petropavl
+Asia,kazakhstan,Rudny
+Asia,kazakhstan,Saryagash
+Asia,kazakhstan,Semey
+Asia,kazakhstan,Shieli
+Asia,kazakhstan,Shymkent
+Asia,kazakhstan,Taldykorgan
+Asia,kazakhstan,Taraz
+Asia,kazakhstan,Temirtau
+Asia,kazakhstan,Turkestan
+Asia,kazakhstan,Аксу
+Asia,kazakhstan,Zhanaozen
+Africa,kenya,Bungoma
+Africa,kenya,Busia
+Africa,kenya,Eldoret
+Africa,kenya,El Wak
+Africa,kenya,Free Area
+Africa,kenya,Garissa
+Africa,kenya,Kilifi
+Africa,kenya,Kisii
+Africa,kenya,Kisumu
+Africa,kenya,Kitale
+Africa,kenya,Kitengela
+Africa,kenya,Mandera
+Africa,kenya,Meru
+Africa,kenya,Mombasa
+Africa,kenya,Mtwapa
+Africa,kenya,Nairobi
+Africa,kenya,Naivasha
+Africa,kenya,Nakuru
+Africa,kenya,Ngong
+Africa,kenya,Nyeri
+Africa,kenya,Ongata Rongai
+Africa,kenya,Ruaka
+Africa,kenya,Ruiru
+Africa,kenya,Thika
+Africa,kenya,Ukunda
+Asia,kyrgyzstan,Bishkek
+Asia,kyrgyzstan,Gul'cha
+Asia,kyrgyzstan,Jalalabat
+Asia,kyrgyzstan,Kara-Balta
+Asia,kyrgyzstan,Kerben
+Asia,kyrgyzstan,Nookat
+Asia,kyrgyzstan,Osh
+Asia,kyrgyzstan,Масадан
+Asia,kyrgyzstan,Uzgen
+Asia,laos,Luang Prabang
+Asia,laos,Pakse
+Asia,laos,Thakhek
+Asia,laos,Vientiane
+Asia,lebanon,Baalbek
+Asia,lebanon,Beirut
+Asia,lebanon,Nabatieh
+Asia,lebanon,Saida
+Asia,lebanon,Tripoli
+Asia,lebanon,Tyre
+Asia,lebanon,Zahlé
+Africa,lesotho,Maseru
+Africa,liberia,Buchanan
+Africa,liberia,Ganta
+Africa,liberia,Gbarnga
+Africa,liberia,Kakata
+Africa,liberia,Monrovia
+Africa,libya,Ajdabiya
+Africa,libya,Al Zawiyah
+Africa,libya,Bayda
+Africa,libya,Benghazi
+Africa,libya,Derna
+Africa,libya,Khoms
+Africa,libya,Marj
+Africa,libya,Misrata
+Africa,libya,Qabilat alturki
+Africa,libya,Sabha
+Africa,libya,Sirte
+Africa,libya,Surman
+Africa,libya,Tobruk
+Africa,libya,Tripoli
+Africa,libya,Zliten
+Africa,madagascar,Antananarivo
+Africa,madagascar,Antsirabe
+Africa,madagascar,Mahajanga
+Africa,madagascar,Manakara
+Africa,madagascar,Toliara
+Africa,malawi,Blantyre
+Africa,malawi,Likuni
+Africa,malawi,Lilongwe
+Africa,malawi,Limbe
+Africa,malawi,Mangochi
+Africa,malawi,Mchinji
+Africa,malawi,Mzuzu
+Asia,maldives,Malé
+Asia,malaysia,Alor Setar
+Asia,malaysia,Batu Pahat
+Asia,malaysia,Bintulu
+Asia,malaysia,Bukit Mertajam
+Asia,malaysia,Chukai
+Asia,malaysia,Dungun
+Asia,malaysia,George Town
+Asia,malaysia,Ipoh
+Asia,malaysia,Iskandar Puteri
+Asia,malaysia,Kampong Luak
+Asia,malaysia,Kg. Karamunting Baru
+Asia,malaysia,Kluang
+Asia,malaysia,Kota Bharu
+Asia,malaysia,Kota Kinabalu
+Asia,malaysia,Kuala Lumpur
+Asia,malaysia,Kuala Terengganu
+Asia,malaysia,Kuantan
+Asia,malaysia,Kuching
+Asia,malaysia,Kulai
+Asia,malaysia,Kulim
+Asia,malaysia,Lahad Datu
+Asia,malaysia,Melaka City
+Asia,malaysia,Meru
+Asia,malaysia,Miri
+Asia,malaysia,Muar
+Asia,malaysia,Rawang
+Asia,malaysia,Sandakan
+Asia,malaysia,Semporna
+Asia,malaysia,Seremban
+Asia,malaysia,Sibu
+Asia,malaysia,Sitiawan
+Asia,malaysia,Sungai Petani
+Asia,malaysia,Taiping
+Asia,malaysia,Tanjung Kidurong
+Asia,malaysia,Tawau
+Asia,malaysia,Teluk Intan
+Africa,mali,Bamako
+Africa,mali,Bougouni
+Africa,mali,Gao
+Africa,mali,Kati
+Africa,mali,Kayes
+Africa,mali,Kita
+Africa,mali,Koutiala
+Africa,mali,Mopti
+Africa,mali,Niono
+Africa,mali,San
+Africa,mali,Ségou
+Africa,mali,Sénou
+Africa,mali,Sikasso
+Africa,mali,Socoura
+Africa,mali,Timbuktu
+Africa,mali,Virage de Dioila
+Asia,indonesia,Ajibarang
+Asia,indonesia,Alasdowo
+Asia,indonesia,Ambon
+Asia,indonesia,Ampana
+Asia,indonesia,Amuntai
+Asia,indonesia,Arga Makmur
+Asia,indonesia,Arjawinangun
+Asia,indonesia,Asembagus
+Asia,indonesia,Atambua
+Asia,indonesia,Babakan
+Asia,indonesia,Babat
+Asia,indonesia,Bagan Batu
+Asia,indonesia,Bagan Siapi-api
+Asia,indonesia,Bajawa
+Asia,indonesia,Balangnipa
+Asia,indonesia,Balikpapan
+Asia,indonesia,Bandar Lampung
+Asia,indonesia,Banda Aceh
+Asia,indonesia,Bandung
+Asia,indonesia,Bangkalan
+Asia,indonesia,Bangkinang
+Asia,indonesia,Bangko
+Asia,indonesia,Banjar
+Asia,indonesia,Banjarbaru
+Asia,indonesia,Banjarmasin
+Asia,indonesia,Banjarnegara
+Asia,indonesia,Bantaeng
+Asia,indonesia,Banyuwangi
+Asia,indonesia,Barabai
+Asia,indonesia,Batam City
+Asia,indonesia,Baturaja
+Asia,indonesia,Batu Licin
+Asia,indonesia,Baubau
+Asia,indonesia,Bengkalis
+Asia,indonesia,Bengkulu
+Asia,indonesia,Besuki
+Asia,indonesia,Biak Kota
+Asia,indonesia,Bima
+Asia,indonesia,Binangun
+Asia,indonesia,Bireuen
+Asia,indonesia,Bitung
+Asia,indonesia,Blitar
+Asia,indonesia,Blora
+Asia,indonesia,Bojonegoro
+Asia,indonesia,Bojong
+Asia,indonesia,Bondowoso
+Asia,indonesia,Bontang
+Asia,indonesia,Bukittinggi
+Asia,indonesia,Bulukumba
+Asia,indonesia,Ciherang
+Asia,indonesia,Cikajang
+Asia,indonesia,Cikembulan
+Asia,indonesia,Cilacap
+Asia,indonesia,Cilegon
+Asia,indonesia,Cipeuyeum
+Asia,indonesia,Cirebon
+Asia,indonesia,Citeko Kaler
+Asia,indonesia,Ciwidey
+Asia,indonesia,Combongan
+Asia,indonesia,Curup
+Asia,indonesia,Demak
+Asia,indonesia,Denpasar
+Asia,indonesia,Dompu
+Asia,indonesia,Dumai
+Asia,indonesia,Duri
+Asia,indonesia,Ende
+Asia,indonesia,Fakfak
+Asia,indonesia,Garut
+Asia,indonesia,Gedong Tataan
+Asia,indonesia,Gembongan
+Asia,indonesia,Genteng
+Asia,indonesia,Gombong
+Asia,indonesia,Gorontalo
+Asia,indonesia,Gresik
+Asia,indonesia,Gunungsitoli
+Asia,indonesia,Gunung Sugih
+Asia,indonesia,Gunung Tua
+Asia,indonesia,Haurgeulis
+Asia,indonesia,Indramayu
+Asia,indonesia,Jakarta
+Asia,indonesia,Jambi
+Asia,indonesia,Jatibarang
+Asia,indonesia,Jatiwangi
+Asia,indonesia,Jayapura
+Asia,indonesia,Jember
+Asia,indonesia,Jombang
+Asia,indonesia,Juwana
+Asia,indonesia,Kalabahi
+Asia,indonesia,Kalianda
+Asia,indonesia,Kalibening
+Asia,indonesia,Kandangan
+Asia,indonesia,Karangsembung
+Asia,indonesia,Karang Baru
+Asia,indonesia,Kebumen
+Asia,indonesia,Kecamatan Sape
+Asia,indonesia,Kecamatan Wanasaba
+Asia,indonesia,Kediri
+Asia,indonesia,Kel Rijali
+Asia,indonesia,Kendari
+Asia,indonesia,Kepuh Rubuh
+Asia,indonesia,Kertosono
+Asia,indonesia,Ketapang
+Asia,indonesia,Kisaran
+Asia,indonesia,Klampok
+Asia,indonesia,Kolaka
+Asia,indonesia,Kotabaru
+Asia,indonesia,Kotabumi
+Asia,indonesia,Kotamobagu
+Asia,indonesia,Kuala Kapuas
+Asia,indonesia,Kuningan
+Asia,indonesia,Kunjang
+Asia,indonesia,Kupang
+Asia,indonesia,Labuan Bajo
+Asia,indonesia,Lahat
+Asia,indonesia,Lamongan
+Asia,indonesia,Langkap
+Asia,indonesia,Langsa
+Asia,indonesia,Langseb
+Asia,indonesia,Larantuka
+Asia,indonesia,Lepar Samura
+Asia,indonesia,Lhokseumawe
+Asia,indonesia,Limboto
+Asia,indonesia,Lubuklinggau
+Asia,indonesia,Lubuk Pakam
+Asia,indonesia,Lumajang
+Asia,indonesia,Luwuk
+Asia,indonesia,Madiun
+Asia,indonesia,Magelang
+Asia,indonesia,Majalengka
+Asia,indonesia,Majenang
+Asia,indonesia,Makassar
+Asia,indonesia,Malangbong
+Asia,indonesia,Mamuju
+Asia,indonesia,Manado
+Asia,indonesia,Mandalakasih
+Asia,indonesia,Mandiraja
+Asia,indonesia,Manna
+Asia,indonesia,Manokwari
+Asia,indonesia,Maos
+Asia,indonesia,Marabahan
+Asia,indonesia,Masohi
+Asia,indonesia,Mataram
+Asia,indonesia,Maumere
+Asia,indonesia,Medan
+Asia,indonesia,Mekarjaya
+Asia,indonesia,Merauke
+Asia,indonesia,Metro
+Asia,indonesia,Meulaboh
+Asia,indonesia,Mojokerto
+Asia,indonesia,Muaratewe
+Asia,indonesia,Muara Bungo
+Asia,indonesia,Muara Enim
+Asia,indonesia,Muncar
+Asia,indonesia,Muntok
+Asia,indonesia,Nabire
+Asia,indonesia,Negara
+Asia,indonesia,Ngabang
+Asia,indonesia,Nganjuk
+Asia,indonesia,Ngawi
+Asia,indonesia,Nunukan
+Asia,indonesia,Pacitan
+Asia,indonesia,Padang
+Asia,indonesia,Padang Sidempuan
+Asia,indonesia,Pagar Alam
+Asia,indonesia,Pagojengan
+Asia,indonesia,Palabuhanratu
+Asia,indonesia,Palangka Raya
+Asia,indonesia,Palembang
+Asia,indonesia,Palopo
+Asia,indonesia,Palu
+Asia,indonesia,Pamekasan
+Asia,indonesia,Pandan
+Asia,indonesia,Pandanwangi
+Asia,indonesia,Pandeglang
+Asia,indonesia,Pangkajene
+Asia,indonesia,Pangkalan Brandan
+Asia,indonesia,Pangkalan Kerinci
+Asia,indonesia,Pangkalpinang
+Asia,indonesia,Panjunan
+Asia,indonesia,Panyabungan
+Asia,indonesia,Pare
+Asia,indonesia,Pare-Pare
+Asia,indonesia,Parigi
+Asia,indonesia,Pasirian
+Asia,indonesia,Pasuruan
+Asia,indonesia,Pati
+Asia,indonesia,Payakumbuh
+Asia,indonesia,Pedurungan
+Asia,indonesia,Pekalongan
+Asia,indonesia,Pekanbaru
+Asia,indonesia,Pelaihari
+Asia,indonesia,Pemalang
+Asia,indonesia,Pemangkat
+Asia,indonesia,Pematang Siantar
+Asia,indonesia,Perak
+Asia,indonesia,Perawang
+Asia,indonesia,Pinrang
+Asia,indonesia,Polewali
+Asia,indonesia,Pontianak
+Asia,indonesia,Poso
+Asia,indonesia,Prabumulih
+Asia,indonesia,Pringsewu
+Asia,indonesia,Probolinggo
+Asia,indonesia,Purwakarta
+Asia,indonesia,Purwodadi
+Asia,indonesia,Purwokerto
+Asia,indonesia,Purworejo
+Asia,indonesia,Raha
+Asia,indonesia,Rangkasbitung
+Asia,indonesia,Rantau Prapat
+Asia,indonesia,Rantepao
+Asia,indonesia,Rembang
+Asia,indonesia,Rowosari
+Asia,indonesia,Ruteng
+Asia,indonesia,Salatiga
+Asia,indonesia,Samarinda
+Asia,indonesia,Sampang
+Asia,indonesia,Sampit
+Asia,indonesia,Sangatta
+Asia,indonesia,Sanggau
+Asia,indonesia,Selatpanjang
+Asia,indonesia,Selong
+Asia,indonesia,Semarang
+Asia,indonesia,Semarapura
+Asia,indonesia,Sembulung
+Asia,indonesia,Semurup
+Asia,indonesia,Sengkang
+Asia,indonesia,Serang
+Asia,indonesia,Seririt
+Asia,indonesia,Serui Kota
+Asia,indonesia,Sibolga
+Asia,indonesia,Sidikalang
+Asia,indonesia,Sidogede
+Asia,indonesia,Sidorejo
+Asia,indonesia,Sigli
+Asia,indonesia,Singaraja
+Asia,indonesia,Singkawang
+Asia,indonesia,Sintang
+Asia,indonesia,Situbondo
+Asia,indonesia,Slorok
+Asia,indonesia,Solok
+Asia,indonesia,Sorong
+Asia,indonesia,Sragen
+Asia,indonesia,Sri Tejo Kencono
+Asia,indonesia,Stabat
+Asia,indonesia,Subang
+Asia,indonesia,Sukoharjo
+Asia,indonesia,Sukorejo
+Asia,indonesia,Sumbawa Besar
+Asia,indonesia,Sumedang
+Asia,indonesia,Sumenep
+Asia,indonesia,Sumuradem
+Asia,indonesia,Sungai Tendang
+Asia,indonesia,Surabaya
+Asia,indonesia,Tabanan
+Asia,indonesia,Tajungan
+Asia,indonesia,Takatidung
+Asia,indonesia,Tambakrejo
+Asia,indonesia,Tana Paser
+Asia,indonesia,Tanjungsari
+Asia,indonesia,Tanjung Balai
+Asia,indonesia,Tanjung Balai Karimun
+Asia,indonesia,Tanjung Enim
+Asia,indonesia,Tanjung Pandan
+Asia,indonesia,Tanjung Pinang
+Asia,indonesia,Tanjung Redeb
+Asia,indonesia,Tarakan
+Asia,indonesia,Tarutung
+Asia,indonesia,Tasikmalaya
+Asia,indonesia,Tebing Suluh
+Asia,indonesia,Tebing Tinggi
+Asia,indonesia,Tegal
+Asia,indonesia,Tegalsari
+Asia,indonesia,Temanggung
+Asia,indonesia,Tembilahan
+Asia,indonesia,Ternate
+Asia,indonesia,Timika
+Asia,indonesia,Tobelo
+Asia,indonesia,Toboali
+Asia,indonesia,Tolitoli
+Asia,indonesia,Tomohon
+Asia,indonesia,Tondano
+Asia,indonesia,Trenggalek
+Asia,indonesia,Tual
+Asia,indonesia,Tuban
+Asia,indonesia,Tulungagung
+Asia,indonesia,Ujung Batu
+Asia,indonesia,Uteun Geulinggang
+Asia,indonesia,Waingapu
+Asia,indonesia,Wangon
+Asia,indonesia,Watampone
+Asia,indonesia,Wates
+Asia,indonesia,Wonokarto
+Asia,indonesia,Wonosari
+Asia,indonesia,Wonosobo
+Asia,indonesia,Yogyakarta
+Africa,mauritania,Nouadhibou
+Africa,mauritania,Nouakchott
+Africa,mauritania,Rosso Sénégal
+Africa,mauritius,Port Louis
+Europe,moldova,Bălți
+Europe,moldova,Bender
+Europe,moldova,Chișinău
+Europe,moldova,Rybnitsa
+Europe,moldova,Tiraspol
+Asia,mongolia,Ulaanbaatar
+Africa,morocco,Agadir
+Africa,morocco,Ain El Aouda
+Africa,morocco,Ain Taoujdate
+Africa,morocco,Al Hoceima
+Africa,morocco,Azemmour
+Africa,morocco,Azrou
+Africa,morocco,Bejaad
+Africa,morocco,Beni Mellal
+Africa,morocco,Berkane
+Africa,morocco,Berrechid
+Africa,morocco,Casablanca
+Africa,morocco,Chefchaouen
+Africa,morocco,Dar Bouazza
+Africa,morocco,Deroua
+Africa,morocco,El Jadida
+Africa,morocco,El Kelaa des Sraghna
+Africa,morocco,Errachidia
+Africa,morocco,Essaouira
+Africa,morocco,Fez
+Africa,morocco,Fkih Ben Salah
+Africa,morocco,Guelmim
+Africa,morocco,Guercif
+Africa,morocco,Kasba Tadla
+Africa,morocco,Kenitra
+Africa,morocco,Khemisset
+Africa,morocco,Khenifra
+Africa,morocco,Khouribga
+Africa,morocco,Ksar el-Kebir
+Africa,morocco,Larache
+Africa,morocco,Marrakesh
+Africa,morocco,Martil
+Africa,morocco,Meknes
+Africa,morocco,Melilla
+Africa,morocco,Midelt
+Africa,morocco,Nador
+Africa,morocco,Ouazzane
+Africa,morocco,Oued Zem
+Africa,morocco,Oujda
+Africa,morocco,Ouled-Teima
+Africa,morocco,Rabat
+Africa,morocco,Safi
+Africa,morocco,Sefrou
+Africa,morocco,Settat
+Africa,morocco,Sidi Bennour
+Africa,morocco,Sidi Kacem
+Africa,morocco,Sidi Slimane
+Africa,morocco,Sidi Yahya du Gharb
+Africa,morocco,Souk Sebt Oulad Nemma
+Africa,morocco,Tangier
+Africa,morocco,Taourirt
+Africa,morocco,Taroudant
+Africa,morocco,Taza
+Africa,morocco,Tétouan
+Africa,morocco,Tiflet
+Africa,morocco,Tiznit
+Africa,morocco,Youssoufia ⵍⵉⵡⵙⵓⴼⵉⵢⴰ اليوسفية
+Africa,morocco,Zagora
+Africa,morocco,Souk El Arba Du Gharb
+Africa,mozambique,Beira
+Africa,mozambique,Catandica
+Africa,mozambique,Chibuto
+Africa,mozambique,Chimoio
+Africa,mozambique,Cuamba
+Africa,mozambique,Dondo
+Africa,mozambique,Inhambane
+Africa,mozambique,Lichinga
+Africa,mozambique,Manga
+Africa,mozambique,Maputo
+Africa,mozambique,Massinga
+Africa,mozambique,Maxixe
+Africa,mozambique,Moatize
+Africa,mozambique,Mocímboa da Praia
+Africa,mozambique,Mocuba
+Africa,mozambique,Moma
+Africa,mozambique,Montepuez
+Africa,mozambique,Nacala
+Africa,mozambique,Namacurra
+Africa,mozambique,Nampula
+Africa,mozambique,Quelimane
+Africa,mozambique,Tete
+Africa,mozambique,N/A
+Africa,mozambique,Xai-Xai
+Africa,namibia,Windhoek
+Asia,myanmar,Aunglan
+Asia,myanmar,Aungpan
+Asia,myanmar,Bago
+Asia,myanmar,Bhamo
+Asia,myanmar,Chauk
+Asia,myanmar,Dagon Seikkan
+Asia,myanmar,Dawei
+Asia,myanmar,Hinthada
+Asia,myanmar,Hopong
+Asia,myanmar,Hpa-An
+Asia,myanmar,Hsipaw
+Asia,myanmar,Katha
+Asia,myanmar,Kawthaung
+Asia,myanmar,Kengtung
+Asia,myanmar,Kutkai
+Asia,myanmar,Kyaiklat
+Asia,myanmar,Kyaukme
+Asia,myanmar,Kyaukpadaung
+Asia,myanmar,Lashio
+Asia,myanmar,Laukkaing
+Asia,myanmar,Lawksawk
+Asia,myanmar,Lewe
+Asia,myanmar,Loikaw
+Asia,myanmar,Madaya
+Asia,myanmar,Magway
+Asia,myanmar,Mandalay
+Asia,myanmar,Mawlamyine
+Asia,myanmar,Meiktila
+Asia,myanmar,Mogok
+Asia,myanmar,Mohnyin
+Asia,myanmar,Monywa
+Asia,myanmar,Mudon
+Asia,myanmar,Myan Aung
+Asia,myanmar,Myaungmya
+Asia,myanmar,Myawaddy
+Asia,myanmar,Myeik
+Asia,myanmar,Myingyan
+Asia,myanmar,Myitkyina
+Asia,myanmar,Namhkam
+Asia,myanmar,Nansang
+Asia,myanmar,Nattalin
+Asia,myanmar,Nawnghkio
+Asia,myanmar,Naypyidaw
+Asia,myanmar,Nyaunglebin
+Asia,myanmar,Nyaung Shwe
+Asia,myanmar,Pakokku
+Asia,myanmar,Panglong
+Asia,myanmar,Pathein
+Asia,myanmar,Payathonzu
+Asia,myanmar,Pyapon
+Asia,myanmar,Pyawbwe
+Asia,myanmar,Pyay
+Asia,myanmar,Pyin Oo Lwin
+Asia,myanmar,Pyu
+Asia,myanmar,Sar Hpo Su
+Asia,myanmar,Shwebo
+Asia,myanmar,Sittwe
+Asia,myanmar,Tachileik
+Asia,myanmar,Tangyan
+Asia,myanmar,Tan Soe တံစိုး
+Asia,myanmar,Tatkon
+Asia,myanmar,Taungdwingyi
+Asia,myanmar,Taunggyi
+Asia,myanmar,Taungoo
+Asia,myanmar,Thaton
+Asia,myanmar,Thazi
+Asia,myanmar,Thongwa
+Asia,myanmar,Twante
+Asia,myanmar,N/A
+Asia,myanmar,War Kha Yu
+Asia,myanmar,Wundwin
+Asia,myanmar,Yamethin
+Asia,myanmar,Yangon
+Asia,nepal,Bharatpur
+Asia,nepal,Biratnagar
+Asia,nepal,Birtamod
+Asia,nepal,Damak
+Asia,nepal,Itahari
+Asia,nepal,Kathmandu
+Asia,nepal,Nepalgunj
+Asia,nepal,Pokhara
+Latin America and the Caribbean,nicaragua,Bilwi (Puerto Cabezas)
+Latin America and the Caribbean,nicaragua,Chinandega
+Latin America and the Caribbean,nicaragua,El Viejo
+Latin America and the Caribbean,nicaragua,Esteli
+Latin America and the Caribbean,nicaragua,Granada
+Latin America and the Caribbean,nicaragua,Jinotega
+Latin America and the Caribbean,nicaragua,Jinotepe
+Latin America and the Caribbean,nicaragua,Juigalpa
+Latin America and the Caribbean,nicaragua,León
+Latin America and the Caribbean,nicaragua,Managua
+Latin America and the Caribbean,nicaragua,Masaya
+Latin America and the Caribbean,nicaragua,Matagalpa
+Latin America and the Caribbean,nicaragua,Tipitapa
+Africa,niger,Agadez
+Africa,niger,Aguié
+Africa,niger,Baléyara
+Africa,niger,Birni N'Konni
+Africa,niger,Diffa
+Africa,niger,Dogondoutchi
+Africa,niger,Dosso
+Africa,niger,Filingué
+Africa,niger,Gaya
+Africa,niger,Gazaoua
+Africa,niger,Guidan Roumdji
+Africa,niger,Madaoua
+Africa,niger,Magaria
+Africa,niger,Maradi
+Africa,niger,Mayahi
+Africa,niger,Niamey
+Africa,niger,Tahoua
+Africa,niger,Tanout
+Africa,niger,Tchadoua
+Africa,niger,Tessaoua
+Africa,niger,Tibiri
+Africa,niger,Zinder
+Asia,north_korea,Anju
+Asia,north_korea,Chŏngjin
+Asia,north_korea,Haeju
+Asia,north_korea,Hamhung
+Asia,north_korea,Hamju
+Asia,north_korea,Hoeryong
+Asia,north_korea,Hongwon
+Asia,north_korea,Huichon
+Asia,north_korea,Hyesan
+Asia,north_korea,Jonchon
+Asia,north_korea,Jongju
+Asia,north_korea,Jongphyong
+Asia,north_korea,Kaechon
+Asia,north_korea,Kaesong
+Asia,north_korea,Kangdong
+Asia,north_korea,Kanggye
+Asia,north_korea,Kangson
+Asia,north_korea,Kimch'aek
+Asia,north_korea,Kumya
+Asia,north_korea,Kusong
+Asia,north_korea,Kwaksan
+Asia,north_korea,Kyonghung
+Asia,north_korea,Munchon
+Asia,north_korea,Musan
+Asia,north_korea,Nampo
+Asia,north_korea,Omong-ri
+Asia,north_korea,Onchon
+Asia,north_korea,Ongjin
+Asia,north_korea,Paechon
+Asia,north_korea,Phyongsan
+Asia,north_korea,Pyongyang
+Asia,north_korea,P'yŏnghwa-ri
+Asia,north_korea,P'yŏngsŏng
+Asia,north_korea,Rason
+Asia,north_korea,Ryongchon
+Asia,north_korea,Sariwŏn
+Asia,north_korea,Sillyeonpo
+Asia,north_korea,Sinpho
+Asia,north_korea,Sinpyong
+Asia,north_korea,Sonchon
+Asia,north_korea,Songnim
+Asia,north_korea,Sukchon
+Asia,north_korea,Taean
+Asia,north_korea,Tanchon
+Asia,north_korea,Tokchon
+Asia,north_korea,Tǒktaedonggok
+Asia,north_korea,Tongrim
+Asia,north_korea,N/A
+Asia,north_korea,Wonsan
+Asia,north_korea,Yonan
+Latin America and the Caribbean,mexico,Acámbaro
+Latin America and the Caribbean,mexico,Acapulco
+Latin America and the Caribbean,mexico,Acayucan
+Latin America and the Caribbean,mexico,Aguascalientes
+Latin America and the Caribbean,mexico,Agua Prieta
+Latin America and the Caribbean,mexico,Altamira
+Latin America and the Caribbean,mexico,Apatzingán
+Latin America and the Caribbean,mexico,Apizaco
+Latin America and the Caribbean,mexico,Arandas
+Latin America and the Caribbean,mexico,Atlixco
+Latin America and the Caribbean,mexico,Cabo San Lucas
+Latin America and the Caribbean,mexico,Cadereyta Jiménez
+Latin America and the Caribbean,mexico,Campeche
+Latin America and the Caribbean,mexico,Cancún
+Latin America and the Caribbean,mexico,Capulhuac de Mirafuentes
+Latin America and the Caribbean,mexico,Cárdenas
+Latin America and the Caribbean,mexico,Celaya
+Latin America and the Caribbean,mexico,Chetumal
+Latin America and the Caribbean,mexico,Chiconcuac
+Latin America and the Caribbean,mexico,Chihuahua
+Latin America and the Caribbean,mexico,Chilpancingo
+Latin America and the Caribbean,mexico,Ciudad Acuña
+Latin America and the Caribbean,mexico,Ciudad del Carmen
+Latin America and the Caribbean,mexico,Ciudad Guzmán
+Latin America and the Caribbean,mexico,Ciudad Hidalgo
+Latin America and the Caribbean,mexico,Ciudad Juárez
+Latin America and the Caribbean,mexico,Ciudad Mante
+Latin America and the Caribbean,mexico,Ciudad Obregón
+Latin America and the Caribbean,mexico,Ciudad Valles
+Latin America and the Caribbean,mexico,Ciudad Victoria
+Latin America and the Caribbean,mexico,Coatepec
+Latin America and the Caribbean,mexico,Coatzacoalcos
+Latin America and the Caribbean,mexico,Colima
+Latin America and the Caribbean,mexico,Colonia Santa Teresa
+Latin America and the Caribbean,mexico,Comitán
+Latin America and the Caribbean,mexico,Córdoba
+Latin America and the Caribbean,mexico,Cortazar
+Latin America and the Caribbean,mexico,Coyotepec
+Latin America and the Caribbean,mexico,Cuauhtémoc
+Latin America and the Caribbean,mexico,Cuautla
+Latin America and the Caribbean,mexico,Cuernavaca
+Latin America and the Caribbean,mexico,Culiacán
+Latin America and the Caribbean,mexico,Delicias
+Latin America and the Caribbean,mexico,Dolores Hidalgo
+Latin America and the Caribbean,mexico,Durango
+Latin America and the Caribbean,mexico,El Tejar
+Latin America and the Caribbean,mexico,Ensenada
+Latin America and the Caribbean,mexico,Fraccionamientos del Sur
+Latin America and the Caribbean,mexico,Fresnillo
+Latin America and the Caribbean,mexico,García
+Latin America and the Caribbean,mexico,Guadalajara
+Latin America and the Caribbean,mexico,Guamúchil
+Latin America and the Caribbean,mexico,Guanajuato
+Latin America and the Caribbean,mexico,Guasave
+Latin America and the Caribbean,mexico,Guaymas
+Latin America and the Caribbean,mexico,Hermosillo
+Latin America and the Caribbean,mexico,Heroica Caborca
+Latin America and the Caribbean,mexico,Heroica Nogales
+Latin America and the Caribbean,mexico,Hidalgo del Parral
+Latin America and the Caribbean,mexico,Huajuapan
+Latin America and the Caribbean,mexico,Huamantla
+Latin America and the Caribbean,mexico,Huauchinango
+Latin America and the Caribbean,mexico,Huehuetoca
+Latin America and the Caribbean,mexico,Iguala
+Latin America and the Caribbean,mexico,Irapuato
+Latin America and the Caribbean,mexico,Jacona de Plancarte
+Latin America and the Caribbean,mexico,Juchitán
+Latin America and the Caribbean,mexico,Lagos de Moreno
+Latin America and the Caribbean,mexico,Las Delicias
+Latin America and the Caribbean,mexico,Lázaro Cárdenas
+Latin America and the Caribbean,mexico,La Paz
+Latin America and the Caribbean,mexico,La Piedad de Cabadas
+Latin America and the Caribbean,mexico,León
+Latin America and the Caribbean,mexico,Linares
+Latin America and the Caribbean,mexico,Los Mochis
+Latin America and the Caribbean,mexico,Los Reyes Acozac
+Latin America and the Caribbean,mexico,Manzanillo
+Latin America and the Caribbean,mexico,Martínez de la Torre
+Latin America and the Caribbean,mexico,Matamoros
+Latin America and the Caribbean,mexico,Matehuala
+Latin America and the Caribbean,mexico,Mazatlán
+Latin America and the Caribbean,mexico,Mérida
+Latin America and the Caribbean,mexico,Mexicali
+Latin America and the Caribbean,mexico,Mexico City
+Latin America and the Caribbean,mexico,Minatitlán
+Latin America and the Caribbean,mexico,Monclova
+Latin America and the Caribbean,mexico,Monterrey
+Latin America and the Caribbean,mexico,Morelia
+Latin America and the Caribbean,mexico,Navojoa
+Latin America and the Caribbean,mexico,Nuevo Casas Grandes
+Latin America and the Caribbean,mexico,Nuevo Laredo
+Latin America and the Caribbean,mexico,Oaxaca
+Latin America and the Caribbean,mexico,Ocotlán
+Latin America and the Caribbean,mexico,Orizaba
+Latin America and the Caribbean,mexico,Pachuca
+Latin America and the Caribbean,mexico,Papantla de Olarte
+Latin America and the Caribbean,mexico,Pátzcuaro
+Latin America and the Caribbean,mexico,Piedras Negras
+Latin America and the Caribbean,mexico,Playa del Carmen
+Latin America and the Caribbean,mexico,Poza Rica
+Latin America and the Caribbean,mexico,Puebla
+Latin America and the Caribbean,mexico,Puerto Peñasco
+Latin America and the Caribbean,mexico,Puerto Vallarta
+Latin America and the Caribbean,mexico,Querétaro
+Latin America and the Caribbean,mexico,Ramos Arizpe
+Latin America and the Caribbean,mexico,Reynosa
+Latin America and the Caribbean,mexico,Rioverde
+Latin America and the Caribbean,mexico,Río Bravo
+Latin America and the Caribbean,mexico,Rosarito
+Latin America and the Caribbean,mexico,Sahuayo de Morelos
+Latin America and the Caribbean,mexico,Salamanca
+Latin America and the Caribbean,mexico,Salina Cruz
+Latin America and the Caribbean,mexico,Saltillo
+Latin America and the Caribbean,mexico,Santo Domingo Tehuantepec
+Latin America and the Caribbean,mexico,San Andrés Tuxtla
+Latin America and the Caribbean,mexico,San Cristóbal
+Latin America and the Caribbean,mexico,San Francisco del Rincón
+Latin America and the Caribbean,mexico,San José del Cabo
+Latin America and the Caribbean,mexico,San Juan del Río
+Latin America and the Caribbean,mexico,San Juan de los Lagos
+Latin America and the Caribbean,mexico,San Luis
+Latin America and the Caribbean,mexico,San Luis de la Paz
+Latin America and the Caribbean,mexico,San Luis Potosí
+Latin America and the Caribbean,mexico,San Luis Río Colorado
+Latin America and the Caribbean,mexico,San Miguel de Allende
+Latin America and the Caribbean,mexico,San Miguel de Cozumel
+Latin America and the Caribbean,mexico,San Pedro de las Colonias
+Latin America and the Caribbean,mexico,Silao
+Latin America and the Caribbean,mexico,Tampico
+Latin America and the Caribbean,mexico,Tapachula
+Latin America and the Caribbean,mexico,Taxco
+Latin America and the Caribbean,mexico,Tecate
+Latin America and the Caribbean,mexico,Tecoman
+Latin America and the Caribbean,mexico,Tehuacán
+Latin America and the Caribbean,mexico,Tepatitlán
+Latin America and the Caribbean,mexico,Tepetlixpa
+Latin America and the Caribbean,mexico,Tepic
+Latin America and the Caribbean,mexico,Tesistán
+Latin America and the Caribbean,mexico,Texmelucan
+Latin America and the Caribbean,mexico,Teziutlán
+Latin America and the Caribbean,mexico,Tierra Blanca
+Latin America and the Caribbean,mexico,Tizayuca
+Latin America and the Caribbean,mexico,Tlajomulco
+Latin America and the Caribbean,mexico,Tlapa de Comonfort
+Latin America and the Caribbean,mexico,Tlaxcala
+Latin America and the Caribbean,mexico,Toluca
+Latin America and the Caribbean,mexico,Torreon
+Latin America and the Caribbean,mexico,Tulancingo
+Latin America and the Caribbean,mexico,Tula de Allende
+Latin America and the Caribbean,mexico,Túxpam
+Latin America and the Caribbean,mexico,Tuxtepec
+Latin America and the Caribbean,mexico,Tuxtla Gutiérrez
+Latin America and the Caribbean,mexico,Uriangato
+Latin America and the Caribbean,mexico,Uruapan
+Latin America and the Caribbean,mexico,Valladolid
+Latin America and the Caribbean,mexico,Valle de Santiago
+Latin America and the Caribbean,mexico,Veracruz
+Latin America and the Caribbean,mexico,Villahermosa
+Latin America and the Caribbean,mexico,Xalapa
+Latin America and the Caribbean,mexico,Xonacatlán
+Latin America and the Caribbean,mexico,Zacatecas
+Latin America and the Caribbean,mexico,Zacatelco
+Latin America and the Caribbean,mexico,Zamora
+Latin America and the Caribbean,mexico,Zihuatanejo
+Latin America and the Caribbean,mexico,Zitácuaro
+Latin America and the Caribbean,mexico,Zumpango
+Asia,india,Abohar
+Asia,india,Adra
+Asia,india,Agartala
+Asia,india,Agra
+Asia,india,Aizawl
+Asia,india,Ajmer
+Asia,india,Akbarpur
+Asia,india,Aligarh
+Asia,india,Alipurduar
+Asia,india,Alwar
+Asia,india,Ambah
+Asia,india,Ambala
+Asia,india,Amer
+Asia,india,Amritsar
+Asia,india,Amroha
+Asia,india,Anantnag
+Asia,india,Anpara
+Asia,india,Araria
+Asia,india,Arrah
+Asia,india,Asansol
+Asia,india,Asop
+Asia,india,Atarra Buzurg
+Asia,india,Atrauli
+Asia,india,Auraiya
+Asia,india,Aurangabad
+Asia,india,Azamgarh
+Asia,india,Azara
+Asia,india,Babrala
+Asia,india,Bachhrawan
+Asia,india,Badarpur
+Asia,india,Baddi
+Asia,india,Badkulla
+Asia,india,Baghpat
+Asia,india,Bagru
+Asia,india,Baheri
+Asia,india,Bahraich
+Asia,india,Bajpur
+Asia,india,Bakewar
+Asia,india,Balagarh
+Asia,india,Balasore
+Asia,india,Ballia
+Asia,india,Balrampur
+Asia,india,Balurghat
+Asia,india,Bamaur
+Asia,india,Banda
+Asia,india,Bandikui
+Asia,india,Bandipora
+Asia,india,Bangaon
+Asia,india,Bankura
+Asia,india,Baramulla
+Asia,india,Barara
+Asia,india,Baraut
+Asia,india,Bardhaman
+Asia,india,Bareilly
+Asia,india,Barhiya
+Asia,india,Bari
+Asia,india,Baripada
+Asia,india,Barnala
+Asia,india,Barwala
+Asia,india,Basirhat
+Asia,india,Basti
+Asia,india,Batala
+Asia,india,Bathinda
+Asia,india,Bawal
+Asia,india,Bayana
+Asia,india,Begusarai
+Asia,india,Behror
+Asia,india,Berhampore
+Asia,india,Bethuadahari
+Asia,india,Bettiah
+Asia,india,Bhabua
+Asia,india,Bhadohi
+Asia,india,Bhagalpur
+Asia,india,Bhagwānpur
+Asia,india,Bhagwanpur
+Asia,india,Bharatpur
+Asia,india,Bharthana
+Asia,india,Bhind
+Asia,india,Bhiwadi
+Asia,india,Bhiwani
+Asia,india,Bidasar
+Asia,india,Bihar Sharif
+Asia,india,Bijnor
+Asia,india,Bikaner
+Asia,india,Bikramganj
+Asia,india,Bilari
+Asia,india,Bilasipara
+Asia,india,Bilaspur
+Asia,india,Bisalgarh
+Asia,india,Bisalpur
+Asia,india,Bishnupur
+Asia,india,Bishwanath Charaili
+Asia,india,Bodhgaya
+Asia,india,Bokaro
+Asia,india,Bolpur
+Asia,india,Bongaigaon
+Asia,india,Budaun
+Asia,india,Budhana
+Asia,india,Bulandshahr
+Asia,india,Buxar
+Asia,india,Canning
+Asia,india,Chaibasa
+Asia,india,Chakdaha
+Asia,india,Chaksu
+Asia,india,Chandausi
+Asia,india,Chandigarh
+Asia,india,Chandpur
+Asia,india,Chandrakona Road
+Asia,india,Charkhi Dadri
+Asia,india,Chhapra
+Asia,india,Chhatarpur
+Asia,india,Chhibramau
+Asia,india,Chirawa
+Asia,india,Chitrakoot Dham
+Asia,india,Chomu
+Asia,india,Churu
+Asia,india,Chutmalpur
+Asia,india,Contai
+Asia,india,Cooch Behar
+Asia,india,Dabra
+Asia,india,Dadri
+Asia,india,Dakpathar
+Asia,india,Darbhanga
+Asia,india,Datia
+Asia,india,Daudnagar
+Asia,india,Daurala
+Asia,india,Dausa
+Asia,india,Deeg
+Asia,india,Dehradun
+Asia,india,Dehri
+Asia,india,Delhi [New Delhi]
+Asia,india,Deoband
+Asia,india,Deoghar
+Asia,india,Deoria
+Asia,india,Dera Bassi
+Asia,india,Dhampur
+Asia,india,Dhanbad
+Asia,india,Dharamshala
+Asia,india,Dharmanagar
+Asia,india,Dhaulpur
+Asia,india,Dhing
+Asia,india,Dhire Kot
+Asia,india,Dhubri
+Asia,india,Dhulian
+Asia,india,Dhupguri
+Asia,india,Dhuri
+Asia,india,Dibiyapur
+Asia,india,Dibrugarh
+Asia,india,Didwana
+Asia,india,Digboi
+Asia,india,Dimapur
+Asia,india,Dinhata
+Asia,india,Diphu
+Asia,india,Dobhi
+Asia,india,Dohrighat
+Asia,india,Duliajan
+Asia,india,Dumka
+Asia,india,Dumraon
+Asia,india,Durgapur
+Asia,india,Etah
+Asia,india,Etawah
+Asia,india,Etmadpur
+Asia,india,Faizabad
+Asia,india,Falakata
+Asia,india,Faridkot
+Asia,india,Faridpur
+Asia,india,Farrukhabad
+Asia,india,Fatehabad
+Asia,india,Fatehgarh Sahib
+Asia,india,Fatehpora
+Asia,india,Fatehpur
+Asia,india,Fatehpur Shekhawati
+Asia,india,Fatwah
+Asia,india,Fazilka
+Asia,india,Firozabad
+Asia,india,Firozpur
+Asia,india,Forbesganj
+Asia,india,Gajraula
+Asia,india,Gangapur
+Asia,india,Gangoh
+Asia,india,Ganj Dundwara
+Asia,india,Garhmuktesar
+Asia,india,Garhwa
+Asia,india,Gaya
+Asia,india,Ghatal
+Asia,india,Ghatampur
+Asia,india,Ghazipur
+Asia,india,Giridih
+Asia,india,Godda
+Asia,india,Gohad
+Asia,india,Gohana
+Asia,india,Gokul
+Asia,india,Golaghat
+Asia,india,Gonda
+Asia,india,Gopalganj
+Asia,india,Gopiganj
+Asia,india,Gorakhpur
+Asia,india,Gossaigaon
+Asia,india,Govardhan
+Asia,india,Greater Noida
+Asia,india,Gulavthi
+Asia,india,Gumia
+Asia,india,Gumla
+Asia,india,Gurdaspur
+Asia,india,Gursahaiganj
+Asia,india,Gursarai
+Asia,india,Guwahati
+Asia,india,Gwalior
+Asia,india,Habra
+Asia,india,Hailakandi
+Asia,india,Hajipur
+Asia,india,Haldia
+Asia,india,Haldwani
+Asia,india,Hansi
+Asia,india,Hanumanangarh Junction
+Asia,india,Hapur
+Asia,india,Hardoi
+Asia,india,Haridwar
+Asia,india,Hasanpur
+Asia,india,Hathras
+Asia,india,Hatisala
+Asia,india,Hazaribagh
+Asia,india,Hindaun
+Asia,india,Hisar
+Asia,india,Hodal
+Asia,india,Hojai
+Asia,india,Hoshiarpur
+Asia,india,Iltifatganj
+Asia,india,Imphal
+Asia,india,Islampur
+Asia,india,Itawa
+Asia,india,Jagraon
+Asia,india,Jahangirabad
+Asia,india,Jaigaon
+Asia,india,Jainpur
+Asia,india,Jaipur
+Asia,india,Jairampur
+Asia,india,Jalalabad
+Asia,india,Jalandhar
+Asia,india,Jalaun
+Asia,india,Jalesar
+Asia,india,Jalpaiguri
+Asia,india,Jamalpur
+Asia,india,Jammu
+Asia,india,Jamshedpur
+Asia,india,Jamtara
+Asia,india,Jangipur
+Asia,india,Jaspur
+Asia,india,Jaunpur
+Asia,india,Jaynagar
+Asia,india,Jaynagar Majilpur
+Asia,india,Jehanabad
+Asia,india,Jewar
+Asia,india,Jhajjar
+Asia,india,Jhansi
+Asia,india,Jhargram
+Asia,india,Jhumri Tilaiya
+Asia,india,Jhunjhunu
+Asia,india,Jhusi
+Asia,india,Jiaganj
+Asia,india,Jind
+Asia,india,Jorhat
+Asia,india,Jowai
+Asia,india,Kahalgaon
+Asia,india,Kaimganj
+Asia,india,Kairana
+Asia,india,Kaithal
+Asia,india,Kakdwip
+Asia,india,Kaliyaganj
+Asia,india,Kalka
+Asia,india,Kallachak
+Asia,india,Kalna
+Asia,india,Kalpi
+Asia,india,Kalyanpur
+Asia,india,Kaman
+Asia,india,Kandhla
+Asia,india,Kandi
+Asia,india,Kannauj
+Asia,india,Kanpur
+Asia,india,Kanth
+Asia,india,Kapurthala
+Asia,india,Karimpur
+Asia,india,Karnal
+Asia,india,Kasganj
+Asia,india,Kathua
+Asia,india,Katihar
+Asia,india,Katra
+Asia,india,Katwa
+Asia,india,Keotiranway
+Asia,india,Khaga
+Asia,india,Khagaria
+Asia,india,Khairthal
+Asia,india,Khalilabad
+Asia,india,Khanna
+Asia,india,Kharagpur
+Asia,india,Kharupetia
+Asia,india,Khatauli
+Asia,india,Khatīma
+Asia,india,Khurja
+Asia,india,Khushkhera
+Asia,india,Kichha
+Asia,india,Kiratpur
+Asia,india,Kishanganj
+Asia,india,Kishangarh
+Asia,india,Kolasib
+Asia,india,Kolkata
+Asia,india,Konch
+Asia,india,Kosi Kalan
+Asia,india,Kotdwar
+Asia,india,Kotkapura
+Asia,india,Kotputli
+Asia,india,Krishnanagar
+Asia,india,Kuchai Kot
+Asia,india,Kuchaman
+Asia,india,Kulpi
+Asia,india,Kurukshetra
+Asia,india,Kushinagar
+Asia,india,Ladnun
+Asia,india,Lakheri
+Asia,india,Lakhimpur
+Asia,india,Lakhisarai
+Asia,india,Laksar
+Asia,india,Lalganj
+Asia,india,Lalgola
+Asia,india,Lalru
+Asia,india,LAMKA
+Asia,india,Lauiyah Nandangarh
+Asia,india,Laxmangarh
+Asia,india,Lohardaga
+Asia,india,Lucknow
+Asia,india,Ludhiana
+Asia,india,Lumding
+Asia,india,Madhepura
+Asia,india,Madhubani
+Asia,india,Madhupur
+Asia,india,Mahendragarh
+Asia,india,Mahoba
+Asia,india,Mainpuri
+Asia,india,Makrana
+Asia,india,Malda
+Asia,india,Malerkotla
+Asia,india,Malout
+Asia,india,Malpura
+Asia,india,Mandi Dabwali
+Asia,india,Mandi Gobindgarh
+Asia,india,Mangaldoi
+Asia,india,Mankachar
+Asia,india,Mansa
+Asia,india,Mansa Nagar
+Asia,india,Marigaon
+Asia,india,Masat
+Asia,india,Masaurhi
+Asia,india,Matabhanga
+Asia,india,Mathura
+Asia,india,Mau
+Asia,india,Mau Ranipur
+Asia,india,Mawana
+Asia,india,Medininagar
+Asia,india,Medinipur
+Asia,india,Meerut
+Asia,india,Merta City
+Asia,india,Mirganj
+Asia,india,Mirzapur
+Asia,india,Modinagar
+Asia,india,Moga
+Asia,india,Mohania
+Asia,india,Mokama
+Asia,india,Mokokchung
+Asia,india,Moradabad
+Asia,india,Moran
+Asia,india,Morena
+Asia,india,Motihari
+Asia,india,Mubarakpur
+Asia,india,Muhammadabad
+Asia,india,Mukandgarh
+Asia,india,Munger
+Asia,india,Murshidabad
+Asia,india,Muzaffarnagar
+Asia,india,Muzaffarpur
+Asia,india,Nabadwip
+Asia,india,Nabha
+Asia,india,Nagaon
+Asia,india,Nagaur
+Asia,india,Nagina
+Asia,india,Najibabad
+Asia,india,Nalbari
+Asia,india,Nanpara
+Asia,india,Naraingarh
+Asia,india,Narnaul
+Asia,india,Narwana
+Asia,india,Naugachia
+Asia,india,Nawa
+Asia,india,Nawabganj
+Asia,india,Nawada
+Asia,india,Nawalgarh
+Asia,india,Nazira
+Asia,india,Neemrana
+Asia,india,Neem Ka Thana
+Asia,india,Nibua Raiganj
+Asia,india,Niwai
+Asia,india,Nokha
+Asia,india,North Lakhimpur
+Asia,india,Notun Digha
+Asia,india,Nowgaon
+Asia,india,Obra
+Asia,india,Orai
+Asia,india,Padi Meena
+Asia,india,Padrauna
+Asia,india,Palwal
+Asia,india,Pampore
+Asia,india,Pandua
+Asia,india,Panipat
+Asia,india,Panskura
+Asia,india,Paonta Sahib
+Asia,india,Paratas
+Asia,india,Parbatsar
+Asia,india,Pathankot
+Asia,india,Patiala
+Asia,india,Patna
+Asia,india,Patran
+Asia,india,Pehowa
+Asia,india,Phagwara
+Asia,india,Phalodi
+Asia,india,Phulera
+Asia,india,Pilani
+Asia,india,Pilibhit
+Asia,india,Piprakothi
+Asia,india,Pokaran
+Asia,india,Pratapgarh
+Asia,india,Prayagraj
+Asia,india,Pukhrayan
+Asia,india,Pulwama
+Asia,india,Punhana
+Asia,india,Pupri
+Asia,india,Puranpur
+Asia,india,Purnea
+Asia,india,Purnia
+Asia,india,Puruliya
+Asia,india,Rae Bareli
+Asia,india,Rafiganj
+Asia,india,Raiganj
+Asia,india,Rajgarh
+Asia,india,Rajgir
+Asia,india,Rajpura
+Asia,india,Raman Mandi
+Asia,india,Ramgarh
+Asia,india,Rāmnagar
+Asia,india,Rampur
+Asia,india,Rampur Hat
+Asia,india,Ranaghat
+Asia,india,Ranchi
+Asia,india,Raniganj
+Asia,india,Rasra
+Asia,india,Ratangarh
+Asia,india,Rath
+Asia,india,Renukut
+Asia,india,Renwal
+Asia,india,Rewari
+Asia,india,Rishikesh
+Asia,india,Robertsganj
+Asia,india,Rohtak
+Asia,india,Roorkee
+Asia,india,Rudauli
+Asia,india,Rudrapur
+Asia,india,Runkata
+Asia,india,Rupnagar
+Asia,india,Rusera
+Asia,india,Sadabad
+Asia,india,Saharanpur
+Asia,india,Saharsa
+Asia,india,Sahibganj
+Asia,india,Salhapur
+Asia,india,Samana
+Asia,india,Samastipur
+Asia,india,Sambhal
+Asia,india,Sambhar
+Asia,india,Sandila
+Asia,india,Sangrur
+Asia,india,Sansarpur
+Asia,india,Santaldih
+Asia,india,Sardarshahar
+Asia,india,Sardhana
+Asia,india,Sasaram
+Asia,india,Sawai Madhopur
+Asia,india,Sela Kui
+Asia,india,Senapati
+Asia,india,Seohara
+Asia,india,Shahabad Markanda
+Asia,india,Shahganj
+Asia,india,Shahjahanpur
+Asia,india,Shaikhpura
+Asia,india,Shamli
+Asia,india,Shamsabad
+Asia,india,Shantipur
+Asia,india,Sheopur
+Asia,india,Sherkot
+Asia,india,Shikarpur
+Asia,india,Shikohabad
+Asia,india,Shillong
+Asia,india,Shivpuri
+Asia,india,Sikandarabad
+Asia,india,Sikandra Rao
+Asia,india,Sikar
+Asia,india,Silchar
+Asia,india,Siliguri
+Asia,india,Sindri
+Asia,india,Singhana
+Asia,india,Sirsa
+Asia,india,Sitamarhi
+Asia,india,Sitapur
+Asia,india,Sitarganj
+Asia,india,Sithana
+Asia,india,Siuri
+Asia,india,Siwan
+Asia,india,Sohna
+Asia,india,Sonamukhi
+Asia,india,Sonari
+Asia,india,Sopore
+Asia,india,Srinagar
+Asia,india,Sri Dungargarh
+Asia,india,Sri Ganganagar
+Asia,india,Sri Muktsar Sahib
+Asia,india,Sujangarh
+Asia,india,Sujapur
+Asia,india,Sultanganj
+Asia,india,Sultanpur
+Asia,india,Sunam
+Asia,india,Supaul
+Asia,india,Surajpur
+Asia,india,Sursand
+Asia,india,Tamluk
+Asia,india,Tanda
+Asia,india,Tarn Taran Sahib
+Asia,india,Tengar
+Asia,india,Tezpur
+Asia,india,Thakurdwara
+Asia,india,Thana Bhawan
+Asia,india,Thoubal
+Asia,india,Tilhar
+Asia,india,Tinsukia
+Asia,india,Tohana
+Asia,india,Tonk
+Asia,india,Tufanganj
+Asia,india,Tura
+Asia,india,Udaipur
+Asia,india,Udhampur
+Asia,india,Ujhani
+Asia,india,Ukhrul
+Asia,india,Una
+Asia,india,Unchahar
+Asia,india,N/A
+Asia,india,Unnao
+Asia,india,Varanasi
+Asia,india,Vrindavan
+Asia,india,Waidhan
+Asia,india,Waria
+Asia,india,Wokha
+Asia,india,Yamunanagar
+Asia,india,Zakiganj
+Asia,india,Abu Road
+Asia,india,Achalpur
+Asia,india,Adilabad
+Asia,india,Ahmadnagar
+Asia,india,Ahmadpur
+Asia,india,Ahmedabad
+Asia,india,Ahore
+Asia,india,Aklera
+Asia,india,Akluj
+Asia,india,Akola
+Asia,india,Akot
+Asia,india,Alibag
+Asia,india,Amalner
+Asia,india,Ambad
+Asia,india,Ambajogai
+Asia,india,Ambikapur
+Asia,india,Amgaon
+Asia,india,Amravati
+Asia,india,Amreli
+Asia,india,Anakapalle
+Asia,india,Anand
+Asia,india,Angul
+Asia,india,Anjangaon
+Asia,india,Anjar
+Asia,india,Ankleshwar
+Asia,india,Armoor
+Asia,india,Arni
+Asia,india,Arvi
+Asia,india,Ashoknagar
+Asia,india,Ashta
+Asia,india,Ausa
+Asia,india,Balaghat
+Asia,india,Balangir
+Asia,india,Balapur
+Asia,india,Balasinor
+Asia,india,Ballarpur
+Asia,india,Balod
+Asia,india,Balotra
+Asia,india,Banswada
+Asia,india,Banswara
+Asia,india,Baramati
+Asia,india,Baran
+Asia,india,Barbil
+Asia,india,Bardoli
+Asia,india,Bareli
+Asia,india,Barmer
+Asia,india,Barshi
+Asia,india,Barwaha
+Asia,india,Barwani
+Asia,india,Basmat
+Asia,india,Basoda
+Asia,india,Beawar
+Asia,india,Beed
+Asia,india,Bellampalli
+Asia,india,Bemetara
+Asia,india,Betul
+Asia,india,Bhadgaon
+Asia,india,Bhadrachalam
+Asia,india,Bhadrak
+Asia,india,Bhadravati
+Asia,india,Bhalki
+Asia,india,Bhandara
+Asia,india,Bhanvad
+Asia,india,Bharuch
+Asia,india,Bhatpara
+Asia,india,Bhavnagar
+Asia,india,Bhawanipatna
+Asia,india,Bhawani Mandi
+Asia,india,Bhilwara
+Asia,india,Bhinmal
+Asia,india,Bhongir
+Asia,india,Bhopal
+Asia,india,Bhubaneshwar
+Asia,india,Bhuj
+Asia,india,Bhusawal
+Asia,india,Bidar
+Asia,india,Bijainagar
+Asia,india,Bilimora
+Asia,india,Bina Etawa
+Asia,india,Bobbili
+Asia,india,Bodeli
+Asia,india,Bodhan
+Asia,india,Boisar
+Asia,india,Borsad
+Asia,india,Botad
+Asia,india,Brahmapur
+Asia,india,Brahmapuri
+Asia,india,Brajarajnagar
+Asia,india,Buldhana
+Asia,india,Bundi
+Asia,india,Burhanpur
+Asia,india,Butibori
+Asia,india,Chalisgaon
+Asia,india,Champa
+Asia,india,Chandrapur
+Asia,india,Chandur Bazar
+Asia,india,Chhatrapur
+Asia,india,Chhindwara
+Asia,india,Chhota Udaipur
+Asia,india,Chikhli
+Asia,india,Chittorgarh
+Asia,india,Chopda
+Asia,india,Choudwar
+Asia,india,Cuttack
+Asia,india,Dabhoi
+Asia,india,Dahegam
+Asia,india,Dahod
+Asia,india,Daman
+Asia,india,Damoh
+Asia,india,Daryapur
+Asia,india,Daund
+Asia,india,Deesa
+Asia,india,Degloor
+Asia,india,Deoli
+Asia,india,Dewas
+Asia,india,Dhamtari
+Asia,india,Dhar
+Asia,india,Dhenkanal
+Asia,india,Dholka
+Asia,india,Dhoraji
+Asia,india,Dhrangadhra
+Asia,india,Dhule
+Asia,india,Digras
+Asia,india,Diu
+Asia,india,Dondaicha
+Asia,india,Dongargarh
+Asia,india,Dungarpur
+Asia,india,Durg
+Asia,india,Dwarka
+Asia,india,Endada
+Asia,india,Gadarwara
+Asia,india,Gadchiroli
+Asia,india,Gajwel
+Asia,india,Gandhidham
+Asia,india,Gandhinagar
+Asia,india,Gangakhed
+Asia,india,Ghatkesar
+Asia,india,Godhra
+Asia,india,Gondal
+Asia,india,Gondia
+Asia,india,Gulabpura
+Asia,india,Guna
+Asia,india,Halol
+Asia,india,Harda
+Asia,india,Hatta
+Asia,india,Himatnagar
+Asia,india,Hinganghat
+Asia,india,Hingoli
+Asia,india,Hoshangabad
+Asia,india,Hyderabad
+Asia,india,Idar
+Asia,india,Indapur
+Asia,india,Indore
+Asia,india,Itarsi
+Asia,india,Jabalpur
+Asia,india,Jagdalpur
+Asia,india,Jagtial
+Asia,india,Jalgaon
+Asia,india,Jalna
+Asia,india,Jalore
+Asia,india,Jamnagar
+Asia,india,Jamner
+Asia,india,Jam Jodhpur
+Asia,india,Jangaon
+Asia,india,Jaora
+Asia,india,Jasdan
+Asia,india,Jatani Town
+Asia,india,Jetpur
+Asia,india,Jeypore
+Asia,india,Jhalawar
+Asia,india,Jhalrapatan
+Asia,india,Jharsuguda
+Asia,india,Jintur
+Asia,india,Jodhpur
+Asia,india,Junagadh
+Asia,india,Kadi
+Asia,india,Kaghaznagar
+Asia,india,Kalmeshwar
+Asia,india,Kalol
+Asia,india,Kamareddy
+Asia,india,Kamptee
+Asia,india,Kamrej
+Asia,india,Kanker
+Asia,india,Kannad
+Asia,india,Kapadvanj
+Asia,india,Karanja
+Asia,india,Karegaon
+Asia,india,Karimnagar
+Asia,india,Karjan
+Asia,india,Katni
+Asia,india,Katol
+Asia,india,Kawardha
+Asia,india,Kekri
+Asia,india,Kendrapara
+Asia,india,Kendujhargarh
+Asia,india,Keshod
+Asia,india,Khambhaliya
+Asia,india,Khambhat
+Asia,india,Khamgaon
+Asia,india,Khandwa
+Asia,india,Kharadpada
+Asia,india,Khargone
+Asia,india,Khatgaon
+Asia,india,Khedbrahma
+Asia,india,Kinwat
+Asia,india,Kodinar
+Asia,india,Kondagaon
+Asia,india,Kopargaon
+Asia,india,Korba
+Asia,india,Korutla
+Asia,india,Kota
+Asia,india,Kothagudem
+Asia,india,Kundla
+Asia,india,Lalitpur
+Asia,india,Latur
+Asia,india,Limbdi
+Asia,india,Lonavala
+Asia,india,Mahabubabad
+Asia,india,Mahasamund
+Asia,india,Mahesana
+Asia,india,Mahuva
+Asia,india,Maihar
+Asia,india,Majalgaon
+Asia,india,Malegaon
+Asia,india,Malkapur
+Asia,india,Manasa
+Asia,india,Manawar
+Asia,india,Mancherial
+Asia,india,Mandideep
+Asia,india,Mandla
+Asia,india,Mandsaur
+Asia,india,Mandvi
+Asia,india,Manendragarh
+Asia,india,Mangrol
+Asia,india,Mangrul Pir
+Asia,india,Manmad
+Asia,india,Medak
+Asia,india,Mehidpur
+Asia,india,Mehkar
+Asia,india,Mithapur
+Asia,india,Modasa
+Asia,india,Morbi
+Asia,india,Morshi
+Asia,india,Mumbai
+Asia,india,Mundra
+Asia,india,Mungeli
+Asia,india,Murtijapur
+Asia,india,Nadiad
+Asia,india,Nagda
+Asia,india,Nagpur
+Asia,india,Nanded-Waghala
+Asia,india,Nandurbar
+Asia,india,Narayangaon
+Asia,india,Narsampet
+Asia,india,Narsinghpur
+Asia,india,Narsipatnam
+Asia,india,Nashik
+Asia,india,Nathdwara
+Asia,india,Navapur
+Asia,india,Navsari
+Asia,india,Neemuch
+Asia,india,Nilanga
+Asia,india,Nimbahera
+Asia,india,Nirmal
+Asia,india,Nizamabad
+Asia,india,Osmanabad
+Asia,india,Pachora
+Asia,india,Paithan
+Asia,india,Palanpur
+Asia,india,Palghar
+Asia,india,Pali
+Asia,india,Palitana
+Asia,india,Palwancha
+Asia,india,Pandharkawada
+Asia,india,Pandhurna
+Asia,india,Panna
+Asia,india,Parbhani
+Asia,india,Parli
+Asia,india,Parola
+Asia,india,Partapur
+Asia,india,Parvathipuram
+Asia,india,Patan
+Asia,india,Peddapalli
+Asia,india,Pen
+Asia,india,Petlad
+Asia,india,Phaltan
+Asia,india,Phulbani
+Asia,india,Pilol
+Asia,india,Pimpalgaon Basvant
+Asia,india,Pindwara
+Asia,india,Piparcity
+Asia,india,Pipariya
+Asia,india,Pithampur
+Asia,india,Porbandar
+Asia,india,Port Blair
+Asia,india,Pulgaon
+Asia,india,Pune
+Asia,india,Puri
+Asia,india,Purna
+Asia,india,Pusad
+Asia,india,Radhanpur
+Asia,india,Rahuri
+Asia,india,Raigarh
+Asia,india,Raipur
+Asia,india,Rajam
+Asia,india,Rajim
+Asia,india,Rajkot
+Asia,india,Rajnandgaon
+Asia,india,Rajsamand
+Asia,india,Rajula
+Asia,india,Ramagundam
+Asia,india,Ranjangoan
+Asia,india,Ratlam
+Asia,india,Raver
+Asia,india,Rawatbhata
+Asia,india,Rayagada
+Asia,india,"Rewa, Madhya Pradesh"
+Asia,india,Risod
+Asia,india,Roha
+Asia,india,Rourkela
+Asia,india,Sadasivpet
+Asia,india,Sagar
+Asia,india,Sagwara
+Asia,india,Sailu
+Asia,india,Sakoli
+Asia,india,Sakri
+Asia,india,Sambalpur
+Asia,india,Sanawad
+Asia,india,Sanchore
+Asia,india,Sangamner
+Asia,india,Sangareddy
+Asia,india,Saoner
+Asia,india,Sarwar
+Asia,india,Satana
+Asia,india,Satna
+Asia,india,Sehore
+Asia,india,Sendhwa
+Asia,india,Shahada
+Asia,india,Shahdol
+Asia,india,Shahpura
+Asia,india,Shajapur
+Asia,india,Shamirpet
+Asia,india,Shapar - Veraval
+Asia,india,Shegaon
+Asia,india,Shevgaon
+Asia,india,Shihi Village
+Asia,india,Shirdi
+Asia,india,Shirpur
+Asia,india,Shrirampur
+Asia,india,Siddhapur
+Asia,india,Siddipet
+Asia,india,Sillod
+Asia,india,Silvassa
+Asia,india,Sinnar
+Asia,india,Sirohi
+Asia,india,Sironj
+Asia,india,Sirsilla
+Asia,india,Sivani
+Asia,india,Siwana
+Asia,india,Sojat
+Asia,india,Songadh
+Asia,india,Srikakulam
+Asia,india,Suket
+Asia,india,Sumerpur
+Asia,india,Sundargarh
+Asia,india,Surat
+Asia,india,Surendranagar
+Asia,india,Talcher
+Asia,india,Talegaon
+Asia,india,Than
+Asia,india,Tikamgarh
+Asia,india,Titlagarh
+Asia,india,Tuni
+Asia,india,Udgir
+Asia,india,Ujjain
+Asia,india,Umargam road
+Asia,india,Umarkhed
+Asia,india,Umred
+Asia,india,Upleta
+Asia,india,Uran
+Asia,india,Vadnagar
+Asia,india,Vadodara
+Asia,india,Vaijapur
+Asia,india,Valsad
+Asia,india,Vapi
+Asia,india,Vasai-Virar
+Asia,india,Veraval
+Asia,india,Vidisha
+Asia,india,Vijapur
+Asia,india,Visakhapatnam
+Asia,india,Visnagar
+Asia,india,Vizianagaram
+Asia,india,Vns HOSTEL
+Asia,india,Wani
+Asia,india,Wankaner
+Asia,india,Warangal
+Asia,india,Wardha
+Asia,india,Warora
+Asia,india,Warud
+Asia,india,Washim
+Asia,india,Yavatmal
+Asia,india,Yeola
+Asia,india,Zaheerabad
+Asia,india,Adoni
+Asia,india,Alappuzha
+Asia,india,Allagadda
+Asia,india,Amalapuram
+Asia,india,Ambur
+Asia,india,Anantapur
+Asia,india,Anichampalayam
+Asia,india,Arakkonam
+Asia,india,Arasikere
+Asia,india,Ariyalur
+Asia,india,Aruppukkottai
+Asia,india,Athani
+Asia,india,Atmakur
+Asia,india,Attingal
+Asia,india,Attur
+Asia,india,Bagalkot
+Asia,india,Bagepalli
+Asia,india,Ballari
+Asia,india,Bangarapete
+Asia,india,Bantwal Cross Road
+Asia,india,Bapatla
+Asia,india,Belagavi
+Asia,india,Bengaluru
+Asia,india,Bethamcherla
+Asia,india,Bhadravathi
+Asia,india,Bhimavaram
+Asia,india,Bodinayakkanur
+Asia,india,Challakere
+Asia,india,Channapattana
+Asia,india,Channarayapattana
+Asia,india,Chengalpattu
+Asia,india,Chengannur
+Asia,india,Chennai
+Asia,india,Chidambaram
+Asia,india,Chikkaballapura
+Asia,india,Chikkamagaluru
+Asia,india,Chilakaluripet
+Asia,india,Chintamani
+Asia,india,Chiplun
+Asia,india,Chirala
+Asia,india,Chitradurga
+Asia,india,Chittoor
+Asia,india,Coimbatore
+Asia,india,Cuddalore
+Asia,india,Cumbum
+Asia,india,Dandeli
+Asia,india,Davanagere
+Asia,india,Dharapuram
+Asia,india,Dharmapuri
+Asia,india,Dharmavaram
+Asia,india,Dharwad
+Asia,india,Dhone
+Asia,india,Dindigul
+Asia,india,Doddaballapura
+Asia,india,Edappadi
+Asia,india,Eluru
+Asia,india,Emmiganuru
+Asia,india,Erode
+Asia,india,Ettumanoor
+Asia,india,Gadag
+Asia,india,Gadwal
+Asia,india,Gangawati
+Asia,india,Giddalur
+Asia,india,Gingee
+Asia,india,Gobichettipalayam
+Asia,india,Gokak
+Asia,india,Gokul Shirgaon
+Asia,india,Gowribidanur
+Asia,india,Gudivada
+Asia,india,Gudiyatham
+Asia,india,Gudur
+Asia,india,Gummidipundi
+Asia,india,Guntakal
+Asia,india,Guntur
+Asia,india,Guruvayur
+Asia,india,Hagaribommanahalli
+Asia,india,Hanagal
+Asia,india,Harihara
+Asia,india,Hassan
+Asia,india,Haveri
+Asia,india,Hindupur
+Asia,india,Hiriyur
+Asia,india,Holenarasipura
+Asia,india,Hosapete
+Asia,india,Hoskote
+Asia,india,Hosur
+Asia,india,Hubballi
+Asia,india,Hunsur
+Asia,india,Huzurnagar
+Asia,india,Ichalkaranji
+Asia,india,Indi
+Asia,india,Irinjalakuda
+Asia,india,Jadcherla
+Asia,india,Jamakhandi
+Asia,india,Jammalamadugu
+Asia,india,Jangareddygudem
+Asia,india,Jaysingpur
+Asia,india,Jigani
+Asia,india,Jolarpet
+Asia,india,Kadapa
+Asia,india,Kadayanallur
+Asia,india,Kadiri
+Asia,india,Kaduru
+Asia,india,Kagal
+Asia,india,Kakinada
+Asia,india,Kalaburagi
+Asia,india,Kallakkurichi
+Asia,india,Kalpakkam
+Asia,india,Kalwakurthy
+Asia,india,Kanakapura
+Asia,india,Kanchipuram
+Asia,india,Kangeyam
+Asia,india,Kanigiri
+Asia,india,Kanjikode
+Asia,india,Kannur
+Asia,india,Karad
+Asia,india,Karaikal
+Asia,india,Karamadai - காரமடை
+Asia,india,Karur
+Asia,india,Kavali
+Asia,india,Khammam
+Asia,india,Kochi
+Asia,india,Kodada
+Asia,india,Kodaikanal
+Asia,india,Kodoli
+Asia,india,Kodungallur
+Asia,india,Kolar
+Asia,india,Kolar Gold Fields
+Asia,india,Kolhapur
+Asia,india,Kollam
+Asia,india,Koppala
+Asia,india,Kottarakara
+Asia,india,Kovilpatti
+Asia,india,Kozhikode
+Asia,india,Krishnagiri
+Asia,india,Krishnarajanagara
+Asia,india,Kumbakonam
+Asia,india,Kuppam
+Asia,india,Kurnool
+Asia,india,Kushalanagara
+Asia,india,Lakshmeshvara
+Asia,india,Lingasugur
+Asia,india,Macherla
+Asia,india,Machilipatnam
+Asia,india,Madanapalle
+Asia,india,Madhugiri
+Asia,india,Madurai
+Asia,india,Mahbubnagar
+Asia,india,Makhtal
+Asia,india,Malapalli
+Asia,india,Malappuram
+Asia,india,Maluru
+Asia,india,Manachanallur
+Asia,india,Mandapeta
+Asia,india,Mandya
+Asia,india,Mangalagiri
+Asia,india,Mangaluru
+Asia,india,Manjeri
+Asia,india,Manjeshwar
+Asia,india,Mannargudi
+Asia,india,Mannarkkad
+Asia,india,Manvi
+Asia,india,Margao
+Asia,india,Markapur
+Asia,india,Maski
+Asia,india,Mettupalayam
+Asia,india,Mettur
+Asia,india,Miryalaguda
+Asia,india,Muddebihala
+Asia,india,Mudhol
+Asia,india,Mukkudu
+Asia,india,Mundaragi
+Asia,india,Musiri
+Asia,india,Muvattupuzha
+Asia,india,Mysuru
+Asia,india,Nagapattinam
+Asia,india,Nagari
+Asia,india,Nagarkurnool
+Asia,india,Nagercoil
+Asia,india,Nalgonda
+Asia,india,Namakkal
+Asia,india,Nandyal
+Asia,india,Nanjanagudu
+Asia,india,Narasapuram
+Asia,india,Narasaraopet
+Asia,india,Narayanapet
+Asia,india,Nargund
+Asia,india,Neeleshwaram
+Asia,india,Nellore
+Asia,india,Neyveli
+Asia,india,Nidadavolu
+Asia,india,Nippani
+Asia,india,Nuzvid
+Asia,india,Omalur
+Asia,india,Ongole
+Asia,india,Padmanabhapuram
+Asia,india,Palacode
+Asia,india,Palakkad
+Asia,india,Palakollu
+Asia,india,Palani
+Asia,india,Palladam
+Asia,india,Panaji
+Asia,india,Pandharpur
+Asia,india,Panruti
+Asia,india,Pathanamthitta
+Asia,india,Pattambi
+Asia,india,Payyanur
+Asia,india,Peddapuram
+Asia,india,Perambalur
+Asia,india,Perinthalmanna
+Asia,india,Pernampattu
+Asia,india,Perundurai
+Asia,india,Piduguralla
+Asia,india,Pileru
+Asia,india,Pithapuram
+Asia,india,Pollachi
+Asia,india,Polur
+Asia,india,Ponda
+Asia,india,Ponnur
+Asia,india,Proddatur
+Asia,india,Puducherry
+Asia,india,Pudukadai
+Asia,india,Pulivendula
+Asia,india,Punganuru
+Asia,india,Puttur
+Asia,india,Rabakavi Banahatti
+Asia,india,Raichur
+Asia,india,Rajamahendravaram
+Asia,india,Rajapalaiyam
+Asia,india,Ramachandrapuram
+Asia,india,Ramanagara
+Asia,india,Ramanathapuram
+Asia,india,Ranebennur
+Asia,india,Ranipettai
+Asia,india,Rasipuram
+Asia,india,Ratnagiri
+Asia,india,Ravulapalem
+Asia,india,Rayachoti
+Asia,india,Rayadurg
+Asia,india,Repalle
+Asia,india,Sagara
+Asia,india,Salem
+Asia,india,Samarlakota
+Asia,india,Sangli
+Asia,india,Sangole
+Asia,india,Sankarankovil
+Asia,india,Sankari
+Asia,india,Satara
+Asia,india,Sathupally
+Asia,india,Sattenapalle
+Asia,india,Sattur
+Asia,india,Satyamangalam
+Asia,india,Saundatti
+Asia,india,Shadnagar
+Asia,india,Shahabad
+Asia,india,Shahapura
+Asia,india,Shencottai
+Asia,india,Shiggaon
+Asia,india,Shivamogga
+Asia,india,Shoranur
+Asia,india,Shorapur
+Asia,india,Sindhanur
+Asia,india,Sirsi
+Asia,india,Siruguppa
+Asia,india,Sivakasi
+Asia,india,Solapur
+Asia,india,Srivilliputtur
+Asia,india,Sri Kalahasti
+Asia,india,Suryapet
+Asia,india,Tadepallegudem
+Asia,india,Tadipatri
+Asia,india,Taliparamba
+Asia,india,Tanduru
+Asia,india,Tanuku
+Asia,india,Tenali
+Asia,india,Tenkasi
+Asia,india,Thalassery
+Asia,india,Thanjavur
+Asia,india,Theni
+Asia,india,Thiruvallur
+Asia,india,Thiruvananthapuram
+Asia,india,Thiruvarur
+Asia,india,Thoothukudi
+Asia,india,Thrissur
+Asia,india,Thuraiyur
+Asia,india,Tindivanam
+Asia,india,Tipaturu
+Asia,india,Tiruchchendur
+Asia,india,Tiruchengodu
+Asia,india,Tiruchirappalli
+Asia,india,Tirukkovilur
+Asia,india,Tirumakudalu Narasipura
+Asia,india,Tirunelveli
+Asia,india,Tirupati
+Asia,india,Tiruppur
+Asia,india,Tiruttani
+Asia,india,Tiruvannamalai
+Asia,india,Tiruvethipuram
+Asia,india,Tiruvuru
+Asia,india,Toranagallu
+Asia,india,Triprayar
+Asia,india,Tumakuru
+Asia,india,Udhagamandalam
+Asia,india,Udumalaippettai
+Asia,india,Udupi
+Asia,india,Vadanappally
+Asia,india,Vandavasi
+Asia,india,Vaniyambadi
+Asia,india,Vasco da Gama
+Asia,india,Vellore
+Asia,india,Velpuru
+Asia,india,Vijayapura
+Asia,india,Vijayawada
+Asia,india,Vikramasingapuram
+Asia,india,Viluppuram
+Asia,india,Vinukonda
+Asia,india,Virudhunagar
+Asia,india,Vita
+Asia,india,Vriddhachalam
+Asia,india,Vuyyuru
+Asia,india,Wadi
+Asia,india,Wanaparthy
+Asia,india,Yadgir
+Asia,india,Yanam
+Asia,india,Yeleswaram
+Asia,palestina,Gaza
+Asia,palestina,Hebron
+Asia,palestina,Jenin
+Asia,palestina,Jerusalem
+Asia,palestina,Nablus
+Asia,palestina,Qabatiya
+Asia,palestina,Tulkarm
+Latin America and the Caribbean,panama,Colón
+Latin America and the Caribbean,panama,David
+Latin America and the Caribbean,panama,La Chorrera
+Latin America and the Caribbean,panama,Nuevo Arraiján
+Latin America and the Caribbean,panama,Panama City
+Latin America and the Caribbean,panama,Sector 3
+Oceania,papua_new_guinea,Lae
+Oceania,papua_new_guinea,Madang
+Oceania,papua_new_guinea,Port Moresby
+Latin America and the Caribbean,paraguay,Asuncion
+Latin America and the Caribbean,paraguay,Caaguazú
+Latin America and the Caribbean,paraguay,Ciudad del Este
+Latin America and the Caribbean,paraguay,Coronel Oviedo
+Latin America and the Caribbean,paraguay,Encarnacion
+Latin America and the Caribbean,paraguay,Itauguá
+Latin America and the Caribbean,paraguay,Villarrica
+Africa,nigeria,Aba
+Africa,nigeria,Abakaliki
+Africa,nigeria,Abeokuta
+Africa,nigeria,Abuja
+Africa,nigeria,Adikpo
+Africa,nigeria,Ado
+Africa,nigeria,Ado Ekiti
+Africa,nigeria,Agbor
+Africa,nigeria,Agenebode
+Africa,nigeria,Ago-Iwoye
+Africa,nigeria,Agwa
+Africa,nigeria,Aiyete
+Africa,nigeria,Aiyetoro
+Africa,nigeria,Akabuka
+Africa,nigeria,Akugba
+Africa,nigeria,Akure
+Africa,nigeria,Akwanga
+Africa,nigeria,Amaigbo
+Africa,nigeria,Anchau
+Africa,nigeria,Ankpa
+Africa,nigeria,Aramoko-Ekiti
+Africa,nigeria,Argungu
+Africa,nigeria,Asaba
+Africa,nigeria,Ata
+Africa,nigeria,Auchi
+Africa,nigeria,Awala
+Africa,nigeria,Awbere
+Africa,nigeria,Awgu
+Africa,nigeria,Awka
+Africa,nigeria,Ayangba
+Africa,nigeria,Azare
+Africa,nigeria,Badagry
+Africa,nigeria,Baga
+Africa,nigeria,Bagudo
+Africa,nigeria,Bajoga
+Africa,nigeria,Barakin Gangare
+Africa,nigeria,Batsari
+Africa,nigeria,Bauchi
+Africa,nigeria,Bena
+Africa,nigeria,Benin City
+Africa,nigeria,Biantubu
+Africa,nigeria,Bichi
+Africa,nigeria,Bida
+Africa,nigeria,Biliri
+Africa,nigeria,Birnin Kebbi
+Africa,nigeria,Birnin Kudu
+Africa,nigeria,Biu
+Africa,nigeria,Bokkos
+Africa,nigeria,Bonny
+Africa,nigeria,Brass
+Africa,nigeria,Bugama
+Africa,nigeria,Buni Yadi
+Africa,nigeria,Bunza
+Africa,nigeria,Bwari
+Africa,nigeria,Calabar
+Africa,nigeria,Chafe
+Africa,nigeria,Dakingari
+Africa,nigeria,Damagum
+Africa,nigeria,Damask
+Africa,nigeria,Damaturu
+Africa,nigeria,Dambarta
+Africa,nigeria,Daura
+Africa,nigeria,Dawaki Kudu
+Africa,nigeria,Dengi
+Africa,nigeria,Djibia
+Africa,nigeria,Doka
+Africa,nigeria,Doka Ashafa
+Africa,nigeria,Doma
+Africa,nigeria,Donga
+Africa,nigeria,Dukku
+Africa,nigeria,Dundewa
+Africa,nigeria,Dutse
+Africa,nigeria,Ebute Irele
+Africa,nigeria,Ede
+Africa,nigeria,Effon Alaiye
+Africa,nigeria,Egbe
+Africa,nigeria,Egosi
+Africa,nigeria,Ejigbo
+Africa,nigeria,Eket
+Africa,nigeria,Ekinrin
+Africa,nigeria,Ekogboro
+Africa,nigeria,Ekpoma
+Africa,nigeria,Elele
+Africa,nigeria,Elu
+Africa,nigeria,Emure
+Africa,nigeria,Enugu
+Africa,nigeria,Enwan
+Africa,nigeria,Epe
+Africa,nigeria,Erin-osun
+Africa,nigeria,Eripa
+Africa,nigeria,Eruwa Titun
+Africa,nigeria,Funtua
+Africa,nigeria,Gamawa
+Africa,nigeria,Garko
+Africa,nigeria,Gashua
+Africa,nigeria,Gaya
+Africa,nigeria,Gboko
+Africa,nigeria,Gbongan
+Africa,nigeria,Geidam
+Africa,nigeria,Giade
+Africa,nigeria,Gombe
+Africa,nigeria,Goronyo
+Africa,nigeria,Gumel
+Africa,nigeria,Gummi
+Africa,nigeria,Gusau
+Africa,nigeria,Gwadabawa
+Africa,nigeria,Gwagwalada
+Africa,nigeria,Gwarzo
+Africa,nigeria,Gwolong
+Africa,nigeria,Gwoza
+Africa,nigeria,Hadejia
+Africa,nigeria,Ibadan
+Africa,nigeria,Ibi
+Africa,nigeria,Idah
+Africa,nigeria,Idanre
+Africa,nigeria,Idiroko
+Africa,nigeria,Ido Ekiti
+Africa,nigeria,Ife
+Africa,nigeria,Igbara-Odo
+Africa,nigeria,Igbe
+Africa,nigeria,Igbeti
+Africa,nigeria,Igboho
+Africa,nigeria,Igbo Ora
+Africa,nigeria,Ijagbo Offa
+Africa,nigeria,Ijebu-Igbo
+Africa,nigeria,Ijebu-Ode
+Africa,nigeria,Ijero-Ekiti
+Africa,nigeria,Ikerre
+Africa,nigeria,Ikire
+Africa,nigeria,Ikole
+Africa,nigeria,Ikolo
+Africa,nigeria,Ikom
+Africa,nigeria,Ikorodu
+Africa,nigeria,Ilaro
+Africa,nigeria,Ilawe-Ekiti
+Africa,nigeria,Ila Orangun
+Africa,nigeria,Ilero
+Africa,nigeria,Ilesa
+Africa,nigeria,Ile Oluji
+Africa,nigeria,Ilishan
+Africa,nigeria,Ilorin
+Africa,nigeria,Inisa
+Africa,nigeria,Iragbiji
+Africa,nigeria,Irri
+Africa,nigeria,Isa
+Africa,nigeria,Isanlu Mopo
+Africa,nigeria,Isarun
+Africa,nigeria,Ise
+Africa,nigeria,Iseyin
+Africa,nigeria,Ishara
+Africa,nigeria,Iwere
+Africa,nigeria,Iwo
+Africa,nigeria,Jada
+Africa,nigeria,Jahun
+Africa,nigeria,Jalingo
+Africa,nigeria,Jaudiri
+Africa,nigeria,Jega
+Africa,nigeria,Jemma’are
+Africa,nigeria,Jimeta
+Africa,nigeria,Jos
+Africa,nigeria,Kabba
+Africa,nigeria,Kadafa
+Africa,nigeria,Kaduna
+Africa,nigeria,Kafanchan
+Africa,nigeria,Kaiama
+Africa,nigeria,Kaltungo
+Africa,nigeria,Kamba
+Africa,nigeria,Kano
+Africa,nigeria,Katagum
+Africa,nigeria,Katsina
+Africa,nigeria,Katsina Ala
+Africa,nigeria,Katsiro
+Africa,nigeria,Kauran Yankwani
+Africa,nigeria,Kaura-Namoda
+Africa,nigeria,kazaure
+Africa,nigeria,Keffi
+Africa,nigeria,Kishi
+Africa,nigeria,Koko
+Africa,nigeria,Koko Town
+Africa,nigeria,Kontagora
+Africa,nigeria,Kpeyi
+Africa,nigeria,Krakrama
+Africa,nigeria,Kuje
+Africa,nigeria,Kura
+Africa,nigeria,Lafia
+Africa,nigeria,Lafiagi
+Africa,nigeria,Lagos
+Africa,nigeria,Lakuwe
+Africa,nigeria,Langtang
+Africa,nigeria,Lawmu Umunze
+Africa,nigeria,Lokoja
+Africa,nigeria,Madalla
+Africa,nigeria,Mafara
+Africa,nigeria,Magagindoke
+Africa,nigeria,Maiduguri
+Africa,nigeria,Maigatari
+Africa,nigeria,Maji
+Africa,nigeria,Makurdi
+Africa,nigeria,Malumfashi
+Africa,nigeria,Malummaduri
+Africa,nigeria,Mara-Mawa
+Africa,nigeria,Mashi
+Africa,nigeria,Masuri
+Africa,nigeria,Maturrumi
+Africa,nigeria,Maya Belwa
+Africa,nigeria,Meko
+Africa,nigeria,Minna
+Africa,nigeria,Misau
+Africa,nigeria,Monguno
+Africa,nigeria,Mongu Arna
+Africa,nigeria,Mubi
+Africa,nigeria,Mutum Biyu
+Africa,nigeria,Nassarawan Eggon
+Africa,nigeria,New Bussa
+Africa,nigeria,Nguru
+Africa,nigeria,Ningi
+Africa,nigeria,Nshebori
+Africa,nigeria,Nsukka
+Africa,nigeria,Numan
+Africa,nigeria,Obinomba
+Africa,nigeria,Oboama Nguru
+Africa,nigeria,Obudu
+Africa,nigeria,Ogbomosho
+Africa,nigeria,Ogharefe
+Africa,nigeria,Ogunrun-Ori
+Africa,nigeria,Ogwashi Uku
+Africa,nigeria,Ojaima
+Africa,nigeria,Oka-Akoko
+Africa,nigeria,Okene
+Africa,nigeria,Oke Atan
+Africa,nigeria,Okitipupa
+Africa,nigeria,Okrika
+Africa,nigeria,Okuku Lepuole
+Africa,nigeria,Okwuzu
+Africa,nigeria,Omenama
+Africa,nigeria,Omo
+Africa,nigeria,Omoko
+Africa,nigeria,Omuo-Obadore
+Africa,nigeria,Omu Aran
+Africa,nigeria,Ondo
+Africa,nigeria,Onitsha
+Africa,nigeria,Onitu
+Africa,nigeria,Onne
+Africa,nigeria,Opaetensm
+Africa,nigeria,Ore
+Africa,nigeria,Orogwe
+Africa,nigeria,Oron
+Africa,nigeria,Osina
+Africa,nigeria,Osogbo
+Africa,nigeria,Otukpo
+Africa,nigeria,Otun
+Africa,nigeria,Ovwian
+Africa,nigeria,Owerre
+Africa,nigeria,Owerri
+Africa,nigeria,Owo
+Africa,nigeria,Owode
+Africa,nigeria,Oyigbo
+Africa,nigeria,Oyo
+Africa,nigeria,Ozizza
+Africa,nigeria,Ozoro
+Africa,nigeria,Ozu
+Africa,nigeria,Pategi
+Africa,nigeria,Port Harcourt
+Africa,nigeria,Potiskum
+Africa,nigeria,Rano
+Africa,nigeria,Rijau
+Africa,nigeria,Ringim
+Africa,nigeria,Rubuchi
+Africa,nigeria,Sagamu
+Africa,nigeria,Saki
+Africa,nigeria,Salka
+Africa,nigeria,Samammiya
+Africa,nigeria,Samaru
+Africa,nigeria,Samunakar
+Africa,nigeria,Sangasumi
+Africa,nigeria,Sapele
+Africa,nigeria,Share
+Africa,nigeria,Shema
+Africa,nigeria,Shendam
+Africa,nigeria,Shinkafi
+Africa,nigeria,Soba
+Africa,nigeria,Sokoto
+Africa,nigeria,Takum
+Africa,nigeria,Tamaha
+Africa,nigeria,Tambawal
+Africa,nigeria,Tudun Wada
+Africa,nigeria,Tuga Nama
+Africa,nigeria,Tukurwa
+Africa,nigeria,Uduagba
+Africa,nigeria,Ugbokolo
+Africa,nigeria,Ugep
+Africa,nigeria,Ughelli
+Africa,nigeria,Umuahia
+Africa,nigeria,Umu Lawlaw
+Africa,nigeria,Ungwan Maidawa
+Africa,nigeria,Ungwan Sarki
+Africa,nigeria,Ungwan Shekaro
+Africa,nigeria,Ungwan Tamowa
+Africa,nigeria,N/A
+Africa,nigeria,Uromi
+Africa,nigeria,Uyo
+Africa,nigeria,Warri
+Africa,nigeria,Wudil
+Africa,nigeria,Wukari
+Africa,nigeria,Wurno
+Africa,nigeria,Yelwa
+Africa,nigeria,Yenagoa
+Africa,nigeria,Yola
+Africa,nigeria,Zaki Biam
+Africa,nigeria,Zango
+Africa,nigeria,Zaria
+Africa,nigeria,Zinna
+Africa,nigeria,Zuru
+Africa,republic_of_congo,Brazzaville
+Africa,republic_of_congo,Dongou
+Africa,republic_of_congo,Impfondo
+Africa,republic_of_congo,Mongo Kamba
+Africa,republic_of_congo,Nkayi
+Africa,republic_of_congo,Ouésso
+Africa,republic_of_congo,Owando
+Africa,republic_of_congo,Pointe-Noire
+Asia,pakistan,Abbottabad
+Asia,pakistan,Ahmadpur East
+Asia,pakistan,Alipur
+Asia,pakistan,Ali Pur Chatha
+Asia,pakistan,Allahabad
+Asia,pakistan,Arifwala
+Asia,pakistan,Attock
+Asia,pakistan,Bagh
+Asia,pakistan,Bahawalnagar
+Asia,pakistan,Bahawalpur
+Asia,pakistan,Bakhshali
+Asia,pakistan,Bani Gala
+Asia,pakistan,Bannu
+Asia,pakistan,Bathkela
+Asia,pakistan,Bhai Pheru
+Asia,pakistan,Bhalwal
+Asia,pakistan,Bindi
+Asia,pakistan,Burewala
+Asia,pakistan,Chakdara
+Asia,pakistan,Chakwal
+Asia,pakistan,Charsadda
+Asia,pakistan,Char Bagh
+Asia,pakistan,Chenab Nagar
+Asia,pakistan,Chichawatni
+Asia,pakistan,Chiniot
+Asia,pakistan,Chunian
+Asia,pakistan,Dadu
+Asia,pakistan,Depalpur
+Asia,pakistan,Dera Ghazi Khan
+Asia,pakistan,Dera Ismail Khan
+Asia,pakistan,Dhudial
+Asia,pakistan,Dijkot
+Asia,pakistan,Dina
+Asia,pakistan,Dinga
+Asia,pakistan,Faisalabad
+Asia,pakistan,Farooqabad
+Asia,pakistan,Fateh Jang
+Asia,pakistan,Gambat
+Asia,pakistan,Ghakhar Mandi
+Asia,pakistan,Ghaseet pura69 RB
+Asia,pakistan,Ghāzi
+Asia,pakistan,Gilgit
+Asia,pakistan,Gojra
+Asia,pakistan,Gujranwala
+Asia,pakistan,Gujrat
+Asia,pakistan,Gwadar
+Asia,pakistan,Hafizabad
+Asia,pakistan,Haripur
+Asia,pakistan,Hasilpur
+Asia,pakistan,Havelian
+Asia,pakistan,Haveli Lakha
+Asia,pakistan,Hub
+Asia,pakistan,Hyderabad
+Asia,pakistan,Jacobabad
+Asia,pakistan,Jahanian
+Asia,pakistan,Jalalpur Jattan
+Asia,pakistan,Jampur
+Asia,pakistan,Jand
+Asia,pakistan,Jaranwala
+Asia,pakistan,Jehangira Dobandi
+Asia,pakistan,Jhang
+Asia,pakistan,Jhelum
+Asia,pakistan,Kabirwala
+Asia,pakistan,Kahror Pakka
+Asia,pakistan,Kahuta
+Asia,pakistan,Kamalia
+Asia,pakistan,Kamra
+Asia,pakistan,Kandhkot
+Asia,pakistan,Kandiaro
+Asia,pakistan,Karachi
+Asia,pakistan,Kasur
+Asia,pakistan,Khairpur
+Asia,pakistan,Khanewal
+Asia,pakistan,Khanke Mod
+Asia,pakistan,Khanpur
+Asia,pakistan,Kharian
+Asia,pakistan,Khushab
+Asia,pakistan,Khwazakhela
+Asia,pakistan,Kohat
+Asia,pakistan,Kotli
+Asia,pakistan,Kot Addu
+Asia,pakistan,Kot Najib Ullah
+Asia,pakistan,Lahore
+Asia,pakistan,Lala Musa
+Asia,pakistan,Larkana
+Asia,pakistan,Layyah
+Asia,pakistan,Lodhran
+Asia,pakistan,Mailsi
+Asia,pakistan,Manawala
+Asia,pakistan,Mandi Bahauddin
+Asia,pakistan,Manga
+Asia,pakistan,Mangowal
+Asia,pakistan,Mansehra
+Asia,pakistan,Mardan
+Asia,pakistan,Mehar
+Asia,pakistan,Mian Channu
+Asia,pakistan,Mirpur
+Asia,pakistan,Mithankot
+Asia,pakistan,Mohla khurd
+Asia,pakistan,Moro
+Asia,pakistan,Multan
+Asia,pakistan,Munda
+Asia,pakistan,Muridke
+Asia,pakistan,Muzaffarabad
+Asia,pakistan,Muzaffargarh
+Asia,pakistan,Nankana Sahib
+Asia,pakistan,Narowal
+Asia,pakistan,Nowshera
+Asia,pakistan,Nowshera Virkan
+Asia,pakistan,Okara
+Asia,pakistan,Pabbi
+Asia,pakistan,Pakpattan
+Asia,pakistan,Panjgur
+Asia,pakistan,Pano Aqil
+Asia,pakistan,Pasrur
+Asia,pakistan,Pattoki
+Asia,pakistan,Peshawar
+Asia,pakistan,Pindi Gheb
+Asia,pakistan,Pir Mahal
+Asia,pakistan,Pir Murad
+Asia,pakistan,Qila Didar Singh
+Asia,pakistan,Quetta
+Asia,pakistan,Rahimyar Khan
+Asia,pakistan,Raiwind
+Asia,pakistan,Rajanpur
+Asia,pakistan,Rawalpindi [Islamabad]
+Asia,pakistan,Renala Khurd
+Asia,pakistan,Risalpur
+Asia,pakistan,Sadiqabad
+Asia,pakistan,Sahiwal
+Asia,pakistan,Samundri
+Asia,pakistan,Sangla Hill
+Asia,pakistan,Sarai Alamgir
+Asia,pakistan,Sargodha
+Asia,pakistan,Shabqadar
+Asia,pakistan,Shakar Garh
+Asia,pakistan,Shikarpur
+Asia,pakistan,Shujaabad
+Asia,pakistan,Sialkot
+Asia,pakistan,Sibi
+Asia,pakistan,Sohawa
+Asia,pakistan,Sowari
+Asia,pakistan,Sukkur
+Asia,pakistan,Swabi
+Asia,pakistan,Swat City
+Asia,pakistan,Takht-e-Bhai
+Asia,pakistan,Talagang
+Asia,pakistan,Tando Muhammad Khan
+Asia,pakistan,Tangi
+Asia,pakistan,Tarakai
+Asia,pakistan,Thatta
+Asia,pakistan,Thul
+Asia,pakistan,Toba Tek Singh
+Asia,pakistan,Topi
+Asia,pakistan,Tordher
+Asia,pakistan,N/A
+Asia,pakistan,Usta Muhammad
+Asia,pakistan,Wah Cantonment
+Asia,pakistan,Wan Bhachran
+Asia,pakistan,Wazirabad
+Asia,pakistan,Zafarwal
+Latin America and the Caribbean,peru,Abancay
+Latin America and the Caribbean,peru,Andahuaylas
+Latin America and the Caribbean,peru,Arequipa
+Latin America and the Caribbean,peru,Ayacucho
+Latin America and the Caribbean,peru,Barranca
+Latin America and the Caribbean,peru,Cajamarca
+Latin America and the Caribbean,peru,Chiclayo
+Latin America and the Caribbean,peru,Chimbote
+Latin America and the Caribbean,peru,Chincha Alta
+Latin America and the Caribbean,peru,Chulucanas
+Latin America and the Caribbean,peru,Cusco
+Latin America and the Caribbean,peru,Cutervo
+Latin America and the Caribbean,peru,Huacho
+Latin America and the Caribbean,peru,Huancayo
+Latin America and the Caribbean,peru,Huánuco
+Latin America and the Caribbean,peru,Huaral
+Latin America and the Caribbean,peru,Huaraz
+Latin America and the Caribbean,peru,Ilave
+Latin America and the Caribbean,peru,Jaén
+Latin America and the Caribbean,peru,Juliaca
+Latin America and the Caribbean,peru,Lambayeque
+Latin America and the Caribbean,peru,Lima
+Latin America and the Caribbean,peru,Moyobamba
+Latin America and the Caribbean,peru,Paita
+Latin America and the Caribbean,peru,Pampa Limay
+Latin America and the Caribbean,peru,Pichanaki
+Latin America and the Caribbean,peru,Piura
+Latin America and the Caribbean,peru,Pucallpa
+Latin America and the Caribbean,peru,Puerto Maldonado
+Latin America and the Caribbean,peru,Puno
+Latin America and the Caribbean,peru,Sullana
+Latin America and the Caribbean,peru,Tacna
+Latin America and the Caribbean,peru,Talara
+Latin America and the Caribbean,peru,Tarapoto
+Latin America and the Caribbean,peru,Tingo María
+Latin America and the Caribbean,peru,Trujillo
+Latin America and the Caribbean,peru,Tumbes
+Latin America and the Caribbean,peru,Yurimaguas
+Africa,rwanda,Kabuga
+Africa,rwanda,Kigali
+Africa,rwanda,Muhanga
+Africa,rwanda,Musanze
+Africa,sierra_leone,Bo
+Africa,sierra_leone,Freetown
+Africa,sierra_leone,Kenema
+Africa,sierra_leone,Koidu Town
+Africa,sierra_leone,Mahera
+Africa,sierra_leone,Makeni
+Africa,sierra_leone,Mile 91
+Africa,sierra_leone,Waterloo
