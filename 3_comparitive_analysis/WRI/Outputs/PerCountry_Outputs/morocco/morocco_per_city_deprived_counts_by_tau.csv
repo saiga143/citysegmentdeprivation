@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+morocco,0.1,Marrakesh,508,119,104,125
+morocco,0.2,Marrakesh,508,119,76,67
+morocco,0.3,Marrakesh,508,119,66,30

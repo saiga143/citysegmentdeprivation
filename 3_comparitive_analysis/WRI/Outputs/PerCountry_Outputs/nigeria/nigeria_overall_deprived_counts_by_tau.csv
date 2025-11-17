@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+nigeria,0.1,13103,1237,11866,11066,11075
+nigeria,0.2,13103,1237,11866,10629,9572
+nigeria,0.3,13103,1237,11866,10166,6837

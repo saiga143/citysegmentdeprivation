@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+kazakhstan,0.1,854,0,854,714,685
+kazakhstan,0.2,854,0,854,664,544
+kazakhstan,0.3,854,0,854,623,339

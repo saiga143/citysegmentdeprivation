@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+kazakhstan,0.1,Shymkent,806,0,666,637
+kazakhstan,0.1,Аксу,48,0,48,48
+kazakhstan,0.2,Shymkent,806,0,616,504
+kazakhstan,0.2,Аксу,48,0,48,40
+kazakhstan,0.3,Shymkent,806,0,578,323
+kazakhstan,0.3,Аксу,48,0,45,16

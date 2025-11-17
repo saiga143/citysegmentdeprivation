@@ -1,0 +1,10 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+mozambique,0.1,Beira,156,74,126,130
+mozambique,0.1,Dondo,53,13,53,52
+mozambique,0.1,Manga,150,95,147,146
+mozambique,0.2,Beira,156,74,118,94
+mozambique,0.2,Dondo,53,13,51,43
+mozambique,0.2,Manga,150,95,144,135
+mozambique,0.3,Beira,156,74,113,58
+mozambique,0.3,Dondo,53,13,48,30
+mozambique,0.3,Manga,150,95,142,82

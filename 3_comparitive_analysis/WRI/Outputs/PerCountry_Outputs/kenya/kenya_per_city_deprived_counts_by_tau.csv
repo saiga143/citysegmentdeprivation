@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+kenya,0.1,Free Area,143,9,58,55
+kenya,0.1,Nakuru,376,94,157,183
+kenya,0.2,Free Area,143,9,34,6
+kenya,0.2,Nakuru,376,94,105,46
+kenya,0.3,Free Area,143,9,26,0
+kenya,0.3,Nakuru,376,94,82,12

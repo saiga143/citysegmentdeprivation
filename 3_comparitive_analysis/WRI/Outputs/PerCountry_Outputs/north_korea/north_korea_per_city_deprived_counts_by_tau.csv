@@ -1,0 +1,10 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+north_korea,0.1,Kangson,21,0,0,0
+north_korea,0.1,P'yŏngsŏng,84,0,0,0
+north_korea,0.1,Pyongyang,521,2,3,3
+north_korea,0.2,Kangson,21,0,0,0
+north_korea,0.2,P'yŏngsŏng,84,0,0,0
+north_korea,0.2,Pyongyang,521,2,0,0
+north_korea,0.3,Kangson,21,0,0,0
+north_korea,0.3,P'yŏngsŏng,84,0,0,0
+north_korea,0.3,Pyongyang,521,2,0,0

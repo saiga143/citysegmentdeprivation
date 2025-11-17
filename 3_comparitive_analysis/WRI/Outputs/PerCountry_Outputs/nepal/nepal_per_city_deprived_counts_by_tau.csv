@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+nepal,0.1,Pokhara,174,4,73,100
+nepal,0.2,Pokhara,174,4,39,12
+nepal,0.3,Pokhara,174,4,25,0

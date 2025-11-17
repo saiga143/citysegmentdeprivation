@@ -1,0 +1,10 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+mali,0.1,Bamako,3830,1385,3491,3655
+mali,0.1,Kati,135,44,128,132
+mali,0.1,Sénou,192,31,192,188
+mali,0.2,Bamako,3830,1385,3356,3114
+mali,0.2,Kati,135,44,119,98
+mali,0.2,Sénou,192,31,186,180
+mali,0.3,Bamako,3830,1385,3198,2095
+mali,0.3,Kati,135,44,109,48
+mali,0.3,Sénou,192,31,182,160

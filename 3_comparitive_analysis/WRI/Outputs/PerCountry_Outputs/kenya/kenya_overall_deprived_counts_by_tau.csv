@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+kenya,0.1,519,103,416,215,238
+kenya,0.2,519,103,416,139,52
+kenya,0.3,519,103,416,108,12

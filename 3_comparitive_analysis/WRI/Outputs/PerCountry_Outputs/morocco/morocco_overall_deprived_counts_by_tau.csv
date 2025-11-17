@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+morocco,0.1,508,119,389,104,125
+morocco,0.2,508,119,389,76,67
+morocco,0.3,508,119,389,66,30

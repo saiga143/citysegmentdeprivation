@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+mexico,0.1,27810,5101,22709,3544,3370
+mexico,0.2,27810,5101,22709,2793,1526
+mexico,0.3,27810,5101,22709,2249,609

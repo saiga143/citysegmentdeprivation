@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+myanmar,0.1,Myeik,190,10,174,175
+myanmar,0.2,Myeik,190,10,166,137
+myanmar,0.3,Myeik,190,10,156,75

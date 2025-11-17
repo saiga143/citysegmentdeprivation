@@ -1,0 +1,22 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+pakistan,0.1,Hub,62,1,0,0
+pakistan,0.1,Karachi,16057,5588,10430,11167
+pakistan,0.1,Lahore,9449,2821,4786,5546
+pakistan,0.1,Muridke,47,6,12,11
+pakistan,0.1,N/A,12,3,0,0
+pakistan,0.1,Raiwind,27,5,0,0
+pakistan,0.1,Sialkot,826,219,505,571
+pakistan,0.2,Hub,62,1,0,0
+pakistan,0.2,Karachi,16057,5588,9860,8682
+pakistan,0.2,Lahore,9449,2821,4218,3597
+pakistan,0.2,Muridke,47,6,9,5
+pakistan,0.2,N/A,12,3,0,0
+pakistan,0.2,Raiwind,27,5,0,0
+pakistan,0.2,Sialkot,826,219,406,244
+pakistan,0.3,Hub,62,1,0,0
+pakistan,0.3,Karachi,16057,5588,9366,6248
+pakistan,0.3,Lahore,9449,2821,3810,1853
+pakistan,0.3,Muridke,47,6,6,1
+pakistan,0.3,N/A,12,3,0,0
+pakistan,0.3,Raiwind,27,5,0,0
+pakistan,0.3,Sialkot,826,219,318,33

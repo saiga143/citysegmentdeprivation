@@ -1,0 +1,49 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+mexico,0.1,Chiconcuac,228,66,82,56
+mexico,0.1,Colonia Santa Teresa,39,8,5,2
+mexico,0.1,Coyotepec,105,59,88,74
+mexico,0.1,Culiacán,700,154,296,278
+mexico,0.1,Guadalajara,3964,411,715,684
+mexico,0.1,Huehuetoca,49,19,40,31
+mexico,0.1,Las Delicias,41,8,24,20
+mexico,0.1,Los Reyes Acozac,61,34,48,38
+mexico,0.1,Mexico City,21610,4237,1801,1786
+mexico,0.1,Reynosa,604,26,240,219
+mexico,0.1,Rosarito,79,5,60,60
+mexico,0.1,Tecate,70,8,44,38
+mexico,0.1,Tesistán,48,9,31,23
+mexico,0.1,Tizayuca,95,15,36,27
+mexico,0.1,Tlajomulco,49,2,3,4
+mexico,0.1,Zumpango,68,40,31,30
+mexico,0.2,Chiconcuac,228,66,50,5
+mexico,0.2,Colonia Santa Teresa,39,8,2,1
+mexico,0.2,Coyotepec,105,59,73,51
+mexico,0.2,Culiacán,700,154,266,198
+mexico,0.2,Guadalajara,3964,411,581,324
+mexico,0.2,Huehuetoca,49,19,31,22
+mexico,0.2,Las Delicias,41,8,20,11
+mexico,0.2,Los Reyes Acozac,61,34,37,18
+mexico,0.2,Mexico City,21610,4237,1362,704
+mexico,0.2,Reynosa,604,26,211,124
+mexico,0.2,Rosarito,79,5,49,24
+mexico,0.2,Tecate,70,8,34,18
+mexico,0.2,Tesistán,48,9,26,13
+mexico,0.2,Tizayuca,95,15,25,7
+mexico,0.2,Tlajomulco,49,2,2,1
+mexico,0.2,Zumpango,68,40,24,5
+mexico,0.3,Chiconcuac,228,66,30,0
+mexico,0.3,Colonia Santa Teresa,39,8,1,0
+mexico,0.3,Coyotepec,105,59,67,17
+mexico,0.3,Culiacán,700,154,242,114
+mexico,0.3,Guadalajara,3964,411,478,126
+mexico,0.3,Huehuetoca,49,19,29,13
+mexico,0.3,Las Delicias,41,8,18,10
+mexico,0.3,Los Reyes Acozac,61,34,28,2
+mexico,0.3,Mexico City,21610,4237,1058,267
+mexico,0.3,Reynosa,604,26,181,42
+mexico,0.3,Rosarito,79,5,40,6
+mexico,0.3,Tecate,70,8,25,3
+mexico,0.3,Tesistán,48,9,16,5
+mexico,0.3,Tizayuca,95,15,18,2
+mexico,0.3,Tlajomulco,49,2,2,1
+mexico,0.3,Zumpango,68,40,16,1

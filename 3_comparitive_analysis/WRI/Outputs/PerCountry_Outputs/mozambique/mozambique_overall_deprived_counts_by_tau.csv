@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+mozambique,0.1,359,182,177,326,328
+mozambique,0.2,359,182,177,313,272
+mozambique,0.3,359,182,177,303,170

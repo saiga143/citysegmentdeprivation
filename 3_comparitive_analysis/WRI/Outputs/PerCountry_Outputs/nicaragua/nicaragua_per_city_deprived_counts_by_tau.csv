@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+nicaragua,0.1,León,162,50,13,22
+nicaragua,0.2,León,162,50,8,2
+nicaragua,0.3,León,162,50,6,1

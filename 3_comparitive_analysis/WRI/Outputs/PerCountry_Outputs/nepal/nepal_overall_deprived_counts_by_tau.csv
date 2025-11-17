@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+nepal,0.1,174,4,170,73,100
+nepal,0.2,174,4,170,39,12
+nepal,0.3,174,4,170,25,0

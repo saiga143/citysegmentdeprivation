@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+north_korea,0.1,626,2,624,3,3
+north_korea,0.2,626,2,624,0,0
+north_korea,0.3,626,2,624,0,0

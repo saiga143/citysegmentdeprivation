@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+mongolia,0.1,Ulaanbaatar,922,4,662,644
+mongolia,0.2,Ulaanbaatar,922,4,630,536
+mongolia,0.3,Ulaanbaatar,922,4,595,333

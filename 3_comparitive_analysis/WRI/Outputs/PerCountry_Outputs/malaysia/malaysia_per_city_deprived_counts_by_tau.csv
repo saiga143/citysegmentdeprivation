@@ -1,0 +1,10 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+malaysia,0.1,Ipoh,689,0,6,11
+malaysia,0.1,Kuala Lumpur,376,0,9,7
+malaysia,0.1,Rawang,80,0,4,7
+malaysia,0.2,Ipoh,689,0,0,0
+malaysia,0.2,Kuala Lumpur,376,0,3,0
+malaysia,0.2,Rawang,80,0,1,0
+malaysia,0.3,Ipoh,689,0,0,0
+malaysia,0.3,Kuala Lumpur,376,0,1,0
+malaysia,0.3,Rawang,80,0,0,0

@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+nicaragua,0.1,162,50,112,13,22
+nicaragua,0.2,162,50,112,8,2
+nicaragua,0.3,162,50,112,6,1

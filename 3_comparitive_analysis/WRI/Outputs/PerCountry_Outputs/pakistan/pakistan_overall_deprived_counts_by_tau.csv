@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+pakistan,0.1,26480,8643,17837,15733,17295
+pakistan,0.2,26480,8643,17837,14493,12528
+pakistan,0.3,26480,8643,17837,13500,8135

@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+mali,0.1,4157,1460,2697,3811,3975
+mali,0.2,4157,1460,2697,3661,3392
+mali,0.3,4157,1460,2697,3489,2303
