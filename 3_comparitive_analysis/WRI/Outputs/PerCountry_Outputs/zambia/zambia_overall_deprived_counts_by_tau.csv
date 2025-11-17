@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+zambia,0.1,497,98,399,373,370
+zambia,0.2,497,98,399,335,257
+zambia,0.3,497,98,399,295,146

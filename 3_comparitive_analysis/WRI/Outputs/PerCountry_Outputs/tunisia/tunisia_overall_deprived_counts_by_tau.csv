@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+tunisia,0.1,62,7,55,26,19
+tunisia,0.2,62,7,55,18,11
+tunisia,0.3,62,7,55,13,5

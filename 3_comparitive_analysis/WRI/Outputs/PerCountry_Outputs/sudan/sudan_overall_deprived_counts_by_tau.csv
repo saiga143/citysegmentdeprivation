@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+sudan,0.1,7358,4488,2870,6893,6802
+sudan,0.2,7358,4488,2870,6767,6377
+sudan,0.3,7358,4488,2870,6624,5542

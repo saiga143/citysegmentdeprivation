@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+philippines,0.1,14177,5089,9088,6308,7436
+philippines,0.2,14177,5089,9088,5140,3546
+philippines,0.3,14177,5089,9088,4300,1096

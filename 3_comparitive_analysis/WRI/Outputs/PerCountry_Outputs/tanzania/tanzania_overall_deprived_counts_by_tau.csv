@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+tanzania,0.1,454,81,373,297,329
+tanzania,0.2,454,81,373,214,105
+tanzania,0.3,454,81,373,166,9

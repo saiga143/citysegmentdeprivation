@@ -1,0 +1,13 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+uganda,0.1,Entebbe,201,70,166,167
+uganda,0.1,Kampala,3008,1069,2543,2495
+uganda,0.1,Kayanja,5,0,0,0
+uganda,0.1,Matugga,47,1,34,32
+uganda,0.2,Entebbe,201,70,128,51
+uganda,0.2,Kampala,3008,1069,2238,1485
+uganda,0.2,Kayanja,5,0,0,0
+uganda,0.2,Matugga,47,1,30,12
+uganda,0.3,Entebbe,201,70,94,9
+uganda,0.3,Kampala,3008,1069,1941,498
+uganda,0.3,Kayanja,5,0,0,0
+uganda,0.3,Matugga,47,1,19,3

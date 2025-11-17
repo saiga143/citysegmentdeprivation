@@ -1,0 +1,25 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+venezuela,0.1,Cabimas,309,34,132,139
+venezuela,0.1,Caracas,1172,169,159,178
+venezuela,0.1,Charallave,76,17,1,0
+venezuela,0.1,Ciudad Ojeda,175,10,68,71
+venezuela,0.1,Cúa,61,15,0,0
+venezuela,0.1,Los Teques,115,11,30,27
+venezuela,0.1,Ocumare del Tuy,70,27,0,0
+venezuela,0.1,Santa Teresa del Tuy,124,33,0,0
+venezuela,0.2,Cabimas,309,34,103,39
+venezuela,0.2,Caracas,1172,169,108,48
+venezuela,0.2,Charallave,76,17,0,0
+venezuela,0.2,Ciudad Ojeda,175,10,47,7
+venezuela,0.2,Cúa,61,15,0,0
+venezuela,0.2,Los Teques,115,11,17,2
+venezuela,0.2,Ocumare del Tuy,70,27,0,0
+venezuela,0.2,Santa Teresa del Tuy,124,33,0,0
+venezuela,0.3,Cabimas,309,34,85,0
+venezuela,0.3,Caracas,1172,169,80,9
+venezuela,0.3,Charallave,76,17,0,0
+venezuela,0.3,Ciudad Ojeda,175,10,36,0
+venezuela,0.3,Cúa,61,15,0,0
+venezuela,0.3,Los Teques,115,11,9,0
+venezuela,0.3,Ocumare del Tuy,70,27,0,0
+venezuela,0.3,Santa Teresa del Tuy,124,33,0,0

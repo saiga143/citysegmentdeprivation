@@ -1,0 +1,13 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+sudan,0.1,Ghaliya,84,34,0,0
+sudan,0.1,Jebel Aulia,75,48,72,70
+sudan,0.1,Khartoum,6905,4174,6547,6465
+sudan,0.1,N/A,294,232,274,267
+sudan,0.2,Ghaliya,84,34,0,0
+sudan,0.2,Jebel Aulia,75,48,71,70
+sudan,0.2,Khartoum,6905,4174,6429,6048
+sudan,0.2,N/A,294,232,267,259
+sudan,0.3,Ghaliya,84,34,0,0
+sudan,0.3,Jebel Aulia,75,48,70,59
+sudan,0.3,Khartoum,6905,4174,6287,5238
+sudan,0.3,N/A,294,232,267,245

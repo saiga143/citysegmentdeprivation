@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+rwanda,0.1,Kabuga,40,7,29,26
+rwanda,0.1,Kigali,1119,304,879,864
+rwanda,0.2,Kabuga,40,7,22,18
+rwanda,0.2,Kigali,1119,304,766,556
+rwanda,0.3,Kabuga,40,7,19,1
+rwanda,0.3,Kigali,1119,304,666,193

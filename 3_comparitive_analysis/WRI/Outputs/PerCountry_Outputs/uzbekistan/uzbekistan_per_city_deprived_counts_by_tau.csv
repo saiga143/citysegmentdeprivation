@@ -1,0 +1,13 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+uzbekistan,0.1,Bukhara,130,0,92,82
+uzbekistan,0.1,Chirchiq,58,0,54,46
+uzbekistan,0.1,Tashkent,1424,12,837,743
+uzbekistan,0.1,Yangiiul,64,0,64,63
+uzbekistan,0.2,Bukhara,130,0,80,57
+uzbekistan,0.2,Chirchiq,58,0,46,22
+uzbekistan,0.2,Tashkent,1424,12,705,390
+uzbekistan,0.2,Yangiiul,64,0,63,48
+uzbekistan,0.3,Bukhara,130,0,70,17
+uzbekistan,0.3,Chirchiq,58,0,37,8
+uzbekistan,0.3,Tashkent,1424,12,594,195
+uzbekistan,0.3,Yangiiul,64,0,61,30

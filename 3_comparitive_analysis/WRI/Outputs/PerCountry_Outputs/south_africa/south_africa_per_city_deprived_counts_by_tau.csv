@@ -1,0 +1,52 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+south_africa,0.1,Azaadville,64,47,41,44
+south_africa,0.1,Centurion,170,2,0,0
+south_africa,0.1,Daveyton,389,323,145,153
+south_africa,0.1,Diepsloot,172,161,88,111
+south_africa,0.1,Evaton,263,215,0,0
+south_africa,0.1,Johannesburg,7624,3880,578,661
+south_africa,0.1,KwaNobuhle 1,119,86,64,67
+south_africa,0.1,Lenasia,117,34,31,28
+south_africa,0.1,Lenasia South,143,54,0,0
+south_africa,0.1,Midrand,55,0,0,0
+south_africa,0.1,Mnandi A.H.,81,68,43,45
+south_africa,0.1,Port Elizabeth,764,310,259,278
+south_africa,0.1,Pretoria,123,5,0,0
+south_africa,0.1,Stesa AH,98,72,18,19
+south_africa,0.1,Tsakane,502,346,199,206
+south_africa,0.1,Uitenhage,105,46,32,33
+south_africa,0.1,Wells Estate,160,114,97,94
+south_africa,0.2,Azaadville,64,47,34,25
+south_africa,0.2,Centurion,170,2,0,0
+south_africa,0.2,Daveyton,389,323,118,76
+south_africa,0.2,Diepsloot,172,161,75,58
+south_africa,0.2,Evaton,263,215,0,0
+south_africa,0.2,Johannesburg,7624,3880,439,276
+south_africa,0.2,KwaNobuhle 1,119,86,54,39
+south_africa,0.2,Lenasia,117,34,26,19
+south_africa,0.2,Lenasia South,143,54,0,0
+south_africa,0.2,Midrand,55,0,0,0
+south_africa,0.2,Mnandi A.H.,81,68,39,20
+south_africa,0.2,Port Elizabeth,764,310,214,140
+south_africa,0.2,Pretoria,123,5,0,0
+south_africa,0.2,Stesa AH,98,72,13,8
+south_africa,0.2,Tsakane,502,346,164,97
+south_africa,0.2,Uitenhage,105,46,26,13
+south_africa,0.2,Wells Estate,160,114,85,68
+south_africa,0.3,Azaadville,64,47,30,9
+south_africa,0.3,Centurion,170,2,0,0
+south_africa,0.3,Daveyton,389,323,100,39
+south_africa,0.3,Diepsloot,172,161,66,25
+south_africa,0.3,Evaton,263,215,0,0
+south_africa,0.3,Johannesburg,7624,3880,365,98
+south_africa,0.3,KwaNobuhle 1,119,86,52,13
+south_africa,0.3,Lenasia,117,34,23,9
+south_africa,0.3,Lenasia South,143,54,0,0
+south_africa,0.3,Midrand,55,0,0,0
+south_africa,0.3,Mnandi A.H.,81,68,31,7
+south_africa,0.3,Port Elizabeth,764,310,183,74
+south_africa,0.3,Pretoria,123,5,0,0
+south_africa,0.3,Stesa AH,98,72,10,0
+south_africa,0.3,Tsakane,502,346,133,36
+south_africa,0.3,Uitenhage,105,46,21,4
+south_africa,0.3,Wells Estate,160,114,74,43

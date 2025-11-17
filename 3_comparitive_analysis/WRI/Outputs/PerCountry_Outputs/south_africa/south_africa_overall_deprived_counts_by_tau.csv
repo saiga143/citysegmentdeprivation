@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+south_africa,0.1,10949,5763,5186,1595,1739
+south_africa,0.2,10949,5763,5186,1287,839
+south_africa,0.3,10949,5763,5186,1088,357

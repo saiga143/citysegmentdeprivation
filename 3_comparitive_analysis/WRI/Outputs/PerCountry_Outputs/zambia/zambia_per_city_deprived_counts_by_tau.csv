@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+zambia,0.1,Luanshya,12,0,0,0
+zambia,0.1,Ndola,485,98,373,370
+zambia,0.2,Luanshya,12,0,0,0
+zambia,0.2,Ndola,485,98,335,257
+zambia,0.3,Luanshya,12,0,0,0
+zambia,0.3,Ndola,485,98,295,146

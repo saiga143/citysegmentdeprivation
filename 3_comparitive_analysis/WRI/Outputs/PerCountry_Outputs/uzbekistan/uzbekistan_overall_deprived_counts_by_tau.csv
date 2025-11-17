@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+uzbekistan,0.1,1676,12,1664,1047,934
+uzbekistan,0.2,1676,12,1664,894,517
+uzbekistan,0.3,1676,12,1664,762,250

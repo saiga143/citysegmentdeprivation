@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+tunisia,0.1,Kairouan,62,7,26,19
+tunisia,0.2,Kairouan,62,7,18,11
+tunisia,0.3,Kairouan,62,7,13,5

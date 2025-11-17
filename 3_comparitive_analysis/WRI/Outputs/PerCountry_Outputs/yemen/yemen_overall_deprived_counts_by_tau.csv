@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+yemen,0.1,2947,261,2686,643,679
+yemen,0.2,2947,261,2686,532,294
+yemen,0.3,2947,261,2686,444,82

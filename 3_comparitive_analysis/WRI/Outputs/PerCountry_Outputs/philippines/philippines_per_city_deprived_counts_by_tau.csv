@@ -1,0 +1,28 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+philippines,0.1,Bacolod,381,28,43,58
+philippines,0.1,Binangonan,118,44,56,69
+philippines,0.1,Calumpit,13,0,0,0
+philippines,0.1,Cebu City,863,224,168,217
+philippines,0.1,Hagonoy,20,0,0,0
+philippines,0.1,Quezon City [Manila],12599,4772,6012,7051
+philippines,0.1,Santa Cruz,77,4,0,0
+philippines,0.1,Tanay,26,2,0,0
+philippines,0.1,Trece Martires,80,15,29,41
+philippines,0.2,Bacolod,381,28,18,5
+philippines,0.2,Binangonan,118,44,33,12
+philippines,0.2,Calumpit,13,0,0,0
+philippines,0.2,Cebu City,863,224,74,15
+philippines,0.2,Hagonoy,20,0,0,0
+philippines,0.2,Quezon City [Manila],12599,4772,4995,3500
+philippines,0.2,Santa Cruz,77,4,0,0
+philippines,0.2,Tanay,26,2,0,0
+philippines,0.2,Trece Martires,80,15,20,14
+philippines,0.3,Bacolod,381,28,9,1
+philippines,0.3,Binangonan,118,44,16,0
+philippines,0.3,Calumpit,13,0,0,0
+philippines,0.3,Cebu City,863,224,38,0
+philippines,0.3,Hagonoy,20,0,0,0
+philippines,0.3,Quezon City [Manila],12599,4772,4219,1085
+philippines,0.3,Santa Cruz,77,4,0,0
+philippines,0.3,Tanay,26,2,0,0
+philippines,0.3,Trece Martires,80,15,18,10

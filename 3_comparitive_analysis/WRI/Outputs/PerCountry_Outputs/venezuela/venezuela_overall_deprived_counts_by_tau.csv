@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+venezuela,0.1,2102,316,1786,390,415
+venezuela,0.2,2102,316,1786,275,96
+venezuela,0.3,2102,316,1786,210,9

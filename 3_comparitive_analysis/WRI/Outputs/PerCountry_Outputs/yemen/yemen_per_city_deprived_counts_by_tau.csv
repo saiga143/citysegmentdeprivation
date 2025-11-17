@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+yemen,0.1,Sana'a,2947,261,643,679
+yemen,0.2,Sana'a,2947,261,532,294
+yemen,0.3,Sana'a,2947,261,444,82

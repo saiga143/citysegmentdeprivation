@@ -1,0 +1,34 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+vietnam,0.1,Ben Cat,78,0,0,0
+vietnam,0.1,Củ Chi,205,0,121,106
+vietnam,0.1,Gia Kiệm,2,0,0,0
+vietnam,0.1,Hiệp Phước,165,0,46,47
+vietnam,0.1,Ho Chi Minh City,8479,2374,2499,3222
+vietnam,0.1,Phú Mỹ,89,0,7,7
+vietnam,0.1,Sa Dec City,187,2,113,90
+vietnam,0.1,Tan An,13,0,0,0
+vietnam,0.1,Trang Bang,61,0,0,0
+vietnam,0.1,Tân Uyên,25,0,2,1
+vietnam,0.1,Đức Hòa,80,0,0,1
+vietnam,0.2,Ben Cat,78,0,0,0
+vietnam,0.2,Củ Chi,205,0,71,15
+vietnam,0.2,Gia Kiệm,2,0,0,0
+vietnam,0.2,Hiệp Phước,165,0,36,20
+vietnam,0.2,Ho Chi Minh City,8479,2374,1674,699
+vietnam,0.2,Phú Mỹ,89,0,7,1
+vietnam,0.2,Sa Dec City,187,2,72,21
+vietnam,0.2,Tan An,13,0,0,0
+vietnam,0.2,Trang Bang,61,0,0,0
+vietnam,0.2,Tân Uyên,25,0,0,0
+vietnam,0.2,Đức Hòa,80,0,0,0
+vietnam,0.3,Ben Cat,78,0,0,0
+vietnam,0.3,Củ Chi,205,0,44,0
+vietnam,0.3,Gia Kiệm,2,0,0,0
+vietnam,0.3,Hiệp Phước,165,0,30,0
+vietnam,0.3,Ho Chi Minh City,8479,2374,1128,59
+vietnam,0.3,Phú Mỹ,89,0,4,0
+vietnam,0.3,Sa Dec City,187,2,50,0
+vietnam,0.3,Tan An,13,0,0,0
+vietnam,0.3,Trang Bang,61,0,0,0
+vietnam,0.3,Tân Uyên,25,0,0,0
+vietnam,0.3,Đức Hòa,80,0,0,0

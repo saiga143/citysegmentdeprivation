@@ -1,0 +1,19 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+thailand,0.1,Bangkok,8084,125,2642,2952
+thailand,0.1,Chachoengsao,41,0,6,9
+thailand,0.1,Chonburi,11,0,0,0
+thailand,0.1,N/A,164,0,14,8
+thailand,0.1,Nakhon Pathom,104,0,0,0
+thailand,0.1,Phra Nakhon Si Ayutthaya,122,8,18,21
+thailand,0.2,Bangkok,8084,125,1767,754
+thailand,0.2,Chachoengsao,41,0,1,0
+thailand,0.2,Chonburi,11,0,0,0
+thailand,0.2,N/A,164,0,3,0
+thailand,0.2,Nakhon Pathom,104,0,0,0
+thailand,0.2,Phra Nakhon Si Ayutthaya,122,8,4,1
+thailand,0.3,Bangkok,8084,125,1262,92
+thailand,0.3,Chachoengsao,41,0,0,0
+thailand,0.3,Chonburi,11,0,0,0
+thailand,0.3,N/A,164,0,1,0
+thailand,0.3,Nakhon Pathom,104,0,0,0
+thailand,0.3,Phra Nakhon Si Ayutthaya,122,8,1,0
