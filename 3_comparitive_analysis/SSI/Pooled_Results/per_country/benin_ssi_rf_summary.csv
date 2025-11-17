@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+benin,SSI (any-pixel),0.1,0.11,0.93,0.2,0.53,4591
+benin,SSI (any-pixel),0.2,0.12,0.92,0.21,0.56,4591
+benin,SSI (any-pixel),0.3,0.13,0.88,0.22,0.58,4591
+benin,SSI (mean-SSI),0.1,0.11,0.93,0.2,0.53,4591
+benin,SSI (mean-SSI),0.2,0.12,0.92,0.21,0.56,4591
+benin,SSI (mean-SSI),0.3,0.13,0.89,0.22,0.57,4591
+benin,SSI (SpaceDef only),0.1,0.19,0.87,0.31,0.71,4591
+benin,SSI (SpaceDef only),0.2,0.19,0.85,0.32,0.71,4591
+benin,SSI (SpaceDef only),0.3,0.2,0.82,0.32,0.71,4591

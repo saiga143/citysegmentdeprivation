@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+gambia,SSI (any-pixel),0.1,0.03,0.6,0.05,0.51,1505
+gambia,SSI (any-pixel),0.2,0.03,0.6,0.06,0.56,1505
+gambia,SSI (any-pixel),0.3,0.04,0.57,0.08,0.61,1505
+gambia,SSI (mean-SSI),0.1,0.03,0.6,0.05,0.51,1505
+gambia,SSI (mean-SSI),0.2,0.03,0.6,0.06,0.55,1505
+gambia,SSI (mean-SSI),0.3,0.04,0.6,0.08,0.61,1505
+gambia,SSI (SpaceDef only),0.1,0.26,0.52,0.35,0.74,1505
+gambia,SSI (SpaceDef only),0.2,0.28,0.48,0.35,0.72,1505
+gambia,SSI (SpaceDef only),0.3,0.33,0.45,0.38,0.71,1505

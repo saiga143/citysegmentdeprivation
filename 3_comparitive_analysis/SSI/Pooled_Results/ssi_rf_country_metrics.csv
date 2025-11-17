@@ -1,0 +1,298 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+democratic_republic_of_the_congo,SSI (any-pixel),0.1,0.477,0.924,0.629,0.523,25865
+democratic_republic_of_the_congo,SSI (any-pixel),0.2,0.485,0.923,0.636,0.536,25865
+democratic_republic_of_the_congo,SSI (any-pixel),0.3,0.496,0.921,0.645,0.556,25865
+democratic_republic_of_the_congo,SSI (mean-SSI),0.1,0.477,0.924,0.629,0.523,25865
+democratic_republic_of_the_congo,SSI (mean-SSI),0.2,0.483,0.923,0.635,0.534,25865
+democratic_republic_of_the_congo,SSI (mean-SSI),0.3,0.494,0.921,0.643,0.551,25865
+democratic_republic_of_the_congo,SSI (SpaceDef only),0.1,0.71,0.814,0.758,0.763,25865
+democratic_republic_of_the_congo,SSI (SpaceDef only),0.2,0.726,0.811,0.766,0.773,25865
+democratic_republic_of_the_congo,SSI (SpaceDef only),0.3,0.743,0.806,0.773,0.782,25865
+south_africa,SSI (any-pixel),0.1,0.485,0.956,0.643,0.566,26729
+south_africa,SSI (any-pixel),0.2,0.52,0.954,0.673,0.62,26729
+south_africa,SSI (any-pixel),0.3,0.561,0.948,0.705,0.674,26729
+south_africa,SSI (mean-SSI),0.1,0.483,0.956,0.642,0.563,26729
+south_africa,SSI (mean-SSI),0.2,0.511,0.954,0.666,0.608,26729
+south_africa,SSI (mean-SSI),0.3,0.544,0.949,0.691,0.652,26729
+south_africa,SSI (SpaceDef only),0.1,0.658,0.943,0.775,0.773,26729
+south_africa,SSI (SpaceDef only),0.2,0.688,0.939,0.794,0.796,26729
+south_africa,SSI (SpaceDef only),0.3,0.712,0.93,0.807,0.813,26729
+sudan,SSI (any-pixel),0.1,0.597,0.986,0.744,0.532,11346
+sudan,SSI (any-pixel),0.2,0.603,0.985,0.748,0.544,11346
+sudan,SSI (any-pixel),0.3,0.615,0.984,0.757,0.565,11346
+sudan,SSI (mean-SSI),0.1,0.597,0.986,0.744,0.532,11346
+sudan,SSI (mean-SSI),0.2,0.602,0.985,0.748,0.542,11346
+sudan,SSI (mean-SSI),0.3,0.612,0.985,0.755,0.56,11346
+sudan,SSI (SpaceDef only),0.1,0.647,0.977,0.778,0.619,11346
+sudan,SSI (SpaceDef only),0.2,0.667,0.974,0.792,0.65,11346
+sudan,SSI (SpaceDef only),0.3,0.688,0.968,0.804,0.68,11346
+ethiopia,SSI (any-pixel),0.1,0.327,0.986,0.491,0.51,5820
+ethiopia,SSI (any-pixel),0.2,0.328,0.986,0.493,0.513,5820
+ethiopia,SSI (any-pixel),0.3,0.332,0.985,0.497,0.522,5820
+ethiopia,SSI (mean-SSI),0.1,0.327,0.986,0.491,0.51,5820
+ethiopia,SSI (mean-SSI),0.2,0.328,0.986,0.492,0.512,5820
+ethiopia,SSI (mean-SSI),0.3,0.331,0.985,0.495,0.518,5820
+ethiopia,SSI (SpaceDef only),0.1,0.348,0.971,0.513,0.554,5820
+ethiopia,SSI (SpaceDef only),0.2,0.359,0.97,0.525,0.574,5820
+ethiopia,SSI (SpaceDef only),0.3,0.37,0.966,0.535,0.592,5820
+nigeria,SSI (any-pixel),0.1,0.153,0.959,0.263,0.518,62000
+nigeria,SSI (any-pixel),0.2,0.156,0.957,0.268,0.529,62000
+nigeria,SSI (any-pixel),0.3,0.162,0.95,0.277,0.55,62000
+nigeria,SSI (mean-SSI),0.1,0.153,0.959,0.263,0.517,62000
+nigeria,SSI (mean-SSI),0.2,0.155,0.957,0.267,0.527,62000
+nigeria,SSI (mean-SSI),0.3,0.161,0.95,0.275,0.545,62000
+nigeria,SSI (SpaceDef only),0.1,0.467,0.871,0.608,0.849,62000
+nigeria,SSI (SpaceDef only),0.2,0.501,0.864,0.635,0.858,62000
+nigeria,SSI (SpaceDef only),0.3,0.535,0.85,0.656,0.861,62000
+niger,SSI (any-pixel),0.1,0.653,0.991,0.787,0.515,4599
+niger,SSI (any-pixel),0.2,0.655,0.991,0.789,0.52,4599
+niger,SSI (any-pixel),0.3,0.661,0.991,0.793,0.532,4599
+niger,SSI (mean-SSI),0.1,0.653,0.991,0.787,0.515,4599
+niger,SSI (mean-SSI),0.2,0.655,0.991,0.789,0.519,4599
+niger,SSI (mean-SSI),0.3,0.659,0.991,0.792,0.527,4599
+niger,SSI (SpaceDef only),0.1,0.729,0.952,0.826,0.654,4599
+niger,SSI (SpaceDef only),0.2,0.749,0.95,0.837,0.684,4599
+niger,SSI (SpaceDef only),0.3,0.768,0.943,0.847,0.712,4599
+mozambique,SSI (any-pixel),0.1,0.495,0.976,0.656,0.561,5915
+mozambique,SSI (any-pixel),0.2,0.504,0.975,0.664,0.577,5915
+mozambique,SSI (any-pixel),0.3,0.519,0.969,0.676,0.6,5915
+mozambique,SSI (mean-SSI),0.1,0.495,0.977,0.657,0.561,5915
+mozambique,SSI (mean-SSI),0.2,0.503,0.975,0.664,0.576,5915
+mozambique,SSI (mean-SSI),0.3,0.516,0.969,0.674,0.596,5915
+mozambique,SSI (SpaceDef only),0.1,0.655,0.938,0.771,0.758,5915
+mozambique,SSI (SpaceDef only),0.2,0.678,0.93,0.785,0.776,5915
+mozambique,SSI (SpaceDef only),0.3,0.699,0.919,0.794,0.79,5915
+angola,SSI (any-pixel),0.1,0.348,0.979,0.513,0.56,891
+angola,SSI (any-pixel),0.2,0.356,0.979,0.522,0.575,891
+angola,SSI (any-pixel),0.3,0.368,0.975,0.534,0.596,891
+angola,SSI (mean-SSI),0.1,0.348,0.979,0.513,0.56,891
+angola,SSI (mean-SSI),0.2,0.355,0.979,0.521,0.573,891
+angola,SSI (mean-SSI),0.3,0.367,0.979,0.534,0.595,891
+angola,SSI (SpaceDef only),0.1,0.448,0.979,0.615,0.708,891
+angola,SSI (SpaceDef only),0.2,0.472,0.975,0.636,0.732,891
+angola,SSI (SpaceDef only),0.3,0.489,0.975,0.651,0.749,891
+namibia,SSI (any-pixel),0.1,0.626,0.99,0.767,0.608,346
+namibia,SSI (any-pixel),0.2,0.669,0.99,0.798,0.675,346
+namibia,SSI (any-pixel),0.3,0.703,0.99,0.822,0.722,346
+namibia,SSI (mean-SSI),0.1,0.618,0.99,0.761,0.595,346
+namibia,SSI (mean-SSI),0.2,0.647,0.99,0.782,0.642,346
+namibia,SSI (mean-SSI),0.3,0.69,0.99,0.813,0.705,346
+namibia,SSI (SpaceDef only),0.1,0.708,0.99,0.826,0.728,346
+namibia,SSI (SpaceDef only),0.2,0.74,0.99,0.847,0.768,346
+namibia,SSI (SpaceDef only),0.3,0.77,0.99,0.866,0.802,346
+mauritania,SSI (any-pixel),0.1,0.41,0.929,0.569,0.672,1802
+mauritania,SSI (any-pixel),0.2,0.43,0.927,0.588,0.695,1802
+mauritania,SSI (any-pixel),0.3,0.459,0.923,0.613,0.723,1802
+mauritania,SSI (mean-SSI),0.1,0.41,0.929,0.569,0.671,1802
+mauritania,SSI (mean-SSI),0.2,0.428,0.927,0.585,0.692,1802
+mauritania,SSI (mean-SSI),0.3,0.449,0.923,0.605,0.714,1802
+mauritania,SSI (SpaceDef only),0.1,0.435,0.929,0.592,0.7,1802
+mauritania,SSI (SpaceDef only),0.2,0.459,0.927,0.614,0.724,1802
+mauritania,SSI (SpaceDef only),0.3,0.481,0.923,0.632,0.743,1802
+somalia,SSI (any-pixel),0.1,0.699,0.813,0.751,0.546,6524
+somalia,SSI (any-pixel),0.2,0.704,0.812,0.754,0.555,6524
+somalia,SSI (any-pixel),0.3,0.715,0.807,0.758,0.572,6524
+somalia,SSI (mean-SSI),0.1,0.698,0.813,0.751,0.546,6524
+somalia,SSI (mean-SSI),0.2,0.703,0.812,0.753,0.554,6524
+somalia,SSI (mean-SSI),0.3,0.711,0.807,0.756,0.567,6524
+somalia,SSI (SpaceDef only),0.1,0.72,0.79,0.753,0.58,6524
+somalia,SSI (SpaceDef only),0.2,0.728,0.786,0.756,0.591,6524
+somalia,SSI (SpaceDef only),0.3,0.741,0.78,0.76,0.609,6524
+egypt,SSI (any-pixel),0.1,0.332,0.753,0.461,0.566,55178
+egypt,SSI (any-pixel),0.2,0.358,0.749,0.485,0.6,55178
+egypt,SSI (any-pixel),0.3,0.394,0.739,0.514,0.637,55178
+egypt,SSI (mean-SSI),0.1,0.33,0.753,0.459,0.564,55178
+egypt,SSI (mean-SSI),0.2,0.353,0.749,0.48,0.593,55178
+egypt,SSI (mean-SSI),0.3,0.383,0.739,0.505,0.626,55178
+egypt,SSI (SpaceDef only),0.1,0.465,0.718,0.564,0.69,55178
+egypt,SSI (SpaceDef only),0.2,0.489,0.716,0.581,0.705,55178
+egypt,SSI (SpaceDef only),0.3,0.512,0.708,0.594,0.716,55178
+tanzania,SSI (any-pixel),0.1,0.373,0.917,0.53,0.535,9055
+tanzania,SSI (any-pixel),0.2,0.384,0.91,0.54,0.555,9055
+tanzania,SSI (any-pixel),0.3,0.403,0.893,0.555,0.583,9055
+tanzania,SSI (mean-SSI),0.1,0.372,0.917,0.53,0.535,9055
+tanzania,SSI (mean-SSI),0.2,0.383,0.911,0.539,0.554,9055
+tanzania,SSI (mean-SSI),0.3,0.398,0.894,0.551,0.576,9055
+tanzania,SSI (SpaceDef only),0.1,0.574,0.845,0.683,0.75,9055
+tanzania,SSI (SpaceDef only),0.2,0.613,0.834,0.706,0.772,9055
+tanzania,SSI (SpaceDef only),0.3,0.645,0.813,0.719,0.784,9055
+zambia,SSI (any-pixel),0.1,0.219,0.966,0.357,0.553,2662
+zambia,SSI (any-pixel),0.2,0.235,0.959,0.377,0.59,2662
+zambia,SSI (any-pixel),0.3,0.257,0.945,0.404,0.632,2662
+zambia,SSI (mean-SSI),0.1,0.218,0.966,0.356,0.552,2662
+zambia,SSI (mean-SSI),0.2,0.233,0.959,0.375,0.586,2662
+zambia,SSI (mean-SSI),0.3,0.249,0.945,0.394,0.617,2662
+zambia,SSI (SpaceDef only),0.1,0.478,0.928,0.631,0.838,2662
+zambia,SSI (SpaceDef only),0.2,0.52,0.91,0.662,0.85,2662
+zambia,SSI (SpaceDef only),0.3,0.552,0.887,0.68,0.854,2662
+central_african_republic,SSI (any-pixel),0.1,0.579,0.969,0.725,0.552,811
+central_african_republic,SSI (any-pixel),0.2,0.587,0.969,0.731,0.565,811
+central_african_republic,SSI (any-pixel),0.3,0.595,0.964,0.736,0.58,811
+central_african_republic,SSI (mean-SSI),0.1,0.579,0.969,0.725,0.552,811
+central_african_republic,SSI (mean-SSI),0.2,0.584,0.969,0.729,0.561,811
+central_african_republic,SSI (mean-SSI),0.3,0.591,0.964,0.733,0.573,811
+central_african_republic,SSI (SpaceDef only),0.1,0.757,0.955,0.845,0.789,811
+central_african_republic,SSI (SpaceDef only),0.2,0.78,0.944,0.854,0.809,811
+central_african_republic,SSI (SpaceDef only),0.3,0.809,0.935,0.867,0.832,811
+cameroon,SSI (any-pixel),0.1,0.317,0.833,0.459,0.51,9957
+cameroon,SSI (any-pixel),0.2,0.323,0.827,0.465,0.521,9957
+cameroon,SSI (any-pixel),0.3,0.339,0.817,0.479,0.547,9957
+cameroon,SSI (mean-SSI),0.1,0.317,0.833,0.459,0.51,9957
+cameroon,SSI (mean-SSI),0.2,0.323,0.828,0.464,0.52,9957
+cameroon,SSI (mean-SSI),0.3,0.335,0.819,0.476,0.541,9957
+cameroon,SSI (SpaceDef only),0.1,0.562,0.727,0.634,0.735,9957
+cameroon,SSI (SpaceDef only),0.2,0.589,0.719,0.647,0.745,9957
+cameroon,SSI (SpaceDef only),0.3,0.611,0.702,0.653,0.75,9957
+kenya,SSI (any-pixel),0.1,0.41,0.891,0.562,0.567,5947
+kenya,SSI (any-pixel),0.2,0.428,0.886,0.577,0.593,5947
+kenya,SSI (any-pixel),0.3,0.453,0.875,0.597,0.626,5947
+kenya,SSI (mean-SSI),0.1,0.409,0.891,0.561,0.566,5947
+kenya,SSI (mean-SSI),0.2,0.426,0.889,0.576,0.591,5947
+kenya,SSI (mean-SSI),0.3,0.444,0.878,0.59,0.614,5947
+kenya,SSI (SpaceDef only),0.1,0.563,0.868,0.683,0.735,5947
+kenya,SSI (SpaceDef only),0.2,0.588,0.859,0.698,0.752,5947
+kenya,SSI (SpaceDef only),0.3,0.62,0.846,0.715,0.769,5947
+republic_of_congo,SSI (any-pixel),0.1,0.758,0.855,0.804,0.589,3467
+republic_of_congo,SSI (any-pixel),0.2,0.773,0.855,0.812,0.616,3467
+republic_of_congo,SSI (any-pixel),0.3,0.789,0.852,0.819,0.643,3467
+republic_of_congo,SSI (mean-SSI),0.1,0.758,0.855,0.804,0.588,3467
+republic_of_congo,SSI (mean-SSI),0.2,0.77,0.855,0.81,0.61,3467
+republic_of_congo,SSI (mean-SSI),0.3,0.787,0.852,0.818,0.639,3467
+republic_of_congo,SSI (SpaceDef only),0.1,0.894,0.79,0.839,0.779,3467
+republic_of_congo,SSI (SpaceDef only),0.2,0.905,0.788,0.843,0.792,3467
+republic_of_congo,SSI (SpaceDef only),0.3,0.912,0.786,0.844,0.799,3467
+burkina_faso,SSI (any-pixel),0.1,0.627,0.999,0.77,0.509,5322
+burkina_faso,SSI (any-pixel),0.2,0.629,0.999,0.772,0.514,5322
+burkina_faso,SSI (any-pixel),0.3,0.634,0.995,0.774,0.524,5322
+burkina_faso,SSI (mean-SSI),0.1,0.626,0.999,0.77,0.509,5322
+burkina_faso,SSI (mean-SSI),0.2,0.629,0.999,0.772,0.513,5322
+burkina_faso,SSI (mean-SSI),0.3,0.633,0.996,0.774,0.521,5322
+burkina_faso,SSI (SpaceDef only),0.1,0.681,0.974,0.802,0.611,5322
+burkina_faso,SSI (SpaceDef only),0.2,0.694,0.965,0.808,0.632,5322
+burkina_faso,SSI (SpaceDef only),0.3,0.71,0.955,0.815,0.656,5322
+cote_d_ivoire,SSI (any-pixel),0.1,0.226,0.679,0.34,0.449,7954
+cote_d_ivoire,SSI (any-pixel),0.2,0.235,0.674,0.348,0.467,7954
+cote_d_ivoire,SSI (any-pixel),0.3,0.25,0.661,0.363,0.496,7954
+cote_d_ivoire,SSI (mean-SSI),0.1,0.226,0.679,0.339,0.448,7954
+cote_d_ivoire,SSI (mean-SSI),0.2,0.234,0.675,0.347,0.465,7954
+cote_d_ivoire,SSI (mean-SSI),0.3,0.247,0.662,0.36,0.491,7954
+cote_d_ivoire,SSI (SpaceDef only),0.1,0.356,0.637,0.457,0.625,7954
+cote_d_ivoire,SSI (SpaceDef only),0.2,0.377,0.628,0.472,0.64,7954
+cote_d_ivoire,SSI (SpaceDef only),0.3,0.4,0.613,0.484,0.652,7954
+ghana,SSI (any-pixel),0.1,0.093,0.928,0.169,0.495,12081
+ghana,SSI (any-pixel),0.2,0.095,0.921,0.172,0.505,12081
+ghana,SSI (any-pixel),0.3,0.098,0.906,0.177,0.523,12081
+ghana,SSI (mean-SSI),0.1,0.093,0.928,0.169,0.495,12081
+ghana,SSI (mean-SSI),0.2,0.095,0.922,0.172,0.504,12081
+ghana,SSI (mean-SSI),0.3,0.098,0.906,0.176,0.519,12081
+ghana,SSI (SpaceDef only),0.1,0.278,0.788,0.411,0.788,12081
+ghana,SSI (SpaceDef only),0.2,0.304,0.776,0.437,0.796,12081
+ghana,SSI (SpaceDef only),0.3,0.325,0.751,0.454,0.795,12081
+guinea,SSI (any-pixel),0.1,0.281,0.891,0.427,0.506,3558
+guinea,SSI (any-pixel),0.2,0.292,0.887,0.439,0.53,3558
+guinea,SSI (any-pixel),0.3,0.307,0.869,0.454,0.557,3558
+guinea,SSI (mean-SSI),0.1,0.281,0.891,0.427,0.506,3558
+guinea,SSI (mean-SSI),0.2,0.289,0.888,0.437,0.525,3558
+guinea,SSI (mean-SSI),0.3,0.302,0.871,0.449,0.549,3558
+guinea,SSI (SpaceDef only),0.1,0.414,0.847,0.556,0.693,3558
+guinea,SSI (SpaceDef only),0.2,0.435,0.837,0.572,0.709,3558
+guinea,SSI (SpaceDef only),0.3,0.453,0.826,0.585,0.721,3558
+uganda,SSI (any-pixel),0.1,0.357,0.969,0.522,0.521,4641
+uganda,SSI (any-pixel),0.2,0.364,0.959,0.528,0.534,4641
+uganda,SSI (any-pixel),0.3,0.376,0.936,0.537,0.556,4641
+uganda,SSI (mean-SSI),0.1,0.357,0.969,0.521,0.52,4641
+uganda,SSI (mean-SSI),0.2,0.363,0.959,0.527,0.532,4641
+uganda,SSI (mean-SSI),0.3,0.372,0.939,0.533,0.548,4641
+uganda,SSI (SpaceDef only),0.1,0.525,0.876,0.656,0.727,4641
+uganda,SSI (SpaceDef only),0.2,0.555,0.851,0.672,0.744,4641
+uganda,SSI (SpaceDef only),0.3,0.576,0.815,0.675,0.748,4641
+senegal,SSI (any-pixel),0.1,0.366,0.961,0.531,0.54,8186
+senegal,SSI (any-pixel),0.2,0.376,0.959,0.54,0.558,8186
+senegal,SSI (any-pixel),0.3,0.391,0.955,0.554,0.583,8186
+senegal,SSI (mean-SSI),0.1,0.366,0.961,0.53,0.54,8186
+senegal,SSI (mean-SSI),0.2,0.375,0.959,0.539,0.556,8186
+senegal,SSI (mean-SSI),0.3,0.388,0.956,0.552,0.579,8186
+senegal,SSI (SpaceDef only),0.1,0.441,0.934,0.599,0.653,8186
+senegal,SSI (SpaceDef only),0.2,0.458,0.931,0.614,0.674,8186
+senegal,SSI (SpaceDef only),0.3,0.473,0.925,0.626,0.689,8186
+malawi,SSI (any-pixel),0.1,0.498,0.99,0.663,0.529,812
+malawi,SSI (any-pixel),0.2,0.511,0.99,0.674,0.552,812
+malawi,SSI (any-pixel),0.3,0.532,0.985,0.691,0.588,812
+malawi,SSI (mean-SSI),0.1,0.498,0.99,0.663,0.529,812
+malawi,SSI (mean-SSI),0.2,0.509,0.99,0.672,0.548,812
+malawi,SSI (mean-SSI),0.3,0.526,0.987,0.686,0.578,812
+malawi,SSI (SpaceDef only),0.1,0.702,0.952,0.808,0.788,812
+malawi,SSI (SpaceDef only),0.2,0.747,0.944,0.834,0.823,812
+malawi,SSI (SpaceDef only),0.3,0.784,0.926,0.849,0.844,812
+benin,SSI (any-pixel),0.1,0.114,0.935,0.203,0.534,4591
+benin,SSI (any-pixel),0.2,0.12,0.916,0.212,0.557,4591
+benin,SSI (any-pixel),0.3,0.127,0.879,0.222,0.579,4591
+benin,SSI (mean-SSI),0.1,0.114,0.935,0.203,0.533,4591
+benin,SSI (mean-SSI),0.2,0.119,0.92,0.212,0.556,4591
+benin,SSI (mean-SSI),0.3,0.125,0.885,0.22,0.574,4591
+benin,SSI (SpaceDef only),0.1,0.188,0.871,0.309,0.711,4591
+benin,SSI (SpaceDef only),0.2,0.194,0.847,0.316,0.714,4591
+benin,SSI (SpaceDef only),0.3,0.2,0.816,0.321,0.713,4591
+liberia,SSI (any-pixel),0.1,0.046,0.821,0.087,0.514,876
+liberia,SSI (any-pixel),0.2,0.051,0.821,0.095,0.551,876
+liberia,SSI (any-pixel),0.3,0.055,0.769,0.103,0.579,876
+liberia,SSI (mean-SSI),0.1,0.046,0.821,0.087,0.512,876
+liberia,SSI (mean-SSI),0.2,0.05,0.821,0.094,0.547,876
+liberia,SSI (mean-SSI),0.3,0.055,0.795,0.102,0.578,876
+liberia,SSI (SpaceDef only),0.1,0.161,0.667,0.26,0.753,876
+liberia,SSI (SpaceDef only),0.2,0.191,0.667,0.297,0.768,876
+liberia,SSI (SpaceDef only),0.3,0.228,0.667,0.34,0.781,876
+togo,SSI (any-pixel),0.1,0.215,0.963,0.351,0.509,3035
+togo,SSI (any-pixel),0.2,0.219,0.949,0.355,0.519,3035
+togo,SSI (any-pixel),0.3,0.227,0.939,0.366,0.54,3035
+togo,SSI (mean-SSI),0.1,0.215,0.963,0.351,0.508,3035
+togo,SSI (mean-SSI),0.2,0.218,0.949,0.355,0.518,3035
+togo,SSI (mean-SSI),0.3,0.225,0.939,0.363,0.534,3035
+togo,SSI (SpaceDef only),0.1,0.297,0.9,0.447,0.664,3035
+togo,SSI (SpaceDef only),0.2,0.31,0.863,0.457,0.674,3035
+togo,SSI (SpaceDef only),0.3,0.321,0.841,0.465,0.682,3035
+sierra_leone,SSI (any-pixel),0.1,0.27,0.95,0.421,0.532,1328
+sierra_leone,SSI (any-pixel),0.2,0.276,0.947,0.428,0.545,1328
+sierra_leone,SSI (any-pixel),0.3,0.292,0.935,0.445,0.576,1328
+sierra_leone,SSI (mean-SSI),0.1,0.27,0.95,0.421,0.532,1328
+sierra_leone,SSI (mean-SSI),0.2,0.275,0.947,0.427,0.543,1328
+sierra_leone,SSI (mean-SSI),0.3,0.287,0.938,0.44,0.567,1328
+sierra_leone,SSI (SpaceDef only),0.1,0.636,0.88,0.738,0.853,1328
+sierra_leone,SSI (SpaceDef only),0.2,0.664,0.868,0.752,0.858,1328
+sierra_leone,SSI (SpaceDef only),0.3,0.691,0.859,0.766,0.863,1328
+rwanda,SSI (any-pixel),0.1,0.277,0.982,0.432,0.534,1270
+rwanda,SSI (any-pixel),0.2,0.282,0.961,0.436,0.545,1270
+rwanda,SSI (any-pixel),0.3,0.297,0.943,0.452,0.574,1270
+rwanda,SSI (mean-SSI),0.1,0.277,0.982,0.432,0.534,1270
+rwanda,SSI (mean-SSI),0.2,0.282,0.964,0.437,0.545,1270
+rwanda,SSI (mean-SSI),0.3,0.293,0.943,0.447,0.565,1270
+rwanda,SSI (SpaceDef only),0.1,0.437,0.853,0.578,0.731,1270
+rwanda,SSI (SpaceDef only),0.2,0.456,0.784,0.576,0.725,1270
+rwanda,SSI (SpaceDef only),0.3,0.475,0.731,0.575,0.721,1270
+burundi,SSI (any-pixel),0.1,0.435,0.992,0.605,0.556,1269
+burundi,SSI (any-pixel),0.2,0.444,0.992,0.614,0.572,1269
+burundi,SSI (any-pixel),0.3,0.463,0.992,0.632,0.604,1269
+burundi,SSI (mean-SSI),0.1,0.435,0.992,0.605,0.556,1269
+burundi,SSI (mean-SSI),0.2,0.444,0.992,0.613,0.571,1269
+burundi,SSI (mean-SSI),0.3,0.458,0.992,0.627,0.595,1269
+burundi,SSI (SpaceDef only),0.1,0.583,0.986,0.733,0.752,1269
+burundi,SSI (SpaceDef only),0.2,0.604,0.984,0.748,0.771,1269
+burundi,SSI (SpaceDef only),0.3,0.63,0.983,0.768,0.794,1269
+gambia,SSI (any-pixel),0.1,0.027,0.6,0.052,0.509,1505
+gambia,SSI (any-pixel),0.2,0.033,0.6,0.062,0.559,1505
+gambia,SSI (any-pixel),0.3,0.042,0.575,0.078,0.608,1505
+gambia,SSI (mean-SSI),0.1,0.027,0.6,0.052,0.508,1505
+gambia,SSI (mean-SSI),0.2,0.032,0.6,0.061,0.555,1505
+gambia,SSI (mean-SSI),0.3,0.041,0.6,0.077,0.609,1505
+gambia,SSI (SpaceDef only),0.1,0.259,0.525,0.347,0.742,1505
+gambia,SSI (SpaceDef only),0.2,0.279,0.475,0.352,0.721,1505
+gambia,SSI (SpaceDef only),0.3,0.327,0.45,0.379,0.712,1505
+djibouti,SSI (any-pixel),0.1,0.688,0.49,0.573,0.629,299
+djibouti,SSI (any-pixel),0.2,0.721,0.49,0.584,0.646,299
+djibouti,SSI (any-pixel),0.3,0.75,0.49,0.593,0.659,299
+djibouti,SSI (mean-SSI),0.1,0.688,0.49,0.573,0.629,299
+djibouti,SSI (mean-SSI),0.2,0.714,0.49,0.581,0.642,299
+djibouti,SSI (mean-SSI),0.3,0.743,0.49,0.591,0.656,299
+djibouti,SSI (SpaceDef only),0.1,0.912,0.477,0.627,0.715,299
+djibouti,SSI (SpaceDef only),0.2,0.924,0.477,0.629,0.718,299
+djibouti,SSI (SpaceDef only),0.3,0.922,0.464,0.617,0.711,299

@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+south_africa,SSI (any-pixel),0.1,0.48,0.96,0.64,0.57,26729
+south_africa,SSI (any-pixel),0.2,0.52,0.95,0.67,0.62,26729
+south_africa,SSI (any-pixel),0.3,0.56,0.95,0.71,0.67,26729
+south_africa,SSI (mean-SSI),0.1,0.48,0.96,0.64,0.56,26729
+south_africa,SSI (mean-SSI),0.2,0.51,0.95,0.67,0.61,26729
+south_africa,SSI (mean-SSI),0.3,0.54,0.95,0.69,0.65,26729
+south_africa,SSI (SpaceDef only),0.1,0.66,0.94,0.78,0.77,26729
+south_africa,SSI (SpaceDef only),0.2,0.69,0.94,0.79,0.8,26729
+south_africa,SSI (SpaceDef only),0.3,0.71,0.93,0.81,0.81,26729

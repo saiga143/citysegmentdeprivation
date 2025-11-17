@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+republic_of_congo,SSI (any-pixel),0.1,0.76,0.86,0.8,0.59,3467
+republic_of_congo,SSI (any-pixel),0.2,0.77,0.85,0.81,0.62,3467
+republic_of_congo,SSI (any-pixel),0.3,0.79,0.85,0.82,0.64,3467
+republic_of_congo,SSI (mean-SSI),0.1,0.76,0.86,0.8,0.59,3467
+republic_of_congo,SSI (mean-SSI),0.2,0.77,0.85,0.81,0.61,3467
+republic_of_congo,SSI (mean-SSI),0.3,0.79,0.85,0.82,0.64,3467
+republic_of_congo,SSI (SpaceDef only),0.1,0.89,0.79,0.84,0.78,3467
+republic_of_congo,SSI (SpaceDef only),0.2,0.91,0.79,0.84,0.79,3467
+republic_of_congo,SSI (SpaceDef only),0.3,0.91,0.79,0.84,0.8,3467

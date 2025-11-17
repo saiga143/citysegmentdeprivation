@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+burkina_faso,SSI (any-pixel),0.1,0.63,1.0,0.77,0.51,5322
+burkina_faso,SSI (any-pixel),0.2,0.63,1.0,0.77,0.51,5322
+burkina_faso,SSI (any-pixel),0.3,0.63,1.0,0.77,0.52,5322
+burkina_faso,SSI (mean-SSI),0.1,0.63,1.0,0.77,0.51,5322
+burkina_faso,SSI (mean-SSI),0.2,0.63,1.0,0.77,0.51,5322
+burkina_faso,SSI (mean-SSI),0.3,0.63,1.0,0.77,0.52,5322
+burkina_faso,SSI (SpaceDef only),0.1,0.68,0.97,0.8,0.61,5322
+burkina_faso,SSI (SpaceDef only),0.2,0.69,0.96,0.81,0.63,5322
+burkina_faso,SSI (SpaceDef only),0.3,0.71,0.96,0.81,0.66,5322

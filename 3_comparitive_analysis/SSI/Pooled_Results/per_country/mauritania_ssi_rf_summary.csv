@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+mauritania,SSI (any-pixel),0.1,0.41,0.93,0.57,0.67,1802
+mauritania,SSI (any-pixel),0.2,0.43,0.93,0.59,0.69,1802
+mauritania,SSI (any-pixel),0.3,0.46,0.92,0.61,0.72,1802
+mauritania,SSI (mean-SSI),0.1,0.41,0.93,0.57,0.67,1802
+mauritania,SSI (mean-SSI),0.2,0.43,0.93,0.59,0.69,1802
+mauritania,SSI (mean-SSI),0.3,0.45,0.92,0.6,0.71,1802
+mauritania,SSI (SpaceDef only),0.1,0.43,0.93,0.59,0.7,1802
+mauritania,SSI (SpaceDef only),0.2,0.46,0.93,0.61,0.72,1802
+mauritania,SSI (SpaceDef only),0.3,0.48,0.92,0.63,0.74,1802

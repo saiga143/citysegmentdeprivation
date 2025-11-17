@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+liberia,SSI (any-pixel),0.1,0.05,0.82,0.09,0.51,876
+liberia,SSI (any-pixel),0.2,0.05,0.82,0.1,0.55,876
+liberia,SSI (any-pixel),0.3,0.06,0.77,0.1,0.58,876
+liberia,SSI (mean-SSI),0.1,0.05,0.82,0.09,0.51,876
+liberia,SSI (mean-SSI),0.2,0.05,0.82,0.09,0.55,876
+liberia,SSI (mean-SSI),0.3,0.05,0.79,0.1,0.58,876
+liberia,SSI (SpaceDef only),0.1,0.16,0.67,0.26,0.75,876
+liberia,SSI (SpaceDef only),0.2,0.19,0.67,0.3,0.77,876
+liberia,SSI (SpaceDef only),0.3,0.23,0.67,0.34,0.78,876

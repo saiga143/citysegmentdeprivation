@@ -1,0 +1,10 @@
+Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+SSI (any-pixel),0.1,0.342,0.901,0.496,0.536,295641
+SSI (mean-SSI),0.1,0.341,0.901,0.495,0.535,295641
+SSI (SpaceDef only),0.1,0.55,0.851,0.668,0.759,295641
+SSI (any-pixel),0.2,0.354,0.898,0.508,0.558,295641
+SSI (mean-SSI),0.2,0.352,0.899,0.506,0.554,295641
+SSI (SpaceDef only),0.2,0.575,0.845,0.684,0.773,295641
+SSI (any-pixel),0.3,0.372,0.891,0.525,0.586,295641
+SSI (mean-SSI),0.3,0.367,0.892,0.52,0.578,295641
+SSI (SpaceDef only),0.3,0.598,0.835,0.697,0.784,295641

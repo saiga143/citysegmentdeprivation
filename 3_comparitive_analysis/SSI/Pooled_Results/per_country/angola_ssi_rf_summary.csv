@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+angola,SSI (any-pixel),0.1,0.35,0.98,0.51,0.56,891
+angola,SSI (any-pixel),0.2,0.36,0.98,0.52,0.58,891
+angola,SSI (any-pixel),0.3,0.37,0.98,0.53,0.6,891
+angola,SSI (mean-SSI),0.1,0.35,0.98,0.51,0.56,891
+angola,SSI (mean-SSI),0.2,0.36,0.98,0.52,0.57,891
+angola,SSI (mean-SSI),0.3,0.37,0.98,0.53,0.59,891
+angola,SSI (SpaceDef only),0.1,0.45,0.98,0.62,0.71,891
+angola,SSI (SpaceDef only),0.2,0.47,0.98,0.64,0.73,891
+angola,SSI (SpaceDef only),0.3,0.49,0.98,0.65,0.75,891

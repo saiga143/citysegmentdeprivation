@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+burundi,SSI (any-pixel),0.1,0.43,0.99,0.6,0.56,1269
+burundi,SSI (any-pixel),0.2,0.44,0.99,0.61,0.57,1269
+burundi,SSI (any-pixel),0.3,0.46,0.99,0.63,0.6,1269
+burundi,SSI (mean-SSI),0.1,0.43,0.99,0.6,0.56,1269
+burundi,SSI (mean-SSI),0.2,0.44,0.99,0.61,0.57,1269
+burundi,SSI (mean-SSI),0.3,0.46,0.99,0.63,0.59,1269
+burundi,SSI (SpaceDef only),0.1,0.58,0.99,0.73,0.75,1269
+burundi,SSI (SpaceDef only),0.2,0.6,0.98,0.75,0.77,1269
+burundi,SSI (SpaceDef only),0.3,0.63,0.98,0.77,0.79,1269

@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+rwanda,SSI (any-pixel),0.1,0.28,0.98,0.43,0.53,1270
+rwanda,SSI (any-pixel),0.2,0.28,0.96,0.44,0.54,1270
+rwanda,SSI (any-pixel),0.3,0.3,0.94,0.45,0.57,1270
+rwanda,SSI (mean-SSI),0.1,0.28,0.98,0.43,0.53,1270
+rwanda,SSI (mean-SSI),0.2,0.28,0.96,0.44,0.54,1270
+rwanda,SSI (mean-SSI),0.3,0.29,0.94,0.45,0.57,1270
+rwanda,SSI (SpaceDef only),0.1,0.44,0.85,0.58,0.73,1270
+rwanda,SSI (SpaceDef only),0.2,0.46,0.78,0.58,0.73,1270
+rwanda,SSI (SpaceDef only),0.3,0.47,0.73,0.58,0.72,1270

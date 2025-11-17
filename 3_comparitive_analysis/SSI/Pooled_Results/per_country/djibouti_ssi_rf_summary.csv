@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+djibouti,SSI (any-pixel),0.1,0.69,0.49,0.57,0.63,299
+djibouti,SSI (any-pixel),0.2,0.72,0.49,0.58,0.65,299
+djibouti,SSI (any-pixel),0.3,0.75,0.49,0.59,0.66,299
+djibouti,SSI (mean-SSI),0.1,0.69,0.49,0.57,0.63,299
+djibouti,SSI (mean-SSI),0.2,0.71,0.49,0.58,0.64,299
+djibouti,SSI (mean-SSI),0.3,0.74,0.49,0.59,0.66,299
+djibouti,SSI (SpaceDef only),0.1,0.91,0.48,0.63,0.71,299
+djibouti,SSI (SpaceDef only),0.2,0.92,0.48,0.63,0.72,299
+djibouti,SSI (SpaceDef only),0.3,0.92,0.46,0.62,0.71,299

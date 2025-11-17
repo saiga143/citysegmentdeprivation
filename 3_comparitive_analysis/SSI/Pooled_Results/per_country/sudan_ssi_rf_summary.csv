@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+sudan,SSI (any-pixel),0.1,0.6,0.99,0.74,0.53,11346
+sudan,SSI (any-pixel),0.2,0.6,0.99,0.75,0.54,11346
+sudan,SSI (any-pixel),0.3,0.61,0.98,0.76,0.57,11346
+sudan,SSI (mean-SSI),0.1,0.6,0.99,0.74,0.53,11346
+sudan,SSI (mean-SSI),0.2,0.6,0.99,0.75,0.54,11346
+sudan,SSI (mean-SSI),0.3,0.61,0.98,0.75,0.56,11346
+sudan,SSI (SpaceDef only),0.1,0.65,0.98,0.78,0.62,11346
+sudan,SSI (SpaceDef only),0.2,0.67,0.97,0.79,0.65,11346
+sudan,SSI (SpaceDef only),0.3,0.69,0.97,0.8,0.68,11346

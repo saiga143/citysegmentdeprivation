@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+ghana,SSI (any-pixel),0.1,0.09,0.93,0.17,0.5,12081
+ghana,SSI (any-pixel),0.2,0.09,0.92,0.17,0.51,12081
+ghana,SSI (any-pixel),0.3,0.1,0.91,0.18,0.52,12081
+ghana,SSI (mean-SSI),0.1,0.09,0.93,0.17,0.5,12081
+ghana,SSI (mean-SSI),0.2,0.09,0.92,0.17,0.5,12081
+ghana,SSI (mean-SSI),0.3,0.1,0.91,0.18,0.52,12081
+ghana,SSI (SpaceDef only),0.1,0.28,0.79,0.41,0.79,12081
+ghana,SSI (SpaceDef only),0.2,0.3,0.78,0.44,0.8,12081
+ghana,SSI (SpaceDef only),0.3,0.32,0.75,0.45,0.79,12081

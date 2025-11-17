@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+togo,SSI (any-pixel),0.1,0.21,0.96,0.35,0.51,3035
+togo,SSI (any-pixel),0.2,0.22,0.95,0.36,0.52,3035
+togo,SSI (any-pixel),0.3,0.23,0.94,0.37,0.54,3035
+togo,SSI (mean-SSI),0.1,0.21,0.96,0.35,0.51,3035
+togo,SSI (mean-SSI),0.2,0.22,0.95,0.36,0.52,3035
+togo,SSI (mean-SSI),0.3,0.22,0.94,0.36,0.53,3035
+togo,SSI (SpaceDef only),0.1,0.3,0.9,0.45,0.66,3035
+togo,SSI (SpaceDef only),0.2,0.31,0.86,0.46,0.67,3035
+togo,SSI (SpaceDef only),0.3,0.32,0.84,0.46,0.68,3035

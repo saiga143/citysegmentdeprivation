@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+cameroon,SSI (any-pixel),0.1,0.32,0.83,0.46,0.51,9957
+cameroon,SSI (any-pixel),0.2,0.32,0.83,0.46,0.52,9957
+cameroon,SSI (any-pixel),0.3,0.34,0.82,0.48,0.55,9957
+cameroon,SSI (mean-SSI),0.1,0.32,0.83,0.46,0.51,9957
+cameroon,SSI (mean-SSI),0.2,0.32,0.83,0.46,0.52,9957
+cameroon,SSI (mean-SSI),0.3,0.34,0.82,0.48,0.54,9957
+cameroon,SSI (SpaceDef only),0.1,0.56,0.73,0.63,0.73,9957
+cameroon,SSI (SpaceDef only),0.2,0.59,0.72,0.65,0.75,9957
+cameroon,SSI (SpaceDef only),0.3,0.61,0.7,0.65,0.75,9957

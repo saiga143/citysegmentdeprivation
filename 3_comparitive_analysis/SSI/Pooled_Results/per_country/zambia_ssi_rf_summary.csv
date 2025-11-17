@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+zambia,SSI (any-pixel),0.1,0.22,0.97,0.36,0.55,2662
+zambia,SSI (any-pixel),0.2,0.23,0.96,0.38,0.59,2662
+zambia,SSI (any-pixel),0.3,0.26,0.95,0.4,0.63,2662
+zambia,SSI (mean-SSI),0.1,0.22,0.97,0.36,0.55,2662
+zambia,SSI (mean-SSI),0.2,0.23,0.96,0.37,0.59,2662
+zambia,SSI (mean-SSI),0.3,0.25,0.95,0.39,0.62,2662
+zambia,SSI (SpaceDef only),0.1,0.48,0.93,0.63,0.84,2662
+zambia,SSI (SpaceDef only),0.2,0.52,0.91,0.66,0.85,2662
+zambia,SSI (SpaceDef only),0.3,0.55,0.89,0.68,0.85,2662

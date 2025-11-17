@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+sierra_leone,SSI (any-pixel),0.1,0.27,0.95,0.42,0.53,1328
+sierra_leone,SSI (any-pixel),0.2,0.28,0.95,0.43,0.55,1328
+sierra_leone,SSI (any-pixel),0.3,0.29,0.94,0.45,0.58,1328
+sierra_leone,SSI (mean-SSI),0.1,0.27,0.95,0.42,0.53,1328
+sierra_leone,SSI (mean-SSI),0.2,0.28,0.95,0.43,0.54,1328
+sierra_leone,SSI (mean-SSI),0.3,0.29,0.94,0.44,0.57,1328
+sierra_leone,SSI (SpaceDef only),0.1,0.64,0.88,0.74,0.85,1328
+sierra_leone,SSI (SpaceDef only),0.2,0.66,0.87,0.75,0.86,1328
+sierra_leone,SSI (SpaceDef only),0.3,0.69,0.86,0.77,0.86,1328
