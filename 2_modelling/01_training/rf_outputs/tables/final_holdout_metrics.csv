@@ -1,0 +1,2 @@
+AUC_holdout,Accuracy_holdout,F1_holdout,Best_n_estimators_CV,Best_n_estimators_refit,bootstrap,class_weight,max_depth,max_features,min_samples_leaf,min_samples_split,n_estimators
+0.8739163364513656,0.9062095238095238,0.49111202976436547,1350,1350,True,balanced,16,sqrt,9,8,1350

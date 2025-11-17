@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "bootstrap": true,
+    "class_weight": "balanced",
+    "max_depth": 16,
+    "max_features": "sqrt",
+    "min_samples_leaf": 9,
+    "min_samples_split": 8,
+    "n_estimators": 1350
+  },
+  "best_n_estimators_cv": 1350,
+  "best_n_estimators_refit": 1350
+}
