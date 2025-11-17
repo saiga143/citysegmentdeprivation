@@ -1,0 +1,4 @@
+Rule,Threshold,TotalSegments,RF_Deprived_Seg,Rule_Deprived_Seg,Total_Pop_M,RF_Deprived_Pop_M,Rule_Deprived_Pop_M,RF_Deprived_Pop_%,Rule_Deprived_Pop_%
+WRI (p_informal),0.1,335782,98492,163248,477.58,133.12,220.8,27.87,46.23
+WRI (p_informal),0.2,335782,98492,146888,477.58,133.12,186.23,27.87,38.99
+WRI (p_informal),0.3,335782,98492,134506,477.58,133.12,163.2,27.87,34.17
