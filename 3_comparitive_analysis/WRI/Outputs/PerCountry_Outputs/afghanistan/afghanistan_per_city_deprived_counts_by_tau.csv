@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+afghanistan,0.1,Injerak,126,0,124,124
+afghanistan,0.1,Kabul,3947,532,3010,3058
+afghanistan,0.2,Injerak,126,0,124,108
+afghanistan,0.2,Kabul,3947,532,2882,2579
+afghanistan,0.3,Injerak,126,0,122,86
+afghanistan,0.3,Kabul,3947,532,2767,2059

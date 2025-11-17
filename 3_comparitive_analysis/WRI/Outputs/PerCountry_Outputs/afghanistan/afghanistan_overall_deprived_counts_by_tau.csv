@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+afghanistan,0.1,4073,532,3541,3134,3182
+afghanistan,0.2,4073,532,3541,3006,2687
+afghanistan,0.3,4073,532,3541,2889,2145
