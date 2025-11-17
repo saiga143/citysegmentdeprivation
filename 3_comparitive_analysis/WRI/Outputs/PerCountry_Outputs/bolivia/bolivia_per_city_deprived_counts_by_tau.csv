@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+bolivia,0.1,Cochabamba,1276,326,566,475
+bolivia,0.2,Cochabamba,1276,326,442,179
+bolivia,0.3,Cochabamba,1276,326,343,30

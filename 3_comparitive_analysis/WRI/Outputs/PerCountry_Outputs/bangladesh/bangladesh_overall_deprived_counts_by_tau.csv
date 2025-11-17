@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+bangladesh,0.1,10382,3986,6396,6878,7125
+bangladesh,0.2,10382,3986,6396,6044,4623
+bangladesh,0.3,10382,3986,6396,5440,2707

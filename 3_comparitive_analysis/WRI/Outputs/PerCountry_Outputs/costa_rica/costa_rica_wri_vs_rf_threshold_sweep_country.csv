@@ -1,0 +1,7 @@
+TP,FP,TN,FN,precision,recall,F1,balanced_acc,Rule / Comparison,τ (threshold),n (blocks)
+0,0,1778,29,0.0,0.0,0.0,0.5,WRI (p_informal),0.1,1807
+0,0,1778,29,0.0,0.0,0.0,0.5,WRI (p_informal),0.2,1807
+0,0,1778,29,0.0,0.0,0.0,0.5,WRI (p_informal),0.3,1807
+0,0,1778,29,0.0,0.0,0.0,0.5,WRI (m_informal),0.1,1807
+0,0,1778,29,0.0,0.0,0.0,0.5,WRI (m_informal),0.2,1807
+0,0,1778,29,0.0,0.0,0.0,0.5,WRI (m_informal),0.3,1807

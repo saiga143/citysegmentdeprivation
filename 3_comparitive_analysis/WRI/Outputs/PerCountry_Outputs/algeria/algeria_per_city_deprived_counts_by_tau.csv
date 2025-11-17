@@ -1,0 +1,22 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+algeria,0.1,Algiers,2132,112,767,922
+algeria,0.1,Boufarik,16,0,0,0
+algeria,0.1,Bougara,1,0,0,0
+algeria,0.1,Khemis El Khechna,48,1,0,0
+algeria,0.1,Larbaa,18,0,0,0
+algeria,0.1,Meftah,70,0,0,0
+algeria,0.1,Tebessa,194,15,168,153
+algeria,0.2,Algiers,2132,112,566,315
+algeria,0.2,Boufarik,16,0,0,0
+algeria,0.2,Bougara,1,0,0,0
+algeria,0.2,Khemis El Khechna,48,1,0,0
+algeria,0.2,Larbaa,18,0,0,0
+algeria,0.2,Meftah,70,0,0,0
+algeria,0.2,Tebessa,194,15,150,95
+algeria,0.3,Algiers,2132,112,430,68
+algeria,0.3,Boufarik,16,0,0,0
+algeria,0.3,Bougara,1,0,0,0
+algeria,0.3,Khemis El Khechna,48,1,0,0
+algeria,0.3,Larbaa,18,0,0,0
+algeria,0.3,Meftah,70,0,0,0
+algeria,0.3,Tebessa,194,15,128,56

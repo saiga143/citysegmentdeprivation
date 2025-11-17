@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+cuba,0.1,311,184,127,247,250
+cuba,0.2,311,184,127,232,191
+cuba,0.3,311,184,127,219,140

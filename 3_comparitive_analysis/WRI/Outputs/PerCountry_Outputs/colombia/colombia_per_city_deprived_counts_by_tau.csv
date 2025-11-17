@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+colombia,0.1,Bogota,7436,743,282,346
+colombia,0.1,Valledupar,635,27,465,461
+colombia,0.2,Bogota,7436,743,199,116
+colombia,0.2,Valledupar,635,27,429,349
+colombia,0.3,Bogota,7436,743,157,36
+colombia,0.3,Valledupar,635,27,401,237

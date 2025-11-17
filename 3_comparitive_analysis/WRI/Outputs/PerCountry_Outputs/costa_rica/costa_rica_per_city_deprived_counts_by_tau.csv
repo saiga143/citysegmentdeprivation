@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+costa_rica,0.1,Cartago,204,1,0,0
+costa_rica,0.1,San José,1603,28,0,0
+costa_rica,0.2,Cartago,204,1,0,0
+costa_rica,0.2,San José,1603,28,0,0
+costa_rica,0.3,Cartago,204,1,0,0
+costa_rica,0.3,San José,1603,28,0,0

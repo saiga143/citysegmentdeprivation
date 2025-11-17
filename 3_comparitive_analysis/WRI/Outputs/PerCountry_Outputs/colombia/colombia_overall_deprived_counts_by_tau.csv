@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+colombia,0.1,8071,770,7301,747,807
+colombia,0.2,8071,770,7301,628,465
+colombia,0.3,8071,770,7301,558,273

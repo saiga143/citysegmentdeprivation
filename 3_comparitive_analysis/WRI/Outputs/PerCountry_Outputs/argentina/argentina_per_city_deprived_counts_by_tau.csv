@@ -1,0 +1,19 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+argentina,0.1,Belén de Escobar,69,10,45,39
+argentina,0.1,Buenos Aires,15376,1442,4480,4439
+argentina,0.1,Cordoba,1458,176,323,290
+argentina,0.1,General Rodríguez,44,17,33,31
+argentina,0.1,Pilar,91,30,63,53
+argentina,0.1,Tristán Suárez,92,76,88,84
+argentina,0.2,Belén de Escobar,69,10,36,21
+argentina,0.2,Buenos Aires,15376,1442,3856,2586
+argentina,0.2,Cordoba,1458,176,250,119
+argentina,0.2,General Rodríguez,44,17,29,14
+argentina,0.2,Pilar,91,30,50,30
+argentina,0.2,Tristán Suárez,92,76,82,70
+argentina,0.3,Belén de Escobar,69,10,29,5
+argentina,0.3,Buenos Aires,15376,1442,3330,1166
+argentina,0.3,Cordoba,1458,176,192,32
+argentina,0.3,General Rodríguez,44,17,26,2
+argentina,0.3,Pilar,91,30,40,17
+argentina,0.3,Tristán Suárez,92,76,77,51

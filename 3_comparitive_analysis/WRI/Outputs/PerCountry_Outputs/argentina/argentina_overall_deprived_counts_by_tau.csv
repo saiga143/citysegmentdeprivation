@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+argentina,0.1,17130,1751,15379,5032,4936
+argentina,0.2,17130,1751,15379,4303,2840
+argentina,0.3,17130,1751,15379,3694,1273

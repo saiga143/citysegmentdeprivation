@@ -1,0 +1,4 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+cuba,0.1,Holguín,311,184,247,250
+cuba,0.2,Holguín,311,184,232,191
+cuba,0.3,Holguín,311,184,219,140

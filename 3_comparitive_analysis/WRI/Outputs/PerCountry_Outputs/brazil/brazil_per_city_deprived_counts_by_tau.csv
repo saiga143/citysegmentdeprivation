@@ -1,0 +1,76 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+brazil,0.1,Araucária,100,3,4,2
+brazil,0.1,Arujá,57,6,0,2
+brazil,0.1,Belo Horizonte,4414,679,348,439
+brazil,0.1,Belvedere,62,23,47,46
+brazil,0.1,Curitiba,2398,105,93,77
+brazil,0.1,Fazenda Rio Grande,3,0,0,0
+brazil,0.1,Florianópolis,549,22,13,14
+brazil,0.1,Francisco Morato,305,66,63,77
+brazil,0.1,Icaivera,58,27,22,26
+brazil,0.1,Ilhéus,76,8,24,25
+brazil,0.1,Itabuna,208,47,0,0
+brazil,0.1,Itapecerica da Serra,66,6,5,11
+brazil,0.1,Jardim Britânia,49,6,2,2
+brazil,0.1,Jequié,147,35,104,96
+brazil,0.1,Jundiaí,5,0,0,0
+brazil,0.1,Palmas,78,0,1,2
+brazil,0.1,Perus,67,17,3,8
+brazil,0.1,Polvilho,71,1,4,7
+brazil,0.1,Ribeirao Preto,703,23,19,22
+brazil,0.1,Ribeirão Pires,95,2,7,9
+brazil,0.1,Ribeirão das Neves,71,15,46,50
+brazil,0.1,Sertãozinho,42,0,0,0
+brazil,0.1,São José dos Pinhais,155,6,0,0
+brazil,0.1,São Paulo,17108,1869,127,257
+brazil,0.1,Taquaralto,124,6,55,54
+brazil,0.2,Araucária,100,3,1,0
+brazil,0.2,Arujá,57,6,0,0
+brazil,0.2,Belo Horizonte,4414,679,225,76
+brazil,0.2,Belvedere,62,23,43,26
+brazil,0.2,Curitiba,2398,105,51,21
+brazil,0.2,Fazenda Rio Grande,3,0,0,0
+brazil,0.2,Florianópolis,549,22,6,0
+brazil,0.2,Francisco Morato,305,66,34,14
+brazil,0.2,Icaivera,58,27,17,4
+brazil,0.2,Ilhéus,76,8,16,5
+brazil,0.2,Itabuna,208,47,0,0
+brazil,0.2,Itapecerica da Serra,66,6,3,0
+brazil,0.2,Jardim Britânia,49,6,1,0
+brazil,0.2,Jequié,147,35,90,48
+brazil,0.2,Jundiaí,5,0,0,0
+brazil,0.2,Palmas,78,0,0,0
+brazil,0.2,Perus,67,17,2,1
+brazil,0.2,Polvilho,71,1,1,0
+brazil,0.2,Ribeirao Preto,703,23,10,4
+brazil,0.2,Ribeirão Pires,95,2,2,0
+brazil,0.2,Ribeirão das Neves,71,15,37,24
+brazil,0.2,Sertãozinho,42,0,0,0
+brazil,0.2,São José dos Pinhais,155,6,0,0
+brazil,0.2,São Paulo,17108,1869,52,10
+brazil,0.2,Taquaralto,124,6,32,1
+brazil,0.3,Araucária,100,3,1,0
+brazil,0.3,Arujá,57,6,0,0
+brazil,0.3,Belo Horizonte,4414,679,156,4
+brazil,0.3,Belvedere,62,23,37,12
+brazil,0.3,Curitiba,2398,105,39,3
+brazil,0.3,Fazenda Rio Grande,3,0,0,0
+brazil,0.3,Florianópolis,549,22,1,0
+brazil,0.3,Francisco Morato,305,66,25,0
+brazil,0.3,Icaivera,58,27,13,0
+brazil,0.3,Ilhéus,76,8,12,0
+brazil,0.3,Itabuna,208,47,0,0
+brazil,0.3,Itapecerica da Serra,66,6,0,0
+brazil,0.3,Jardim Britânia,49,6,0,0
+brazil,0.3,Jequié,147,35,72,20
+brazil,0.3,Jundiaí,5,0,0,0
+brazil,0.3,Palmas,78,0,0,0
+brazil,0.3,Perus,67,17,2,0
+brazil,0.3,Polvilho,71,1,0,0
+brazil,0.3,Ribeirao Preto,703,23,7,0
+brazil,0.3,Ribeirão Pires,95,2,1,0
+brazil,0.3,Ribeirão das Neves,71,15,32,3
+brazil,0.3,Sertãozinho,42,0,0,0
+brazil,0.3,São José dos Pinhais,155,6,0,0
+brazil,0.3,São Paulo,17108,1869,27,2
+brazil,0.3,Taquaralto,124,6,16,0

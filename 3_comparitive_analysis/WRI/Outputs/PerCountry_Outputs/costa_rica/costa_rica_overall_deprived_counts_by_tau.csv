@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+costa_rica,0.1,1807,29,1778,0,0
+costa_rica,0.2,1807,29,1778,0,0
+costa_rica,0.3,1807,29,1778,0,0

@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+angola,0.1,9106,4953,4153,8048,8310
+angola,0.2,9106,4953,4153,7565,6701
+angola,0.3,9106,4953,4153,7095,3854

@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+algeria,0.1,2479,128,2351,935,1075
+algeria,0.2,2479,128,2351,716,410
+algeria,0.3,2479,128,2351,558,124

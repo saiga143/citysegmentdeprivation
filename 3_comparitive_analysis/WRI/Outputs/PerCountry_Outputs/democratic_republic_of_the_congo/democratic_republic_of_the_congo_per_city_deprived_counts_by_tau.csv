@@ -1,0 +1,10 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+democratic_republic_of_the_congo,0.1,Kibomango,100,16,99,98
+democratic_republic_of_the_congo,0.1,Kinshasa,9270,7014,9116,9152
+democratic_republic_of_the_congo,0.1,Lubumbashi,2596,752,2475,2470
+democratic_republic_of_the_congo,0.2,Kibomango,100,16,98,96
+democratic_republic_of_the_congo,0.2,Kinshasa,9270,7014,9004,8773
+democratic_republic_of_the_congo,0.2,Lubumbashi,2596,752,2410,2193
+democratic_republic_of_the_congo,0.3,Kibomango,100,16,98,87
+democratic_republic_of_the_congo,0.3,Kinshasa,9270,7014,8890,7889
+democratic_republic_of_the_congo,0.3,Lubumbashi,2596,752,2335,1797

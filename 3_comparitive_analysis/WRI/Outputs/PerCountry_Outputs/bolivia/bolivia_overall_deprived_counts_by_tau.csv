@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+bolivia,0.1,1276,326,950,566,475
+bolivia,0.2,1276,326,950,442,179
+bolivia,0.3,1276,326,950,343,30

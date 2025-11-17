@@ -1,0 +1,7 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+angola,0.1,Luanda,9062,4950,8020,8280
+angola,0.1,Panguila,44,3,28,30
+angola,0.2,Luanda,9062,4950,7547,6697
+angola,0.2,Panguila,44,3,18,4
+angola,0.3,Luanda,9062,4950,7087,3854
+angola,0.3,Panguila,44,3,8,0

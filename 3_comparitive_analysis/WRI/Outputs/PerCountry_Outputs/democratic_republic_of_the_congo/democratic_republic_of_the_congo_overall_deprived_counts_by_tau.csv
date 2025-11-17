@@ -1,0 +1,4 @@
+country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
+democratic_republic_of_the_congo,0.1,11966,7782,4184,11690,11720
+democratic_republic_of_the_congo,0.2,11966,7782,4184,11512,11062
+democratic_republic_of_the_congo,0.3,11966,7782,4184,11323,9773

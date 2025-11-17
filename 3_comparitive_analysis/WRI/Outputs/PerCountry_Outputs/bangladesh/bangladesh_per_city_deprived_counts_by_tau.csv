@@ -1,0 +1,16 @@
+country,τ (threshold),UC_NM_MN,n_blocks,rf_deprived_n,WRI_p_deprived_n,WRI_m_deprived_n
+bangladesh,0.1,Dhaka,9647,3873,6532,6728
+bangladesh,0.1,Gazaria,30,1,0,0
+bangladesh,0.1,N/A,40,2,0,0
+bangladesh,0.1,Rajshahi,552,70,277,329
+bangladesh,0.1,Saidpur,113,40,69,68
+bangladesh,0.2,Dhaka,9647,3873,5792,4479
+bangladesh,0.2,Gazaria,30,1,0,0
+bangladesh,0.2,N/A,40,2,0,0
+bangladesh,0.2,Rajshahi,552,70,193,95
+bangladesh,0.2,Saidpur,113,40,59,49
+bangladesh,0.3,Dhaka,9647,3873,5248,2687
+bangladesh,0.3,Gazaria,30,1,0,0
+bangladesh,0.3,N/A,40,2,0,0
+bangladesh,0.3,Rajshahi,552,70,139,10
+bangladesh,0.3,Saidpur,113,40,53,10
