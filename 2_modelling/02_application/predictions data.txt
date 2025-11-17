@@ -1,1 +1,0 @@
-the predictions country-wise gpkg files are made available as a single zip folder in this zenodo repository: 
