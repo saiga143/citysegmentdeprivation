@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17642978.svg)](https://doi.org/10.5281/zenodo.17642978)
+
 # City Segment Deprivation (CSD) Model — Analysis Workflow
 
 This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the city segment deprivation (CSD) study.  
@@ -118,8 +120,13 @@ All steps are modular and can be reproduced independently.
 ---
 
 ## 📘 Citation
+If you use or build upon this work, please cite the paper and link to this repository.
 
-A Zenodo DOI and citation will be added once the associated manuscript is accepted.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17642978.svg)](https://doi.org/10.5281/zenodo.17642978)
+
+Zenodo: Veeravalli, S. G. (2025). A Global, Standardized City Segment Deprivation (CSD) Model: Preprocessing, Training, Predictions, and Cross-Dataset Comparisons (v2.1). Zenodo. https://doi.org/10.5281/zenodo.17642978
+
+Paper: _coming soon_
 
 ---
 
