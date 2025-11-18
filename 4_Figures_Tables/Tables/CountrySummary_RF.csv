@@ -1,0 +1,104 @@
+S.No,Region,ISO,Country,Total_Area_km2,Deprived_Area_km2,Total_Pop_M,Deprived_Pop_M
+1,Africa,DZA,Algeria,2962.646,22.251,19.326,0.527
+2,Africa,AGO,Angola,1751.967,416.402,20.651,9.491
+3,Africa,BEN,Benin,696.463,33.799,4.673,0.399
+4,Africa,BWA,Botswana,196.11,5.416,0.549,0.023
+5,Africa,BFA,Burkina Faso,618.2,275.149,5.104,3.014
+6,Africa,BDI,Burundi,151.983,21.41,1.714,0.624
+7,Africa,CMR,Cameroon,1179.225,172.38,15.199,4.301
+8,Africa,CAF,Central African Republic,150.997,46.341,1.602,0.99
+9,Africa,TCD,Chad,356.785,30.343,3.662,0.619
+10,Africa,COM,Comoros,35.779,3.443,0.395,0.157
+11,Africa,CIV,Côte d'Ivoire,1045.132,88.824,10.639,2.345
+12,Africa,COD,Democratic Republic of the Congo,2737.038,536.38,43.592,18.325
+13,Africa,DJI,Djibouti,31.803,5.821,0.421,0.167
+14,Africa,EGY,Egypt,8605.893,373.268,76.178,18.647
+15,Africa,GNQ,Equatorial Guinea,83.44,8.883,1.182,0.241
+16,Africa,ERI,Eritrea,45.735,4.384,0.254,0.048
+17,Africa,ETH,Ethiopia,1150.623,183.837,14.999,5.186
+18,Africa,GAB,Gabon,138.07,8.052,0.745,0.074
+19,Africa,GMB,Gambia,160.037,1.622,1.447,0.028
+20,Africa,GHA,Ghana,2183.66,79.234,15.943,1.519
+21,Africa,GIN,Guinea,624.038,61.437,5.008,1.119
+22,Africa,GNB,Guinea-Bissau,80.504,0.035,0.78,0.001
+23,Africa,KEN,Kenya,941.667,120.87,10.892,4.411
+24,Africa,LSO,Lesotho,74.738,0.359,0.234,0.002
+25,Africa,LBR,Liberia,319.897,6.045,2.217,0.085
+26,Africa,LBY,Libya,1078.892,0.831,3.117,0.005
+27,Africa,MDG,Madagascar,308.366,115.39,3.833,2.254
+28,Africa,MWI,Malawi,361.872,93.336,2.369,1.353
+29,Africa,MLI,Mali,614.275,66.99,5.961,1.608
+30,Africa,MRT,Mauritania,163.12,36.056,1.706,0.503
+31,Africa,MUS,Mauritius,143.265,0.173,0.561,0.001
+32,Africa,MAR,Morocco,2062.521,41.513,19.62,2.357
+33,Africa,MOZ,Mozambique,943.413,288.471,7.311,3.571
+34,Africa,NAM,Namibia,79.621,20.074,0.406,0.241
+35,Africa,NEG,Niger,363.825,117.138,4.623,2.531
+36,Africa,NGA,Nigeria,11892.043,606.527,91.598,12.419
+37,Africa,COG,Republic of Congo,277.152,71.255,4.109,2.402
+38,Africa,RWA,Rwanda,259.257,42.476,1.649,0.478
+39,Africa,SEN,Senegal,775.435,108.921,8.347,2.485
+40,Africa,SLE,Sierra Leone,301.057,31.469,3.191,0.913
+41,Africa,SOM,Somalia,298.046,112.969,8.295,5.402
+42,Africa,ZAF,South Africa,6513.966,818.897,30.29,12.148
+43,Africa,SSD,South Sudan,208.63,89.751,0.985,0.569
+44,Africa,SDN,Sudan,1828.323,676.356,15.148,8.822
+45,Africa,SWZ,Swaziland,36.85,0.45,0.097,0.002
+46,Africa,TZA,Tanzania,1698.809,286.487,14.984,6.659
+47,Africa,TGO,Togo,467.935,57.387,3.367,0.621
+48,Africa,TUN,Tunisia,1191.482,19.552,5.736,0.291
+49,Africa,UGA,Uganda,923.777,172.283,6.4,2.157
+50,Africa,ESH,Western Sahara,28.872,0.021,0.23,0.001
+51,Africa,ZMB,Zambia,1060.669,118.785,7.472,1.833
+52,Africa,ZWE,Zimbabwe,878.252,32.267,3.102,0.261
+53,Asia,AFG,Afghanistan,851.927,37.835,11.518,1.506
+54,Asia,BGD,Bangladesh,13117.427,349.338,68.543,17.574
+55,Asia,KHM,Cambodia,460.171,4.431,3.039,0.185
+56,Asia,IND,India,56032.981,1585.933,479.717,65.737
+57,Asia,IDN,Indonesia,27730.989,607.567,146.689,11.63
+58,Asia,IRN,Iran,6798.339,9.129,43.627,0.416
+59,Asia,IRQ,Iraq,3041.155,57.647,28.483,1.632
+60,Asia,JOR,Jordan,792.658,2.763,8.037,0.119
+61,Asia,KAZ,Kazakhstan,1731.812,0,8.223,0
+62,Asia,KGZ,Kyrgyzstan,367.713,0.245,2.312,0.01
+63,Asia,LAO,Laos,185.975,0,0.448,0
+64,Asia,LBN,Lebanon,466.805,2.288,2.578,0.094
+65,Asia,MYS,Malaysia,3582.982,0.665,16.911,0.03
+66,Asia,MDV,Maldives,7.947,0.64,0.21,0.066
+67,Asia,MNG,Mongolia,166.111,0.357,1.406,0.005
+68,Asia,MMR,Myanmar,1988.58,14.684,17.258,0.572
+69,Asia,NPL,Nepal,472.167,32.416,4.955,1.363
+70,Asia,PRK,North Korea,1259.424,0.653,11.692,0.031
+71,Asia,PAK,Pakistan,8314.013,540.792,95.763,23.895
+72,Asia,PSE,Palestina,711.849,3.41,4.967,0.079
+73,Asia,PHL,Philippines,5475.93,368.283,44.384,12.472
+74,Asia,LKA,Sri Lanka,1967.142,5.991,6.981,0.184
+75,Asia,SYR,Syria,1253.127,18.735,11.56,0.725
+76,Asia,TJK,Tajikistan,461.335,0.216,2.656,0.007
+77,Asia,THA,Thailand,4465.267,11.18,24.775,0.345
+78,Asia,TLS,Timor-Leste,42.725,1.86,0.378,0.036
+79,Asia,TKM,Turkmenistan,378.459,0,1.976,0
+80,Asia,UZB,Uzbekistan,2937.796,0.412,12.282,0.028
+81,Asia,VNM,Vietnam,7655.171,227.86,38.804,7.635
+82,Asia,YEM,Yemen,538.828,13.302,8.138,0.828
+83,Latin America and the Caribbean,ARG,Argentina,5135.191,522.077,28.393,3.105
+84,Latin America and the Caribbean,BLZ,Belize,16.907,5.956,0.074,0.036
+85,Latin America and the Caribbean,BOL,Bolivia,943.765,209.409,6.537,1.691
+86,Latin America and the Caribbean,BRA,Brazil,20372.207,1055.316,117.923,16.064
+87,Latin America and the Caribbean,COL,Colombia,2652.633,199.918,31.596,4.306
+88,Latin America and the Caribbean,CRI,Costa Rica,503.807,4.221,2.46,0.043
+89,Latin America and the Caribbean,CUB,Cuba,990.209,163.839,5.02,1.758
+90,Latin America and the Caribbean,DOM,Dominican Republic,998.662,156.586,7.142,1.842
+91,Latin America and the Caribbean,ECU,Ecuador,1256.548,130.559,9.479,1.559
+92,Latin America and the Caribbean,SLV,El Salvador,501.004,63.379,2.72,0.621
+93,Latin America and the Caribbean,GTM,Guatemala,932.538,176.211,5.433,1.755
+94,Latin America and the Caribbean,HTI,Haiti,529.177,285.754,3.887,2.681
+95,Latin America and the Caribbean,HND,Honduras,553.766,112.906,4.086,1.32
+96,Latin America and the Caribbean,JAM,Jamaica,321.251,30.21,1.225,0.167
+97,Latin America and the Caribbean,MEX,Mexico,12412.932,1513.243,68.978,12.233
+98,Latin America and the Caribbean,NIC,Nicaragua,388.62,89.944,2.584,0.818
+99,Latin America and the Caribbean,PAN,Panama,453.096,9.763,2.315,0.166
+100,Latin America and the Caribbean,PRY,Paraguay,679.112,162.525,2.26,0.516
+101,Latin America and the Caribbean,PER,Peru,1848.575,388.524,17.666,3.969
+102,Latin America and the Caribbean,SUR,Suriname,85.436,0.844,0.237,0.008
+103,Latin America and the Caribbean,VEN,Venezuela,3256.383,289.267,18.355,2.835
