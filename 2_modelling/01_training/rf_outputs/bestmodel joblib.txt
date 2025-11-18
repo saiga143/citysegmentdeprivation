@@ -1,1 +1,1 @@
-the best model joblib file is provided in this zenodo repo (due to size limitations):
+the best model joblib file is provided in this zenodo repo (due to size limitations): https://doi.org/10.5281/zenodo.17637298
