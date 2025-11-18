@@ -1,4 +1,4 @@
-# City Segment Deprivation (CSD) Mapping — Analysis Workflow
+# City Segment Deprivation (CSD) Model — Analysis Workflow
 
 This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the city segment deprivation (CSD) study.  
 The workflow includes:
