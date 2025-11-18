@@ -26,14 +26,14 @@ Prepares standardized city-segment data and benchmark-labelled training files.
 ### **2. `2_modelling/`**
 
 #### **2.1 `01_training/`**
-Random Forest training and VSURF variable selection.
+VSURF variable selection and Random Forest training.
 
-- `run_VSURF.R` — VSURF variable importance  
+- `run_VSURF.R` — VSURF variable selection 
 - `train_rf_model.py` — full RF training script  
 - `rf_outputs/` — trained model artifacts  
 
 #### **2.2 `02_application/`**
-Application of the RF model to 100M+ global city blocks.
+Application of the RF model to 5000+ cities.
 
 - `01_analyse_rf_outputs.ipynb`  
 - `02_apply_rf_predictions.ipynb`  
@@ -95,12 +95,12 @@ Notebooks used to generate all manuscript figures and global summary tables.
 
 ## 📦 Notes on Large Files
 
-Large datasets **not included** in the repo due to size:
+Large datasets **not included** in the repo due to size and permission restrictions:
 
 - SSI raster tiles  
 - WRI LULC rasters (`PerCountry_Files`)  
-- Global RF predictions (100M+ blocks)  
-- City grid shapefiles, 2.5D building rasters, etc.
+- Global RF predictions (5000+ cities)  
+- IDEABench, MN data (but redictred to the original source)
 
 Each notebook includes a **"Paths to edit"** section for pointing to local folders.
 
@@ -123,4 +123,10 @@ A Zenodo DOI and citation will be added once the associated manuscript is accept
 
 ---
 
+## 🙏 Acknowledgements
+This work is supported by:
+* FORMAS (Swedish Research Council for Sustainable Development), project DEPRIMAP (2023-01210) (https://sola.kau.se/deprimap/)
+* The computation (model training) was partly enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725
+* Thanks to CIESEN (for City Segments v1) and IDEAtlas (for IDEABench) datasets
 
+<img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/a180a6e3-1b60-429d-b0b8-c14a45e4e190" />
