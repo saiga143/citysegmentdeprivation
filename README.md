@@ -1,6 +1,6 @@
-# Global Urban Deprivation Mapping — Analysis Workflow
+# City Segment Deprivation (CSD) Mapping — Analysis Workflow
 
-This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the global urban deprivation study.  
+This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the city segment deprivation (CSD) study.  
 The workflow includes:
 
 - creation of labelled training data  
