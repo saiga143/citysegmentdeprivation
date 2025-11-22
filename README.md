@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17642978.svg)](https://doi.org/10.5281/zenodo.17642978)
 
-# City Segment Deprivation (CSD) Model — Analysis Workflow
+# City Segment Morphological Deprivation (CSMD) Model — Analysis Workflow
 
-This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the city segment deprivation (CSD) study.  
+This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the city segment morphological deprivation (CSMD) study.  
 The workflow includes:
 
 - creation of labelled training data  
