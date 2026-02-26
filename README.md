@@ -11,6 +11,9 @@ The workflow includes:
 
 **Large datasets are *not* included** (e.g., rasters, country folders, city-level shapefiles), but all scripts required for reproduction are provided.
 
+![Figure1_Overview_CSMD](https://github.com/user-attachments/assets/bf8eaca2-dc30-4c30-b48c-c3b6b8799b10)
+
+
 ---
 
 ## 📁 Repository Structure
