@@ -1,0 +1,28 @@
+{
+  "predictors_used": [
+    "i5_par_area",
+    "i1_pop_area",
+    "i6_paru_area",
+    "B_AVG_SEG",
+    "i9_roads_par",
+    "PARU_A_SEG",
+    "B_CV_SEG",
+    "REGION_CODE"
+  ],
+  "exclude_region": false,
+  "threshold_saved_labels": 0.4,
+  "best_params": {
+    "bootstrap": true,
+    "class_weight": "balanced_subsample",
+    "max_depth": 22,
+    "max_features": "sqrt",
+    "min_samples_leaf": 8,
+    "min_samples_split": 6,
+    "n_estimators": 1350
+  },
+  "best_n_estimators_cv": 1350,
+  "best_n_estimators_refit": 1350,
+  "n_rows": 65202,
+  "pos_rate": 0.1315450446305328,
+  "random_state": 42
+}
