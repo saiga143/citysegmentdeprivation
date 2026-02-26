@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17642978.svg)](https://doi.org/10.5281/zenodo.17642978)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18788260.svg)](https://doi.org/10.5281/zenodo.18788260)
 # City Segment Morphological Deprivation (CSMD) Model — Analysis Workflow
 
 This repository contains the **full processing, modelling, and comparative analysis pipeline** used to produce all results, figures, and tables for the city segment morphological deprivation (CSMD) study.  
