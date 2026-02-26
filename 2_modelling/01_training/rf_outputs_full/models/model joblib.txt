@@ -1,0 +1,1 @@
+Access the model joblib from the Zenodo repository at this link: https://zenodo.org/records/18788260
