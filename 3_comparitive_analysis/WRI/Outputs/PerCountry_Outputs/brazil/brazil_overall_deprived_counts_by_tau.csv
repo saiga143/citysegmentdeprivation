@@ -1,4 +1,0 @@
-country,τ (threshold),n_blocks,rf_deprived_n,rf_non_deprived_n,WRI(p)_deprived_n,WRI(m)_deprived_n
-brazil,0.1,27011,2972,24039,987,1226
-brazil,0.2,27011,2972,24039,623,234
-brazil,0.3,27011,2972,24039,441,44
