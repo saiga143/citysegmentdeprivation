@@ -1,0 +1,9 @@
+heldout_city,best_n_estimators_cv,best_n_estimators_refit,bootstrap,class_weight,max_depth,max_features,min_samples_leaf,min_samples_split,n_estimators
+Argentina,1350,1350,True,balanced_subsample,22,sqrt,8,6,1350
+Brazil,1350,1350,True,balanced_subsample,22,sqrt,8,6,1350
+Colombia,1350,1350,True,balanced_subsample,22,sqrt,8,6,1350
+India,1350,1350,True,balanced_subsample,18,sqrt,10,4,1350
+Indonesia,1350,1350,True,balanced_subsample,22,sqrt,8,6,1350
+Kenya,1350,1350,True,balanced_subsample,22,sqrt,8,6,1350
+Mexico,1350,1350,True,balanced_subsample,22,sqrt,8,6,1350
+Nigeria,1350,1350,True,balanced,16,sqrt,9,8,1350
