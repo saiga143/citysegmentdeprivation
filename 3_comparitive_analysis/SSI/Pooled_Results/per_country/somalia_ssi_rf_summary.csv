@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+somalia,SSI (any-pixel),0.1,0.83,0.8,0.81,0.54,6524
+somalia,SSI (any-pixel),0.2,0.83,0.79,0.81,0.55,6524
+somalia,SSI (any-pixel),0.3,0.84,0.79,0.81,0.57,6524
+somalia,SSI (mean-SSI),0.1,0.83,0.8,0.81,0.54,6524
+somalia,SSI (mean-SSI),0.2,0.83,0.79,0.81,0.54,6524
+somalia,SSI (mean-SSI),0.3,0.84,0.79,0.81,0.56,6524
+somalia,SSI (SpaceDef only),0.1,0.85,0.77,0.81,0.58,6524
+somalia,SSI (SpaceDef only),0.2,0.85,0.76,0.81,0.6,6524
+somalia,SSI (SpaceDef only),0.3,0.87,0.75,0.81,0.63,6524

@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+egypt,SSI (any-pixel),0.1,0.48,0.72,0.57,0.56,55178
+egypt,SSI (any-pixel),0.2,0.51,0.71,0.6,0.6,55178
+egypt,SSI (any-pixel),0.3,0.56,0.7,0.62,0.64,55178
+egypt,SSI (mean-SSI),0.1,0.47,0.72,0.57,0.55,55178
+egypt,SSI (mean-SSI),0.2,0.5,0.72,0.59,0.59,55178
+egypt,SSI (mean-SSI),0.3,0.54,0.7,0.61,0.62,55178
+egypt,SSI (SpaceDef only),0.1,0.66,0.68,0.67,0.7,55178
+egypt,SSI (SpaceDef only),0.2,0.69,0.68,0.68,0.72,55178
+egypt,SSI (SpaceDef only),0.3,0.72,0.66,0.69,0.73,55178

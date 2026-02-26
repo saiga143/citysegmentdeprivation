@@ -1,0 +1,10 @@
+country,Rule / Comparison,τ (threshold),precision,recall,F1,balanced_acc,n (blocks)
+cote_d_ivoire,SSI (any-pixel),0.1,0.51,0.7,0.59,0.44,7954
+cote_d_ivoire,SSI (any-pixel),0.2,0.52,0.69,0.59,0.46,7954
+cote_d_ivoire,SSI (any-pixel),0.3,0.53,0.65,0.59,0.48,7954
+cote_d_ivoire,SSI (mean-SSI),0.1,0.5,0.7,0.59,0.44,7954
+cote_d_ivoire,SSI (mean-SSI),0.2,0.52,0.69,0.59,0.46,7954
+cote_d_ivoire,SSI (mean-SSI),0.3,0.53,0.66,0.59,0.48,7954
+cote_d_ivoire,SSI (SpaceDef only),0.1,0.72,0.59,0.65,0.66,7954
+cote_d_ivoire,SSI (SpaceDef only),0.2,0.75,0.58,0.66,0.68,7954
+cote_d_ivoire,SSI (SpaceDef only),0.3,0.78,0.56,0.65,0.69,7954
