@@ -1,1 +1,1 @@
-the predictions country-wise gpkg files are made available as a single zip folder in this zenodo repository: https://doi.org/10.5281/zenodo.17637298
+Access the prediction gpkg files from the Zenodo repository at this link: https://zenodo.org/records/18788260
