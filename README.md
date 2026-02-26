@@ -5,7 +5,7 @@ This repository contains the **full processing, modelling, and comparative analy
 The workflow includes:
 
 - creation of labelled training data  
-- Random Forest training & global application  
+- Random Forest training, LOCO validation & global application  
 - comparison against SSI, Million Neighborhoods (MN), and WRI datasets  
 - generation of manuscript figures and summary tables  
 
@@ -30,17 +30,16 @@ Prepares standardized city-segment data and benchmark-labelled training files.
 VSURF variable selection and Random Forest training.
 
 - `run_VSURF.R` — VSURF variable selection 
-- `train_rf_model.py` — full RF training script  
-- `rf_outputs/` — trained model artifacts  
+- `train_rf_full.py` — full final model RF training script
+- `Validation_rf_model_loco.py` — LOCO validation script  
+- `rf_outputs_full/` — full final model artifacts
+- `rf_outputs_loco/` — loco validation metrics and files 
 
 #### **2.2 `02_application/`**
 Application of the RF model to 5000+ cities.
-
-- `01_analyse_rf_outputs.ipynb`  
-- `02_apply_rf_predictions.ipynb`  
-- `03_summary_statistics.ipynb`  
-- `04_filtered_80_qc.ipynb`  
-- `analysis_outputs/`  
+  
+- `01_apply_rf_predictions.ipynb`  
+- `02_summary_statistics.ipynb`    
 - `predictions/`  
 - `summary_statistics/`  
 
@@ -52,21 +51,22 @@ Application of the RF model to 5000+ cities.
 - `01_SSI_DataRetrieval.js`  
 - `02_ssi_clip_to_cities.ipynb`  
 - `03_ssi_rf_comparison.ipynb`  
-- `04_ssi_rf_comparison_figures_tables.ipynb`  
+- `04_ssi_rf_comparison_plots.ipynb`  
 - `PerCountry_Outputs/`  
 - `Pooled_Results/`  
 
 #### **3.2 MN**
 - `01_MN_Data_and_Labels.ipynb`  
-- `02_MN_RF_comparison_Figures_tables.ipynb`  
+- `02_MN_RF_comparison.ipynb`  
 - `Outputs/`  
 
 #### **3.3 WRI**
 - `01_WRI_DataDownload.js`  
 - `02_WRI_IntersectionReports.ipynb`  
-- `03_WRI_PerCountry_Metrics.ipynb`  
+- `03_WRI_PerCountry_Metrics.ipynb`
+- `04_WRI_Tables.ipynb`    
 - `Outputs/`  
-- `Intersect_reports/`  
+- `intersect_reports/`  
 
 ---
 
@@ -79,12 +79,13 @@ Notebooks used to generate all manuscript figures and global summary tables.
 - `02_Figure3_Lollipop_Citysize.ipynb`  
 - `03_Figure4_Deprivation_by_Citysizemix.ipynb`  
 - `04_Figure5_ThreeComparison.ipynb`  
-- `05_GlobalSummaryTable.ipynb`  
+- `05_GlobalSummaryTable.ipynb`
+- `Generate_AllCities_Points.ipynb`  
 
-#### **Supporting Input Files (small & included)**
-- `AllCities_Points_new.gpkg`  
-- `Country103_list_new.csv`  
-- `country_ISOcodes_new.csv`  
+#### **Supporting Input Files**
+- `AllCities_Points.gpkg`  
+- `Country103_list.csv`  
+- `country_ISOcodes.csv`  
 - `world-administrative-boundaries-countries.shp`  
 - `world_focus_Africa_Asia_LAC.gpkg`  
 
@@ -101,7 +102,7 @@ Large datasets **not included** in the repo due to size and permission restricti
 - SSI raster tiles  
 - WRI LULC rasters (`PerCountry_Files`)  
 - Global RF predictions (5000+ cities)  
-- IDEABench, MN data (but redictred to the original source)
+- IDEABench, MN data (but redirected to the original source)
 
 Each notebook includes a **"Paths to edit"** section for pointing to local folders.
 
@@ -125,7 +126,7 @@ If you use or build upon this work, please cite the paper and link to this repos
 
 Zenodo: Veeravalli, S. G. (2026). A Global, Standardized City Segment Morphological Deprivation (CSMD) Model: Preprocessing, Training, Predictions, and Cross-Dataset Comparisons (Version v3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18788260
 
-Paper: _coming soon_
+Paper: _coming soon_ Currently under revision at Nature Cities
 
 ---
 
