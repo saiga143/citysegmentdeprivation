@@ -1,0 +1,1 @@
+Refer to 3_comparitive_analysis\WRI\02_WRI_IntersectionReports.ipynb file 
