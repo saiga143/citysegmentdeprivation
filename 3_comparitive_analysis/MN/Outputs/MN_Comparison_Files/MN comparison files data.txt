@@ -1,1 +1,1 @@
-The MN comparison files are made available in the zenodo archive: https://doi.org/10.5281/zenodo.17637298
+Access the MN Comparison Files from the Zenodo repository at this link: https://zenodo.org/records/18788260
