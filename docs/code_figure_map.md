@@ -37,10 +37,10 @@ figures, tables, or intermediate outputs it produces.
 | Code file | Outputs | Output location | Status | Notes |
 |---|---|---|---|---|
 | `3_comparitive_analysis/SSI/01_SSI_DataRetrieval.js` | SSI raster tiles (GEE export) | GEE Drive / external | not-in-repo | Google Earth Engine JavaScript API |
-| `3_comparitive_analysis/SSI/02_ssi_clip_to_cities.ipynb` | Per-city SSI raster clips | `3_comparitive_analysis/SSI/PerCountry_Outputs/` | not-in-repo | Requires GEE-exported SSI rasters |
+| `3_comparitive_analysis/SSI/02_ssi_clip_to_cities.ipynb` | Per-city SSI raster clips | `data_external/zenodo/ssi_clipped/` | not-in-repo | Requires GEE-exported SSI rasters; clipped outputs are large and excluded from GitHub |
 | `3_comparitive_analysis/SSI/03_ssi_rf_comparison.ipynb` | Per-country `*_ssi_rf_summary*.csv`, `country_processing_audit.csv` | `3_comparitive_analysis/SSI/Pooled_Results/` | tracked (summaries) | Computes SSI–RF agreement metrics per country |
 | `3_comparitive_analysis/SSI/04_ssi_rf_comparison_plots.ipynb` | `multipanel_ssi_rf_boxplots_gray_compact.pdf/png` | `3_comparitive_analysis/SSI/Pooled_Results/Figures/` | tracked | Panel used in Figure 5 |
-| `3_comparitive_analysis/MN/01_MN_Data_and_Labels.ipynb` | Per-city MN–RF comparison GPKGs and CSVs | `3_comparitive_analysis/MN/Outputs/MN_Comparison_Files/` | not-in-repo | Requires MN GeoParquet + prediction GPKGs |
+| `3_comparitive_analysis/MN/01_MN_Data_and_Labels.ipynb` | Per-city MN–RF comparison GPKGs and CSVs | `data_external/zenodo/mn_comparison_files/` | not-in-repo | Requires MN GeoParquet + prediction GPKGs; comparison outputs are large and excluded from GitHub |
 | `3_comparitive_analysis/MN/02_MN_RF_comparison.ipynb` | `multipanel_mn_rf_boxplots_gray_compact.pdf/png`, `mn_rf_summary_segments_population*.csv` | `3_comparitive_analysis/MN/Outputs/` | tracked | Panel used in Figure 5; global MN summary table |
 | `3_comparitive_analysis/WRI/01_WRI_DataDownload.js` | WRI Urban Land Use rasters (GEE export) | GEE Drive / external | not-in-repo | Google Earth Engine JavaScript API |
 | `3_comparitive_analysis/WRI/02_WRI_IntersectionReports.ipynb` | `raster_gpkg_pairs_all.csv`, `pairwise_intersection_fraction.csv`, `rasters_with_any_intersection.csv` | `3_comparitive_analysis/WRI/intersect_reports/` | tracked | Identifies which WRI rasters overlap which prediction GPKGs |

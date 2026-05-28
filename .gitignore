@@ -45,6 +45,9 @@ data/raw/
 data/interim/
 data/private/
 
+# External large data directory (gitignored as a whole; extension rules above also apply)
+data_external/
+
 # Prediction GeoPackages
 predictions/
 **/predictions/

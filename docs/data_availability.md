@@ -84,9 +84,9 @@ on Zenodo or must be obtained from their original sources.
 | `2_modelling/02_application/predictions/` | Per-country prediction GPKGs; deposited on Zenodo |
 | `GHS_POP_E2025_GLOBE_R2023A_54009_*/` | Raw GHS-POP rasters; several GB each |
 | `GHS_STAT_UCDB2015MT_GLOBE_R2019A/` | Raw UCDB data; includes large GeoPackage |
-| `3_comparitive_analysis/SSI/PerCountry_Outputs/` | Per-city clipped SSI rasters |
-| `3_comparitive_analysis/MN/Outputs/MN_Comparison_Files/` | Per-city MN–RF comparison GeoPackages |
-| `3_comparitive_analysis/WRI/Outputs/PerCountry_Outputs/` | Per-country WRI raster outputs |
+| `data_external/zenodo/ssi_clipped/` | Per-city clipped SSI rasters |
+| `data_external/zenodo/mn_comparison_files/` | Per-city MN–RF comparison GeoPackages |
+| `data_external/zenodo/wri_per_country_outputs/` | Per-country WRI raster extraction outputs |
 
 ---
 
