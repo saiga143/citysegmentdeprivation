@@ -96,6 +96,24 @@
  *
  *     3_comparative_analysis/SSI/ssi_rasters_zenodo.txt
  *
+ * LOCAL PLACEMENT CONVENTION
+ * --------------------------
+ * Once obtained (from GEE Drive or Zenodo), place raw per-country
+ * SSI rasters under the following location at the repository root:
+ *
+ *     data_external/ssi_raw/
+ *       {Country}_SSIpack100m.tif    (one file per country)
+ *
+ * This directory is excluded from version control by .gitignore.
+ * It is read by 02_ssi_clip_to_cities.ipynb via SSI_RAW_DIR.
+ * Raw rasters are NOT stored in GitHub.
+ *
+ * Clipped rasters (produced by 02_ssi_clip_to_cities.ipynb) are
+ * written to:
+ *
+ *     data_external/zenodo/ssi_clipped/{country}/
+ *       SSIpack100m_clipped_to_city_blocks_SIGNAL.tif
+ *
  *
  ************************************************************
  * REPRODUCIBILITY NOTES
