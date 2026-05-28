@@ -14,23 +14,58 @@ Final outputs from these notebooks are committed to the repository under:
 - `outputs/tables/revision2/` — final coverage and omission CSVs
 - `outputs/tables/revision2/intermediate/` — intermediate city-level joins
 
+## External Data Directory Convention
+
+Large input files that cannot be committed to GitHub are placed under `data_external/`
+at the repository root. This directory is excluded from version control (listed in
+`.gitignore`) — you must create it and populate it manually before running the
+notebooks.
+
+Expected layout:
+
+```
+citysegmentdeprivation/
+└── data_external/
+    ├── ucdb/
+    │   └── GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2.gpkg
+    ├── ghspop/
+    │   └── GHS_POP_E2025_GLOBE_R2023A_54009_100_V1_0.tif
+    └── zenodo/
+        ├── GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2_with_GHSPOP2023.gpkg
+        └── predictions/
+            ├── afghanistan_rf_preds.gpkg
+            ├── angola_rf_preds.gpkg
+            └── ...  (one GPKG per country)
+```
+
+Outputs intended for GitHub are written to tracked folders:
+- `outputs/tables/revision2/` — final CSVs
+- `outputs/tables/revision2/intermediate/` — intermediate joins
+- `outputs/figures/revision2/` — final figures (PDF + PNG)
+
+These output directories are created automatically by the path-configuration
+cell at the top of each notebook.
+
+---
+
 ## Required External Inputs
 
 The following inputs are needed to re-run these notebooks end-to-end. Large
 GHSL/UCDB raster and vector files are not stored in GitHub; obtain them from
 their official sources before running.
 
-| Input | Source | Used by |
-|---|---|---|
-| GHS Urban Centre Database 2019 V1.2 polygons (`GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2.gpkg`) | JRC/GHSL official download | `01`, `02`, `03`, `04` |
-| GHS-POP R2023A 2025 epoch raster, 100 m (`GHS_POP_E2025_GLOBE_R2023A_54009_100_V1_0.tif`) | JRC/GHSL official download | `01` |
-| Derived UCDB + population GeoPackage (`GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2_with_GHSPOP2023.gpkg`) | Output of `01`; also on Zenodo | `02`, `03`, `04` |
-| CSMD RF prediction GeoPackages (`*_rf_preds.gpkg`, one per country) | Zenodo (DOI: 10.5281/zenodo.18788260) | `02`, `04` |
-| CSMD city-level summary table (`city_deprivation_80pct.csv`) | `2_modelling/02_application/summary_statistics/` (tracked in repo) | `02`, `04` |
+| Input | Local path under `data_external/` | Source | Used by |
+|---|---|---|---|
+| GHS Urban Centre Database 2019 V1.2 polygons (`GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2.gpkg`) | `ucdb/` | JRC/GHSL official download | `01`, `02`, `03`, `04` |
+| GHS-POP R2023A 2025 epoch raster, 100 m (`GHS_POP_E2025_GLOBE_R2023A_54009_100_V1_0.tif`) | `ghspop/` | JRC/GHSL official download | `01` |
+| Derived UCDB + population GeoPackage (`GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2_with_GHSPOP2023.gpkg`) | `zenodo/` | Output of `01`; also on Zenodo | `02`, `03`, `04` |
+| CSMD RF prediction GeoPackages (`*_rf_preds.gpkg`, one per country) | `zenodo/predictions/` | Zenodo (DOI: 10.5281/zenodo.18788260) | `02`, `04` |
+| CSMD city-level summary table (`city_deprivation_80pct.csv`) | tracked in repo at `2_modelling/02_application/summary_statistics/` | — | `04` |
 
 > **Important:** The derived file
 > `GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2_with_GHSPOP2023.gpkg` should be stored
-> on Zenodo, not in GitHub. It is excluded by `.gitignore`.
+> on Zenodo, not in GitHub. It is too large for GitHub and is excluded by
+> `.gitignore`. Place it under `data_external/zenodo/` for local re-runs.
 
 See `docs/data_sources/ucdb.md` and `docs/data_sources/ghspop.md` for dataset
 citations and download guidance.
@@ -108,7 +143,5 @@ analysis folder. They should be fixed before final Zenodo deposit.
 
 | Issue | Notebooks affected |
 |---|---|
-| Hard-coded local Windows paths (e.g. `D:/VSG/...` or `C:/Users/...`) from the original analysis machine | All (`01`–`04`, `99`) |
-| References to a `predictions/` subfolder that is not committed to GitHub and must be sourced from Zenodo | `02`, `04` |
 | Missing output figure `reg2_population_omission_3panel.pdf/png` — this file is referenced in notebook code but was not present in the source folder; needs to be regenerated or excluded from final documentation | `02` |
 | The accepted/revised manuscript should be checked to confirm whether `population_totals_citysize_region_QC80` is the revised Figure 4 or an extended/supplementary figure | `04` |
