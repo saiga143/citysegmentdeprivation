@@ -1,0 +1,52 @@
+# Conda environment for the CSMD (City Segment Morphological Deprivation) pipeline.
+#
+# Usage:
+#   conda env create -f environment/environment.yml
+#   conda activate csmd
+#
+# Note: package versions are intentionally left unpinned here.
+# Pin exact versions after reproducing the full pipeline on a clean machine
+# (e.g. by running `conda env export --no-builds > environment_locked.yml`).
+#
+# Geospatial packages (geopandas, rasterio, fiona, shapely, pyproj) are best
+# installed via conda-forge to avoid GDAL/GEOS binary conflicts.
+
+name: csmd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+
+  # Core data
+  - pandas
+  - numpy
+  - scipy
+
+  # Geospatial
+  - geopandas
+  - shapely
+  - rasterio
+  - fiona
+  - pyproj
+
+  # Machine learning
+  - scikit-learn
+  - joblib
+
+  # Visualisation
+  - matplotlib
+  - seaborn
+
+  # Data I/O and utilities
+  - duckdb
+  - tqdm
+  - openpyxl
+  - pyarrow
+
+  # Jupyter
+  - jupyter
+  - ipykernel
+
+  # pip fallback (for any packages unavailable on conda-forge)
+  - pip

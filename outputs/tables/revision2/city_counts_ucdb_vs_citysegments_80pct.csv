@@ -1,0 +1,19 @@
+Region,CitySizeClass,UCDB_Cities,CS_Cities,Omitted_Cities
+Africa,Small,2644,1332,1312
+Africa,Medium,78,77,1
+Africa,Large,69,69,0
+Africa,Very large,10,10,0
+Africa,Megacity,4,4,0
+Asia,Small,7145,2382,4763
+Asia,Medium,311,147,164
+Asia,Large,230,132,98
+Asia,Very large,29,15,14
+Asia,Megacity,22,13,9
+Latin America and the Caribbean,Small,955,835,120
+Latin America and the Caribbean,Medium,62,59,3
+Latin America and the Caribbean,Large,52,51,1
+Latin America and the Caribbean,Very large,1,0,1
+Latin America and the Caribbean,Megacity,6,6,0
+Africa,TOTAL (all sizes),2805,1492,1313
+Asia,TOTAL (all sizes),7737,2689,5048
+Latin America and the Caribbean,TOTAL (all sizes),1076,951,125

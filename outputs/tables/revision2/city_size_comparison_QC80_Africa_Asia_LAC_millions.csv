@@ -1,0 +1,6 @@
+CitySizeClass,UCDB_Cities,UCDB_Total_Pop_Millions,CitySegments_Cities,CitySegments_Total_Pop_Millions,CitySegments_Deprived_Pop_Millions,City_Coverage_%,Population_Coverage_%,Deprivation_Rate_%
+Small,10744,1113.72,4510,642.01,102.33,41.98,57.65,15.94
+Medium,451,312.12,283,196.9,33.9,62.75,63.09,17.22
+Large,351,727.91,252,521.36,111.9,71.79,71.62,21.46
+Very large,40,276.64,25,170.84,49.5,62.5,61.75,28.98
+Megacity,32,626.89,23,427.48,97.31,71.88,68.19,22.76

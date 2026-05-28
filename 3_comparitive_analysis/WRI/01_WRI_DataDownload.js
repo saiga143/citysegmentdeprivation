@@ -62,6 +62,27 @@
  *   - This script does not subset bands; it exports all 10 bands.
  *   - You will need to organize downloaded GeoTIFFs locally
  *     (e.g., group by region, year) before downstream processing.
+ *
+ ************************************************************
+ * LOCAL PLACEMENT CONVENTION
+ * --------------------------
+ * Once downloaded from Google Drive, place WRI GeoTIFFs under
+ * the following location at the repository root:
+ *
+ *     data_external/wri_raw/
+ *       {country}/
+ *         {region}_y{year}_{index}.tif    (one file per image)
+ *
+ * This directory is excluded from version control by .gitignore.
+ * It is read by 02_WRI_IntersectionReports.ipynb via WRI_RAW_DIR,
+ * and by 03_WRI_PerCountry_Metrics.ipynb via WRI_ROOT.
+ * Raw rasters are NOT stored in GitHub.
+ *
+ * Note: the per-country folder structure (e.g. data_external/wri_raw/angola/)
+ * is set up manually after running 02_WRI_IntersectionReports.ipynb,
+ * using the intersection CSVs to identify which rasters are needed
+ * for each country.
+ ************************************************************
  ***************************************************************/
 
 
