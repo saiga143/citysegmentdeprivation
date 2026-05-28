@@ -1,0 +1,35 @@
+# Pip fallback requirements for the CSMD pipeline.
+#
+# NOTE: conda is strongly recommended for geospatial dependencies.
+# GDAL, GEOS, and PROJ are compiled C/C++ libraries that pip alone
+# cannot reliably install on all platforms.
+#
+# Preferred setup:
+#   conda env create -f environment/environment.yml
+#   conda activate csmd
+#
+# Use this file only if conda is unavailable, and ensure GDAL/GEOS/PROJ
+# are already installed at the system level before running:
+#   pip install -r environment/requirements.txt
+#
+# Package versions are intentionally left unpinned.
+# Pin after reproducing the full pipeline on a clean machine.
+
+pandas
+numpy
+scipy
+geopandas
+shapely
+rasterio
+fiona
+pyproj
+scikit-learn
+joblib
+matplotlib
+seaborn
+duckdb
+tqdm
+openpyxl
+pyarrow
+jupyter
+ipykernel
