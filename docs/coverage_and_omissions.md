@@ -19,9 +19,10 @@ pixel values that fall within each polygon. The resulting column is named
 ## Relationship to manuscript figures and tables
 
 - The coverage figure (`outputs/figures/revision2/population_totals_citysize_region_QC80.*`)
-  supports the revised Figure 4 / coverage-omission figure in the manuscript.
+  is produced by `notebooks/revision2_coverage/04_globalsouthcomparison.ipynb` and represents
+  the revised Figure 4 / coverage-omission figure in the accepted manuscript.
 - `outputs/tables/revision2/country_level_omission_table.csv` is the source for
-  Extended Data Table 2.
+  Extended Data Table 2; it is produced by `notebooks/revision2_coverage/03_revision2_extendedtable2.ipynb`.
 - The remaining CSVs in `outputs/tables/revision2/` provide regional and city-size
   breakdowns reported in the manuscript text.
 
@@ -63,5 +64,13 @@ file size. It will be deposited on Zenodo alongside the code and final outputs.
 
 ## Notebook execution order
 
-The exact notebook execution order and path corrections will be documented in a
-subsequent step once all paths have been made relative.
+The source notebooks are integrated in `notebooks/revision2_coverage/` with portable
+path configuration. Run them in numerical order:
+
+1. `01_GHSPOP2023toUCDB2019.ipynb` — assign GHS-POP 2025 population to UCDB 2019 polygons
+2. `02_revision2_omittedstatistics.ipynb` — derive UCDB-matched city summaries and regional × city-size omission statistics
+3. `03_revision2_extendedtable2.ipynb` — produce Extended Data Table 2 (135-country omission table)
+4. `04_globalsouthcomparison.ipynb` — produce revised Figure 4 and companion coverage CSVs
+
+See `notebooks/revision2_coverage/README.md` for full setup instructions, including
+the `data_external/` directory layout required for large external inputs.
