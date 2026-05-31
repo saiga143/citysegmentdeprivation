@@ -38,7 +38,7 @@ project Zenodo record (DOI: 10.5281/zenodo.18788260).
 
 | File | Description |
 |---|---|
-| `rf_full_model.joblib` (or similar) | Trained final Random Forest model binary |
+| `rf_final_model_full.joblib` (or similar) | Trained final Random Forest model binary |
 | `*_rf_preds.gpkg` (per country) | Per-country prediction GeoPackages with `rf_prob`, `rf_label`, and `POP_SEG` |
 | `GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2_with_GHSPOP2023.gpkg` | Derived UCDB 2019 polygon file with GHS-POP 2025 population estimates (`GHSPOP2023` column) |
 
