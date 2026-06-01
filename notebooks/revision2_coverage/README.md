@@ -134,14 +134,3 @@ class and region) and the companion summary CSVs.
 Exploratory notebook used to inspect UCDB–City Segments spatial overlap during
 analysis development. **Not required** for final reproduction of manuscript outputs.
 
----
-
-## Known Issues — To Resolve in Later Cleanup
-
-The following issues were present in the notebooks as copied from the original
-analysis folder. They should be fixed before final Zenodo deposit.
-
-| Issue | Notebooks affected |
-|---|---|
-| Missing output figure `reg2_population_omission_3panel.pdf/png` — this file is referenced in notebook code but was not present in the source folder; needs to be regenerated or excluded from final documentation | `02` |
-| The accepted/revised manuscript should be checked to confirm whether `population_totals_citysize_region_QC80` is the revised Figure 4 or an extended/supplementary figure | `04` |
