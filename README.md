@@ -161,7 +161,7 @@ If you use or build upon this work, please cite the Zenodo deposit and, once pub
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20486977.svg)](https://doi.org/10.5281/zenodo.20486977)
 
-**Data deposit:** Veeravalli, S. G. (2026). *A Global, Standardized City Segment Morphological Deprivation (CSMD) Model: Preprocessing, Training, Predictions, and Cross-Dataset Comparisons* (Version v3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20486977
+**Data deposit:** Veeravalli, S. G. (2026). *A Global, Standardized City Segment Morphological Deprivation (CSMD) Model: Preprocessing, Training, Predictions, and Cross-Dataset Comparisons* (Version v4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20486977
 
 **Paper:** _Citation will be added after publication._ Currently accepted in principle at *Nature Cities*.
 
