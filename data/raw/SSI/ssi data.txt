@@ -1,1 +1,1 @@
-Access the SSI data files from the Zenodo repository at this link: https://zenodo.org/records/18788260
+Access the SSI data files from the Zenodo repository at this link: https://doi.org/10.5281/zenodo.20486977
