@@ -187,17 +187,22 @@ committed to GitHub and are not on the project Zenodo record.
 **Purpose:** Primary input to preprocessing and the full RF prediction pipeline.
 Each city's segments provide the morphological indices (i1–i10) used as RF
 predictors.
-**Provider:** Harvard Dataverse — DOI: 10.7910/DVN/XLRSF0
+**Provider:** Harvard Dataverse
+**Access:** https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLRSF0
+**DOI:** 10.7910/DVN/XLRSF0
 **Expected local placement:** `data_external/city_segments/`
 Raw files are large and excluded from GitHub.
 
 ---
 
-### IDEABench v2
+### IDEABench
 
 **Purpose:** Ground-truth DUA (Deprived Urban Area) GeoPackages for the eight
 training cities used to create labeled data for RF training.
-**Provider:** DANS DataStation — DOI: 10.17026/PT/X4NJII (registration-gated)
+**Provider:** DANS DataStation (access conditions apply)
+**Access:** https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII
+**Dataset DOI:** 10.17026/PT/X4NJII
+**Paper DOI:** 10.1016/j.rse.2026.115272
 **Expected local placement:** `data_external/ideabench/`
 Raw DUA GeoPackages must not be committed to GitHub (restricted dataset). The
 derived labeled CSVs (`1_preprocessing/LabelledData_For_RF/`) are tracked.
@@ -225,13 +230,18 @@ Raw raster tiles are very large and excluded from GitHub.
 
 ---
 
-### SSI source data (Li et al. 2025)
+### Slum Severity Index (SSI) source data
 
-**Purpose:** Slum Severity Index rasters exported from Google Earth Engine,
-used in the SSI comparative analysis.
+**Purpose:** Slum Severity Index rasters used in the SSI comparative analysis.
+Raw SSI rasters must be downloaded from the SSI Zenodo record and exported
+via Google Earth Engine using the script `3_comparitive_analysis/SSI/01_SSI_DataRetrieval.js`.
+The project Zenodo package (DOI: 10.5281/zenodo.20486977) contains only the
+derived per-country clipped SSI rasters (`data_external/zenodo/ssi_clipped/`),
+not the raw SSI source data.
 **Provider:** Li, C., Yu, L., Ndugwa, R. et al. (Nature Cities 2025,
-DOI: 10.1038/s44284-025-00276-0). GEE assets and export script:
-`3_comparitive_analysis/SSI/01_SSI_DataRetrieval.js`
+DOI: 10.1038/s44284-025-00276-0)
+**Raw data access:** https://zenodo.org/records/14998570
+**Raw data DOI:** 10.5281/zenodo.14998570
 **Expected local placement:** `data_external/ssi_raw/`
 (one `{Country}_SSIpack100m.tif` per country)
 Raw rasters are large and excluded from GitHub.
@@ -249,13 +259,15 @@ Raw file is large and excluded from GitHub.
 
 ---
 
-### WRI Urban Land Use V1 rasters
+### WRI Urban Land Use dataset rasters
 
 **Purpose:** Urban land-use class rasters (5 m resolution) used in the WRI
-comparative analysis.
+comparative analysis. Informal subdivision and atomistic classes (`p_informal`)
+are used for the WRI comparison.
 **Provider:** WRI/Guzder-Williams et al. (CEUS 2023, DOI:
-10.1016/j.compenvurbsys.2022.101917). Export via Google Earth Engine:
-`3_comparitive_analysis/WRI/01_WRI_DataDownload.js`
+10.1016/j.compenvurbsys.2022.101917)
+**Access:** Google Earth Engine asset — https://code.earthengine.google.com/?asset=projects/wri-datalab/urban_land_use/V1
+**Export script:** `3_comparitive_analysis/WRI/01_WRI_DataDownload.js`
 **Expected local placement:** `data_external/wri_raw/{country}/*.tif`
 Raw rasters are large and excluded from GitHub.
 
@@ -269,7 +281,7 @@ After downloading from Zenodo and the external providers listed above, the
 ```
 data_external/
 ├── city_segments/          # City Segments v1 (Harvard Dataverse)
-├── ideabench/              # IDEABench v2 DUA GPKGs (DANS, restricted)
+├── ideabench/              # IDEABench DUA GPKGs (DANS DataStation, access conditions apply)
 ├── ucdb/                   # GHS UCDB 2019 raw (JRC/GHSL)
 ├── ghspop/                 # GHS-POP R2023A raw rasters (JRC/GHSL)
 ├── ssi_raw/                # SSI GEE exports (Li et al. 2025)

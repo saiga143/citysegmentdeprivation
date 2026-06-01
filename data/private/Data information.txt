@@ -1,3 +1,9 @@
-Access IDEABench dataset through this link: https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII
+Access IDEABench dataset through this link:
+https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII
+Dataset DOI: 10.17026/PT/X4NJII
+
+Access conditions apply. Place the per-city DUA GeoPackages under data_external/ideabench/
+Do not commit raw IDEABench files to GitHub or include them in the project Zenodo package.
 
 Paper: Tareke, B., Silva Filho, P., Persello, C., Kuffer, M., Maretto, R. V., Wang, J., ... & Ospina, J. P. (2026). User and data-centric artificial intelligence for mapping and benchmarking urban deprivation for a global sample of cities. Remote Sensing of Environment, 335, 115272.
+Paper DOI: 10.1016/j.rse.2026.115272

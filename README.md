@@ -113,15 +113,24 @@ See [`docs/predictor_definitions.md`](docs/predictor_definitions.md) and [`docs/
 |---|---|
 | Final CSVs, selected outputs, scripts, notebooks, documentation | This GitHub repository |
 | RF model (`.joblib`), prediction GeoPackages, derived UCDB+GHS-POP GPKG, large comparison outputs | [Zenodo DOI: 10.5281/zenodo.20486977](https://doi.org/10.5281/zenodo.20486977) |
-| City Segments v1 | CIESIN (original provider) |
-| IDEABench v2 | IDEAtlas (original provider) |
 | GHS Urban Centre Database (UCDB) 2019 V1.2 | JRC / GHSL official download |
 | GHS-POP R2023A 2025 epoch, 100 m | JRC / GHSL official download |
-| SSI, Million Neighborhoods, WRI Urban Land Use | Original providers |
 
 Raw rasters, per-country prediction GeoPackages, model binaries, and other large files are excluded from the repository by `.gitignore`.
 
-See [`docs/data_availability.md`](docs/data_availability.md) for full dataset citations and download links.
+### Third-party input datasets
+
+The five external input datasets below must be obtained from their original providers. They are **not** included in this repository or the project Zenodo package.
+
+| Dataset | Purpose | Access | Local path |
+|---|---|---|---|
+| **City Segments v1** | Segment polygons and built-environment predictors for preprocessing, model application, and figures | [Harvard Dataverse — DOI: 10.7910/DVN/XLRSF0](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLRSF0) | `data_external/city_segments/` |
+| **IDEABench** | Reference deprived/non-deprived labels for the eight benchmark training cities | [DANS DataStation — DOI: 10.17026/PT/X4NJII](https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII) (access conditions apply) | `data_external/ideabench/` |
+| **Slum Severity Index (SSI)** | External comparison product for service-related deprivation in sub-Saharan Africa | [Zenodo — DOI: 10.5281/zenodo.14998570](https://zenodo.org/records/14998570) | `data_external/ssi_raw/` |
+| **Million Neighborhoods (MN)** | External comparison product for building-to-street access complexity in sub-Saharan Africa | [millionneighborhoods.africa/download](https://www.millionneighborhoods.africa/download) | `data_external/mn_raw/` |
+| **WRI Urban Land Use dataset** | External comparison product for intra-urban land-use classes; informal subdivision and atomistic classes used for WRI comparison | [GEE asset: projects/wri-datalab/urban_land_use/V1](https://code.earthengine.google.com/?asset=projects/wri-datalab/urban_land_use/V1) | `data_external/wri_raw/` |
+
+See [`docs/data_availability.md`](docs/data_availability.md) for full dataset citations, download links, and local path conventions.
 
 ---
 
@@ -164,6 +173,6 @@ This work is supported by:
 
 - **FORMAS** (Swedish Research Council for Sustainable Development), project DEPRIMAP (2023-01210) — <https://sola.kau.se/deprimap/>
 - **NAISS** (National Academic Infrastructure for Supercomputing in Sweden), partially funded by the Swedish Research Council through grant agreement no. 2022-06725 — computation for model training
-- **CIESIN** for City Segments v1 and **IDEAtlas** for IDEABench v2
+- **CIESIN** for City Segments v1 (Harvard Dataverse, DOI: 10.7910/DVN/XLRSF0) and **IDEAtlas** for IDEABench (DOI: 10.17026/PT/X4NJII; paper DOI: 10.1016/j.rse.2026.115272)
 
 <img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/a180a6e3-1b60-429d-b0b8-c14a45e4e190" />

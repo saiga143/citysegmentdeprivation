@@ -1,1 +1,15 @@
-Access the SSI data files from the Zenodo repository at this link: https://doi.org/10.5281/zenodo.20486977
+Download the raw SSI source data from the SSI Zenodo record:
+https://zenodo.org/records/14998570
+DOI: 10.5281/zenodo.14998570
+
+Reference: Li, C., Yu, L., Ndugwa, R. et al. (Nature Cities 2025, DOI: 10.1038/s44284-025-00276-0)
+
+After downloading, use the GEE export script at:
+3_comparitive_analysis/SSI/01_SSI_DataRetrieval.js
+
+Place the exported per-country rasters under data_external/ssi_raw/
+(one {Country}_SSIpack100m.tif per country)
+
+Note: The project Zenodo package (DOI: 10.5281/zenodo.20486977) contains derived
+per-country clipped SSI rasters (data_external/zenodo/ssi_clipped/), not the
+raw SSI source data.

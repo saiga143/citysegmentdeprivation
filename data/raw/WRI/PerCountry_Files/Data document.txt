@@ -1,1 +1,10 @@
-Refer to 3_comparitive_analysis\WRI\02_WRI_IntersectionReports.ipynb file 
+WRI Urban Land Use dataset rasters are accessed via Google Earth Engine.
+
+GEE asset: https://code.earthengine.google.com/?asset=projects/wri-datalab/urban_land_use/V1
+
+Use the export script at:
+3_comparitive_analysis/WRI/01_WRI_DataDownload.js
+
+Place the exported per-country GeoTIFFs under data_external/wri_raw/{country}/*.tif
+
+Reference: WRI/Guzder-Williams et al. (CEUS 2023, DOI: 10.1016/j.compenvurbsys.2022.101917)
