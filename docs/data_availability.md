@@ -53,12 +53,12 @@ stored in this repository. Download them before running the relevant pipeline st
 
 | Dataset | Source | Used in | License |
 |---|---|---|---|
-| **City Segments v1** | Harvard Dataverse — DOI: 10.7910/DVN/XLRSF0 | `1_preprocessing/01_preprocess_city_segments.ipynb` | See Dataverse record |
+| **City Segments v1** | Harvard Dataverse — [DOI: 10.7910/DVN/XLRSF0](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLRSF0) | `1_preprocessing/01_preprocess_city_segments.ipynb` | See Dataverse record |
 | **GHS Urban Centre Database (UCDB) 2019 V1.2** | JRC/GHSL — GHS_STAT_UCDB2015MT_GLOBE_R2019A | `GHSUCDB_Analysis/` notebooks; revision2 coverage analysis | EC Reuse and Copyright (Florczyk et al. 2019) |
 | **GHS-POP R2023A (2025 epoch)** | JRC/GHSL — 100 m and 1 km resolutions | `GHSUCDB_Analysis/GHSPOP2023toUCDB2019.ipynb` | EC Reuse and Copyright |
-| **Slum Severity Index (SSI)** | Li et al. (Nature Cities 2025); exported via GEE | `3_comparitive_analysis/SSI/` | See original publication |
-| **Million Neighborhoods (MN)** | Public download; GeoParquet format | `3_comparitive_analysis/MN/` | See MN data source |
-| **WRI Urban Land Use V1** | WRI; exported via Google Earth Engine (`01_WRI_DataDownload.js`) | `3_comparitive_analysis/WRI/` | See WRI data terms |
+| **Slum Severity Index (SSI)** | Li et al. (Nature Cities 2025); [Zenodo — DOI: 10.5281/zenodo.14998570](https://zenodo.org/records/14998570); exported via GEE | `3_comparitive_analysis/SSI/` | See original publication |
+| **Million Neighborhoods (MN)** | [millionneighborhoods.africa/download](https://www.millionneighborhoods.africa/download); GeoParquet format | `3_comparitive_analysis/MN/` | See MN data source |
+| **WRI Urban Land Use dataset** | WRI; GEE asset [projects/wri-datalab/urban_land_use/V1](https://code.earthengine.google.com/?asset=projects/wri-datalab/urban_land_use/V1); export script `01_WRI_DataDownload.js` | `3_comparitive_analysis/WRI/` | See WRI data terms |
 
 See `docs/data_sources/ucdb.md` and `docs/data_sources/ghspop.md` for
 citation details on the GHSL datasets.
@@ -69,7 +69,7 @@ citation details on the GHSL datasets.
 
 | Dataset | Access | Used in | Notes |
 |---|---|---|---|
-| **IDEABench v2** | Registration-gated; DANS DataStation — DOI: 10.17026/PT/X4NJII | `1_preprocessing/02_create_labeled_data.ipynb` | Raw DUA GPKGs (`data/private/`) are excluded from the repository and from Zenodo; the derived labeled CSVs (`LabelledData_For_RF/`) are included in the repo |
+| **IDEABench** | Registration-gated; [DANS DataStation — DOI: 10.17026/PT/X4NJII](https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII); paper DOI: [10.1016/j.rse.2026.115272](https://doi.org/10.1016/j.rse.2026.115272) | `1_preprocessing/02_create_labeled_data.ipynb` | Raw DUA GPKGs (`data/private/`) are excluded from the repository and from Zenodo; the derived labeled CSVs (`LabelledData_For_RF/`) are included in the repo |
 
 ---
 
