@@ -1,6 +1,6 @@
 # Zenodo Deposit Contents
 
-Zenodo DOI: 10.5281/zenodo.18788260
+Zenodo DOI: 10.5281/zenodo.20486977
 
 This file documents which files are stored on the project Zenodo record, which are
 tracked in the GitHub repository, and which must be obtained from third-party

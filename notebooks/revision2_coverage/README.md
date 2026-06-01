@@ -59,7 +59,7 @@ their official sources before running.
 | GHS Urban Centre Database 2019 V1.2 polygons (`GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2.gpkg`) | `ucdb/` | JRC/GHSL official download | `01`, `02`, `03`, `04` |
 | GHS-POP R2023A 2025 epoch raster, 100 m (`GHS_POP_E2025_GLOBE_R2023A_54009_100_V1_0.tif`) | `ghspop/` | JRC/GHSL official download | `01` |
 | Derived UCDB + population GeoPackage (`GHS_STAT_UCDB2015MT_GLOBE_R2019A_V1_2_with_GHSPOP2023.gpkg`) | `zenodo/` | Output of `01`; also on Zenodo | `02`, `03`, `04` |
-| CSMD RF prediction GeoPackages (`*_rf_preds.gpkg`, one per country) | `zenodo/predictions/` | Zenodo (DOI: 10.5281/zenodo.18788260) | `02`, `04` |
+| CSMD RF prediction GeoPackages (`*_rf_preds.gpkg`, one per country) | `zenodo/predictions/` | Zenodo (DOI: 10.5281/zenodo.20486977) | `02`, `04` |
 | CSMD city-level summary table (`city_deprivation_80pct.csv`) | tracked in repo at `2_modelling/02_application/summary_statistics/` | — | `04` |
 
 > **Important:** The derived file

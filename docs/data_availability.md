@@ -34,7 +34,7 @@ do not contain restricted information.
 ## 2. Zenodo — large processed outputs
 
 Large processed files that cannot be committed to GitHub are deposited on the
-project Zenodo record (DOI: 10.5281/zenodo.18788260).
+project Zenodo record (DOI: 10.5281/zenodo.20486977).
 
 | File | Description |
 |---|---|
