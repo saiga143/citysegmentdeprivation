@@ -6,7 +6,9 @@ This repository contains the analysis pipeline for the **City Segment Morphologi
 
 The CSMD model maps morphologically deprived city segments across cities in Africa, Asia, and Latin America and the Caribbean, using City Segments v1 (CIESIN), IDEABench v2 labels, and Random Forest modelling.
 
-> **Repository status:** Accepted in principle at *Nature Cities*. The repository is being prepared for final publication. Large processed outputs (RF model, prediction GeoPackages, derived datasets) are hosted on Zenodo; raw source datasets remain with their original providers.
+> **Repository status:** Paper published at *Nature Cities*. Large processed outputs (RF model, prediction GeoPackages, derived datasets) are hosted on Zenodo; raw source datasets remain with their original providers.
+
+Veeravalli, S.G., Blei, A.M., Friesen, J. et al. Hidden living-condition deficits in small and medium-sized cities. Nat Cities (2026). https://doi.org/10.1038/s44284-026-00498-w
 
 ![Figure1_Overview_CSMD](https://github.com/user-attachments/assets/bf8eaca2-dc30-4c30-b48c-c3b6b8799b10)
 
@@ -163,7 +165,7 @@ If you use or build upon this work, please cite the Zenodo deposit and, once pub
 
 **Data deposit:** Veeravalli, S. G. (2026). *A Global, Standardized City Segment Morphological Deprivation (CSMD) Model: Preprocessing, Training, Predictions, and Cross-Dataset Comparisons* (Version v4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20486977
 
-**Paper:** _Citation will be added after publication._ Currently accepted in principle at *Nature Cities*.
+**Paper:** _Veeravalli, S.G., Blei, A.M., Friesen, J. et al. Hidden living-condition deficits in small and medium-sized cities. Nat Cities (2026). https://doi.org/10.1038/s44284-026-00498-w
 
 ---
 
